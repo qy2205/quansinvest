@@ -39,16 +39,15 @@ class ContinuousForm(AbstractForm):
     def _is_continuous_threshold(self, period_df):
         # single_day_return_threshold is positive
         if self.single_day_return_threshold > 0:
-            if (period_df[DAILY_RETURN_COLUMN_NAME] > self.single_day_return_threshold).sum() == period_df.size:
+            if (period_df[DAILY_RETURN_COLUMN_NAME] > self.single_day_return_threshold).sum() == len(period_df):
                 return True
         # single_day_return_threshold is negative
         else:
-            if (period_df[DAILY_RETURN_COLUMN_NAME] < self.single_day_return_threshold).sum() == period_df.size:
+            if (period_df[DAILY_RETURN_COLUMN_NAME] < self.single_day_return_threshold).sum() == len(period_df):
                 return True
         return False
 
-    def is_form(self, df, cur_pos):
-        period_df = df.iloc[(cur_pos - self.n_lookback + 1): (cur_pos + 1)]
+    def is_form(self, period_df, cur_pos):
         if self.form_type == "continuous_cum":
             return self._is_continuous_cum(period_df)
         elif self.form_type == "continuous_threshold":

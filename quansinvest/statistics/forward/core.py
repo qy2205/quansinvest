@@ -35,16 +35,20 @@ class ForwardLookStatistics:
     def get_results(self, form: AbstractForm, forward_look_period: int) -> list[(pd.DataFrame, dict)]:
         # TODO: parallelize this for loop
         results = []
-        start_pos = form.look_back_period
-        end_pos = len(self.data) - forward_look_period
+        start_pos = form.look_back_period - 1
+        end_pos = len(self.data)
         for cur_pos in range(start_pos, end_pos):
-            if form.is_form(self.data, cur_pos):
+            period_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + 1)]
+            if form.is_form(period_df, cur_pos):
                 # period df + forward looking df
-                return_df = self.data.iloc[(cur_pos - start_pos): (cur_pos + forward_look_period + 1)]
+                return_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + forward_look_period + 1)]
 
                 # calculate statistics
-                statistics_dict = self._forward_statistics(cur_pos, forward_look_period)
+                if cur_pos + forward_look_period + 1 >= end_pos:
+                    statistics_dict = {}
+                else:
+                    statistics_dict = self._forward_statistics(cur_pos, forward_look_period)
 
                 # add to the collected_period_dfs
-                results.append((return_df, statistics_dict))
+                results.append((period_df, return_df, statistics_dict))
         return results
