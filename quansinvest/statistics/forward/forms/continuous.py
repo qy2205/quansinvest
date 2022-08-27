@@ -12,7 +12,7 @@ class ContinuousForm(AbstractForm):
         n_lookback: int,
         cum_return: float,
         single_day_return_threshold: float = None,
-        form_type: str = "continuous_rise_cum",
+        form_type: str = "continuous_cum",
     ):
         self.n_lookback = n_lookback
         self.cum_return = cum_return
