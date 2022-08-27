@@ -48,7 +48,7 @@ class ContinuousForm(AbstractForm):
         return False
 
     def is_form(self, df, cur_pos):
-        period_df = df.iloc[(cur_pos - self.n_lookback): (cur_pos + 1)]
+        period_df = df.iloc[(cur_pos - self.n_lookback + 1): (cur_pos + 1)]
         if self.form_type == "continuous_cum":
             return self._is_continuous_cum(period_df)
         elif self.form_type == "continuous_threshold":
