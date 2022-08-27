@@ -1,9 +1,9 @@
 import pandas as pd
+
 from quansinvest.data.constants import (
     MARKET_DATA_COLUMNS,
     DAILY_RETURN_COLUMN_NAME,
-    OPEN_PRICE_COLUMN_NAME,
-    CLOSE_PRICE_COLUMN_NAME,
+    ADJ_CLOSE_PRICE_COLUMN_NAME,
 )
 
 
@@ -50,7 +50,9 @@ def format_data(
         df = df[~df.index.duplicated(keep='last')]
 
     # add daily return
-    df[DAILY_RETURN_COLUMN_NAME] = (df[CLOSE_PRICE_COLUMN_NAME] - df[OPEN_PRICE_COLUMN_NAME])/df[OPEN_PRICE_COLUMN_NAME]
+    df[DAILY_RETURN_COLUMN_NAME] = (df[ADJ_CLOSE_PRICE_COLUMN_NAME] - df[ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)) / df[
+        ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)
+    df[DAILY_RETURN_COLUMN_NAME] = df[DAILY_RETURN_COLUMN_NAME].fillna(0)
 
     return df
 
