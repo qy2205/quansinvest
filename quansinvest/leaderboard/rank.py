@@ -49,4 +49,4 @@ def rank(
         res["end_date"] = max(data.index)
         results.append(res)
 
-    return results
+    return pd.DataFrame(results)
