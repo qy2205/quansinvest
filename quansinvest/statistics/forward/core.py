@@ -1,4 +1,4 @@
-from quansinvest.statistics.forward.forms.abstract import AbstractForm
+from quansinvest.statistics.forward.forms.base import AbstractForm
 import pandas as pd
 from quansinvest.data.constants import (
     CLOSE_PRICE_COLUMN_NAME,

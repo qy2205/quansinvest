@@ -1,5 +1,5 @@
 import pandas as pd
-from .abstract import AbstractIndicator
+from .base import AbstractIndicator
 from quansinvest.data.preprocess import format_data
 import yahoo_fin.stock_info as si
 

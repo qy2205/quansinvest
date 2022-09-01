@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.graph_objects as go
-from .indicators.abstract import AbstractIndicator
+from .indicators.base import AbstractIndicator
 from quansinvest.data.constants import ADJ_CLOSE_PRICE_COLUMN_NAME
 
 

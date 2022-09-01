@@ -24,15 +24,16 @@ def format_data(
     """
     if date_column != "index":
         df.index = df[date_column]
+        del df[date_column]
+
+    # change the data type to datetime
+    df.index = pd.to_datetime(df.index.values)
 
     # rename columns
     for i, col in enumerate(ohlcvt):
         if not col:
             ohlcvt[i] = MARKET_DATA_COLUMNS[i]
     df = df.rename(columns=dict(zip(ohlcvt, MARKET_DATA_COLUMNS)))
-
-    # change the data type to datetime
-    df.index = pd.to_datetime(df.index.values)
 
     # sort df based on date in ascending order
     # the first row is the earliest date and last row is the latest date

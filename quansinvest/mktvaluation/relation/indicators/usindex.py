@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from .abstract import AbstractIndicator
+from .base import AbstractIndicator
 from quansinvest.data.preprocess import format_data
 from quansinvest.data.constants import (
     OPEN_PRICE_COLUMN_NAME,

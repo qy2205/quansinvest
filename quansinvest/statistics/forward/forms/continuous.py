@@ -1,4 +1,4 @@
-from .abstract import AbstractForm
+from .base import AbstractForm
 from quansinvest.data.constants import (
     CLOSE_PRICE_COLUMN_NAME,
     OPEN_PRICE_COLUMN_NAME,
