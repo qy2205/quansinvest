@@ -44,8 +44,8 @@ class ForwardLookStatistics:
         for cur_pos in range(start_pos, end_pos):
             period_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + 1)]
             if form.is_form(period_df, cur_pos):
-                # period df + forward looking df
-                return_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + forward_look_period + 1)]
+                # forward-looking df
+                return_df = self.data.iloc[(cur_pos + 1): (cur_pos + forward_look_period + 1)]
 
                 # calculate statistics
                 if cur_pos + forward_look_period + 1 >= end_pos:
@@ -60,31 +60,38 @@ class ForwardLookStatistics:
     def get_sequential_results(
         self,
         forms: list[AbstractForm],
-        forward_look_periods: list[int],
+        forward_look_period: int,
     ) -> list[(list[pd.DataFrame], pd.DataFrame, dict)]:
         # TODO: parallelize this for loop
-        n_forms = len(forms)
         results = []
-        start_pos = forms[0].look_back_period - 1
+        n_forms = len(forms)
+        start_pos = sum([form.look_back_period for form in forms]) - 1
         end_pos = len(self.data)
         for cur_pos in range(start_pos, end_pos):
             period_dfs = []
-            for i, form in enumerate(forms):
+            # match sequential forms
+            not_match = False
+            for form in forms[::-1]:
                 period_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + 1)]
                 period_dfs.append(period_df)
-                if form.is_form(period_df, cur_pos) and (i + 1) < n_forms:
-                    cur_pos += forward_look_periods[i]
+                if form.is_form(period_df, cur_pos):
+                    cur_pos -= form.look_back_period
+                else:
+                    not_match = True
+                    break
+            if not_match:
+                continue
 
             # period df + forward looking df
             return_df = self.data.iloc[
-                (cur_pos - forms[-1].look_back_period + 1): (cur_pos + forward_look_periods[-1] + 1)
+                (cur_pos + 1): (cur_pos + forward_look_period + 1)
             ]
 
             # calculate statistics
-            if cur_pos + forward_look_periods[-1] + 1 >= end_pos:
+            if cur_pos + forward_look_period + 1 >= end_pos:
                 statistics_dict = {}
             else:
-                statistics_dict = self._forward_statistics(cur_pos, forward_look_periods[-1])
+                statistics_dict = self._forward_statistics(cur_pos, forward_look_period)
 
             # add to the collected_period_dfs
             results.append((period_dfs, return_df, statistics_dict))
