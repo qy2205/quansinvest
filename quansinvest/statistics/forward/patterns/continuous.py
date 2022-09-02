@@ -1,3 +1,11 @@
+"""
+1. continuous move up with cum return
+2. continuous move down with cum loss
+3. continuous move up with single day threshold
+4. continuous move down with single day threshold
+3. single day surge
+4. single day plummet
+"""
 from .base import AbstractPattern
 from quansinvest.data.constants import (
     CLOSE_PRICE_COLUMN_NAME,
@@ -12,12 +20,12 @@ class ContinuousPattern(AbstractPattern):
         n_lookback: int,
         cum_return: float,
         single_day_return_threshold: float = None,
-        form_type: str = "continuous_cum",
+        pattern_type: str = "continuous_cum",
     ):
         self.n_lookback = n_lookback
         self.cum_return = cum_return
         self.single_day_return_threshold = single_day_return_threshold
-        self.form_type = form_type
+        self.pattern_type = pattern_type
 
     @property
     def available_types(self):
@@ -48,9 +56,9 @@ class ContinuousPattern(AbstractPattern):
         return False
 
     def is_form(self, period_df, cur_pos):
-        if self.form_type == "continuous_cum":
+        if self.pattern_type == "continuous_cum":
             return self._is_continuous_cum(period_df)
-        elif self.form_type == "continuous_threshold":
+        elif self.pattern_type == "continuous_threshold":
             return self._is_continuous_threshold(period_df)
         else:
-            raise NotImplementedError(f"{self.form_type} is not valid, available types are {self.available_types}")
+            raise NotImplementedError(f"{self.pattern_type} is not valid, available types are {self.available_types}")
