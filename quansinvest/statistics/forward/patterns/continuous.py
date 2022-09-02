@@ -1,4 +1,4 @@
-from .base import AbstractForm
+from .base import AbstractPattern
 from quansinvest.data.constants import (
     CLOSE_PRICE_COLUMN_NAME,
     OPEN_PRICE_COLUMN_NAME,
@@ -6,7 +6,7 @@ from quansinvest.data.constants import (
 )
 
 
-class ContinuousForm(AbstractForm):
+class ContinuousPattern(AbstractPattern):
     def __init__(
         self,
         n_lookback: int,

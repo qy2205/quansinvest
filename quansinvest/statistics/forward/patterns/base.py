@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 import pandas as pd
 
 
-class AbstractForm(ABC):
+class AbstractPattern(ABC):
     @property
     @abstractmethod
     def look_back_period(self):

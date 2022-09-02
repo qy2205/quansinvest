@@ -5,7 +5,7 @@ setup(
     version='0.1',
     packages=['quansinvest', 'quansinvest.data', 'quansinvest.statistics', 'quansinvest.statistics.static',
               'quansinvest.statistics.static.indicators', 'quansinvest.statistics.forward',
-              'quansinvest.statistics.forward.forms', 'quansinvest.mktvaluation', 'quansinvest.mktvaluation.relation',
+              'quansinvest.statistics.forward.patterns', 'quansinvest.mktvaluation', 'quansinvest.mktvaluation.relation',
               'quansinvest.mktvaluation.relation.indicators'],
     url='',
     license='',

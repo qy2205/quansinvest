@@ -1,4 +1,4 @@
-from quansinvest.statistics.forward.forms.base import AbstractForm
+from quansinvest.statistics.forward.patterns.base import AbstractPattern
 import pandas as pd
 from quansinvest.data.constants import (
     CLOSE_PRICE_COLUMN_NAME,
@@ -34,7 +34,7 @@ class ForwardLookStatistics:
 
     def get_results(
         self,
-        form: AbstractForm,
+        form: AbstractPattern,
         forward_look_period: int
     ) -> list[(pd.DataFrame, pd.DataFrame, dict)]:
         # TODO: parallelize this for loop
@@ -59,7 +59,7 @@ class ForwardLookStatistics:
 
     def get_sequential_results(
         self,
-        forms: list[AbstractForm],
+        forms: list[AbstractPattern],
         forward_look_period: int,
     ) -> list[(list[pd.DataFrame], pd.DataFrame, dict)]:
         # TODO: parallelize this for loop
@@ -69,7 +69,7 @@ class ForwardLookStatistics:
         end_pos = len(self.data)
         for cur_pos in range(start_pos, end_pos):
             period_dfs = []
-            # match sequential forms
+            # match sequential patterns
             not_match = False
             for form in forms[::-1]:
                 period_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + 1)]
