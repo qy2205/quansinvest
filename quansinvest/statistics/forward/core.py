@@ -15,7 +15,7 @@ class ForwardLookStatistics:
         # open position using current date's close price
         open_price = self.data.iloc[cur_pos][CLOSE_PRICE_COLUMN_NAME]
         # close position using the close price after the forward period
-        close_price = self.data.iloc[cur_pos + forward_look_period + 1][CLOSE_PRICE_COLUMN_NAME]
+        close_price = self.data.iloc[cur_pos + forward_look_period][CLOSE_PRICE_COLUMN_NAME]
         # highest price
         high_price = self.data.iloc[(cur_pos + 1): (cur_pos + forward_look_period + 1)][HIGH_PRICE_COLUMN_NAME]
         # lowest price
