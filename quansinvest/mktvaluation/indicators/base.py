@@ -7,8 +7,8 @@ class AbstractIndicator(ABC):
     _symbols = []
 
     def __init__(self, name: str):
-        if name not in AbstractIndicator.available_names:
-            print(f"Only the following names available: {AbstractIndicator.available_names}")
+        if name not in self.available_names:
+            print(f"Only the following names available: {self.available_names}")
             raise NotImplementedError
 
         self.data = self._get_data(name)

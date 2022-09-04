@@ -13,6 +13,7 @@ def format_data(
     date_column: str = "index",
     fillna: bool = True,
     drop_duplicates: bool = True,
+    add_daily_return: bool = True,
 ):
     """The expected dataframe has columns = MARKET_DATA_COLUMNS with date index
     :param df: input dataframe
@@ -20,6 +21,7 @@ def format_data(
     :param date_column: date column name, if index, then df.index is date
     :param fillna: True or False
     :param drop_duplicates: True or False
+    :param add_daily_return: True or False
     :return: formatted data
     """
     if date_column != "index":
@@ -51,9 +53,10 @@ def format_data(
         df = df[~df.index.duplicated(keep='last')]
 
     # add daily return
-    df[DAILY_RETURN_COLUMN_NAME] = (df[ADJ_CLOSE_PRICE_COLUMN_NAME] - df[ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)) / df[
-        ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)
-    df[DAILY_RETURN_COLUMN_NAME] = df[DAILY_RETURN_COLUMN_NAME].fillna(0)
+    if add_daily_return:
+        df[DAILY_RETURN_COLUMN_NAME] = (df[ADJ_CLOSE_PRICE_COLUMN_NAME] - df[ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)) / df[
+            ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)
+        df[DAILY_RETURN_COLUMN_NAME] = df[DAILY_RETURN_COLUMN_NAME].fillna(0)
 
     return df
 
