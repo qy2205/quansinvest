@@ -45,6 +45,9 @@ def rank(
             )
             data = data[(data.index <= end_date) & (data.index >= start_date)]
 
+        if len(data) == 0:
+            continue
+
         res = evaluate_asset(
             data,
             freq=freq,
