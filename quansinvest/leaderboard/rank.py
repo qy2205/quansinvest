@@ -15,7 +15,7 @@ def rank(
     freq: str = "D",
     metrics: tuple = (AnnualReturn(), SharpeRatio()),
     timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
-    use_database: bool = True,
+    use_database: bool = False,
     database_engine=None,
 ):
     results = []
@@ -38,6 +38,12 @@ def rank(
             )
         else:
             data = alldata[alldata[TICKER_COLUMN_NAME] == asset_name]
+            data = format_data(
+                data,
+                fillna=False,
+                drop_duplicates=False,
+            )
+            data = data[(data.index <= end_date) & (data.index >= start_date)]
 
         res = evaluate_asset(
             data,
