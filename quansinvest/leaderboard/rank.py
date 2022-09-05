@@ -11,7 +11,7 @@ def rank(
     start_date: str,
     end_date: str,
     freq: str = "D",
-    metrics: tuple = (AnnualReturn, SharpeRatio),
+    metrics: tuple = (AnnualReturn(), SharpeRatio()),
     timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
     use_database: bool = True,
     database_engine=None,
