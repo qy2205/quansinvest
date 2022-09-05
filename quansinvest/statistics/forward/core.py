@@ -69,13 +69,15 @@ class ForwardLookStatistics:
         end_pos = len(self.data)
         for cur_pos in range(start_pos, end_pos):
             period_dfs = []
+
             # match sequential patterns
             not_match = False
+            cur_pos2 = cur_pos
             for form in forms[::-1]:
-                period_df = self.data.iloc[(cur_pos - form.look_back_period + 1): (cur_pos + 1)]
-                period_dfs.append(period_df)
-                if form.is_form(period_df, cur_pos):
-                    cur_pos -= form.look_back_period
+                period_df = self.data.iloc[(cur_pos2 - form.look_back_period + 1): (cur_pos2 + 1)]
+                period_dfs.insert(0, period_df)
+                if form.is_form(period_df, cur_pos2):
+                    cur_pos2 -= form.look_back_period
                 else:
                     not_match = True
                     break
