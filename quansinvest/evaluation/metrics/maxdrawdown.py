@@ -41,7 +41,7 @@ class MaxDrawDown(BaseMetrics):
             drawdown_series = (
                 (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME] -
                  filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()) /
-                filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME]
+                filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()
             )
             max_drawdown = drawdown_series.min()
 

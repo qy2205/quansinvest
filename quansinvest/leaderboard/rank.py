@@ -4,12 +4,14 @@ from quansinvest.evaluation.metrics.annual_return import AnnualReturn
 from quansinvest.evaluation.metrics.sharpe_ratio import SharpeRatio
 from quansinvest.data.preprocess import format_data
 from quansinvest.evaluation.asset_evaluation import evaluate_asset
+from quansinvest.data.constants import TICKER_COLUMN_NAME
 
 
 def rank(
     symbols,
     start_date: str,
     end_date: str,
+    alldata: pd.DataFrame = None,
     freq: str = "D",
     metrics: tuple = (AnnualReturn(), SharpeRatio()),
     timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
@@ -35,7 +37,7 @@ def rank(
                 drop_duplicates=True,
             )
         else:
-            raise NotImplementedError
+            data = alldata[alldata[TICKER_COLUMN_NAME] == asset_name]
 
         res = evaluate_asset(
             data,
