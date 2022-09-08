@@ -19,6 +19,7 @@ def rank(
     database_engine=None,
 ):
     results = []
+    # TODO: multiprocessing
     for asset_name in symbols:
         if use_database:
             # get ETF data
@@ -45,6 +46,7 @@ def rank(
             )
             data = data[(data.index <= end_date) & (data.index >= start_date)]
 
+        # TODO: handle ETF rename
         if len(data) == 0:
             continue
 
