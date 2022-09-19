@@ -15,6 +15,9 @@ from quansinvest.data.constants import (
 
 
 class ContinuousPattern(AbstractPattern):
+
+    available_types = ["continuous_cum", "continuous_threshold", "continuous_cum_threshold"]
+
     def __init__(
         self,
         n_lookback: int,
@@ -26,10 +29,6 @@ class ContinuousPattern(AbstractPattern):
         self.cum_return = cum_return
         self.single_day_return_threshold = single_day_return_threshold
         self.pattern_type = pattern_type
-
-    @property
-    def available_types(self):
-        return ["continuous_cum", "continuous_threshold"]
 
     @property
     def look_back_period(self):
@@ -60,5 +59,10 @@ class ContinuousPattern(AbstractPattern):
             return self._is_continuous_cum(period_df)
         elif self.pattern_type == "continuous_threshold":
             return self._is_continuous_threshold(period_df)
+        elif self.pattern_type == "continuous_cum_threshold":
+            if self._is_continuous_cum(period_df) and self._is_continuous_threshold(period_df):
+                return True
+            else:
+                return False
         else:
             raise NotImplementedError(f"{self.pattern_type} is not valid, available types are {self.available_types}")

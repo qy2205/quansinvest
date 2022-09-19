@@ -17,6 +17,9 @@ from quansinvest.data.constants import (
 
 
 class DojiPattern(AbstractPattern):
+
+    available_types = ["dragonfly", "gravestone", "long_legged"]
+
     def __init__(
         self,
         vol: float = 0.02,
@@ -28,10 +31,6 @@ class DojiPattern(AbstractPattern):
         self.short_diff = short_diff
         self.open_close_diff = open_close_diff
         self.pattern_type = pattern_type
-
-    @property
-    def available_types(self):
-        return ["dragonfly", "gravestone", "long_legged"]
 
     @property
     def look_back_period(self):
