@@ -11,8 +11,8 @@ def format_data(
     df: pd.DataFrame,
     ohlcvt: list = MARKET_DATA_COLUMNS,
     date_column: str = "index",
-    fillna: bool = True,
-    drop_duplicates: bool = True,
+    fillna: bool = False,
+    drop_duplicates: bool = False,
     add_daily_return: bool = True,
 ):
     """The expected dataframe has columns = MARKET_DATA_COLUMNS with date index
@@ -24,41 +24,43 @@ def format_data(
     :param add_daily_return: True or False
     :return: formatted data
     """
+    data = df.copy()
+
     if date_column != "index":
-        df.index = df[date_column]
-        del df[date_column]
+        data.index = data[date_column]
+        del data[date_column]
 
     # change the data type to datetime
-    df.index = pd.to_datetime(df.index.values)
+    data.index = pd.to_datetime(data.index.values)
 
     # rename columns
     for i, col in enumerate(ohlcvt):
         if not col:
             ohlcvt[i] = MARKET_DATA_COLUMNS[i]
-    df = df.rename(columns=dict(zip(ohlcvt, MARKET_DATA_COLUMNS)))
+    data = data.rename(columns=dict(zip(ohlcvt, MARKET_DATA_COLUMNS)))
 
     # sort df based on date in ascending order
     # the first row is the earliest date and last row is the latest date
-    df = df.sort_index(ascending=True)
+    data = data.sort_index(ascending=True)
 
     # dropna in date index
-    df = df[df.index.notnull()]
+    data = data[data.index.notnull()]
 
     # fillna
     if fillna:
-        df = df.fillna(method="ffill")
+        data = data.fillna(method="ffill")
 
     # drop duplicates
     if drop_duplicates:
-        df = df[~df.index.duplicated(keep='last')]
+        data = data[~data.index.duplicated(keep='last')]
 
     # add daily return
     if add_daily_return:
-        df[DAILY_RETURN_COLUMN_NAME] = (df[ADJ_CLOSE_PRICE_COLUMN_NAME] - df[ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)) / df[
+        data[DAILY_RETURN_COLUMN_NAME] = (data[ADJ_CLOSE_PRICE_COLUMN_NAME] - data[ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)) / data[
             ADJ_CLOSE_PRICE_COLUMN_NAME].shift(1)
-        df[DAILY_RETURN_COLUMN_NAME] = df[DAILY_RETURN_COLUMN_NAME].fillna(0)
+        data[DAILY_RETURN_COLUMN_NAME] = data[DAILY_RETURN_COLUMN_NAME].fillna(0)
 
-    return df
+    return data
 
 
 def resample_to_day_freq(df):

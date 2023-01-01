@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+from pandarallel import pandarallel
 
 from quansinvest.evaluation.metrics.annual_return import AnnualReturn
 from quansinvest.evaluation.metrics.sharpe_ratio import SharpeRatio
@@ -61,5 +63,50 @@ def rank(
         res["launch_date"] = min(data.index)
         res["end_date"] = max(data.index)
         results.append(res)
+
+    return pd.DataFrame(results)
+
+
+def fastrank(
+    symbols,
+    start_date: str,
+    end_date: str,
+    alldata: pd.DataFrame,
+    freq: str = "D",
+    metrics: tuple = (AnnualReturn(), SharpeRatio()),
+    timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
+):
+    # empty results
+    empty_res = {}
+    for period in timeframe:
+        for metric in metrics:
+            empty_res[f"{metric.name}_{period}"] = np.nan
+
+    def evaluate(df):
+        df = df[(df.index <= end_date) & (df.index >= start_date)]
+        df = format_data(
+            df,
+            fillna=False,
+            drop_duplicates=False,
+        )
+
+        if len(df) == 0:
+            return empty_res
+        else:
+            result = evaluate_asset(
+                df,
+                freq=freq,
+                metrics=metrics,
+                timeframe=timeframe,
+            )
+            result["asset"] = df[TICKER_COLUMN_NAME].iloc[0]
+            result["launch_date"] = min(df.index)
+            result["end_date"] = max(df.index)
+            return result
+
+    # multiprocessing
+    alldata = alldata[alldata[TICKER_COLUMN_NAME].isin(symbols)]
+    pandarallel.initialize(progress_bar=True)
+    results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df)).tolist()
 
     return pd.DataFrame(results)
