@@ -81,6 +81,9 @@ def fastrank(
     for period in timeframe:
         for metric in metrics:
             empty_res[f"{metric.name}_{period}"] = np.nan
+    empty_res["asset"] = np.nan
+    empty_res["launch_date"] = np.nan
+    empty_res["end_date"] = np.nan
 
     def evaluate(df):
         df = df[(df.index <= end_date) & (df.index >= start_date)]
@@ -106,7 +109,10 @@ def fastrank(
 
     # multiprocessing
     alldata = alldata[alldata[TICKER_COLUMN_NAME].isin(symbols)]
-    pandarallel.initialize(progress_bar=True)
-    results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df)).tolist()
+    if len(alldata) > 0:
+        pandarallel.initialize(progress_bar=True)
+        results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df)).tolist()
+    else:
+        results = [evaluate(alldata)]
 
     return pd.DataFrame(results)

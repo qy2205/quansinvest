@@ -1,4 +1,4 @@
-from quansinvest.data.financial import scrapy_financial
+from quansinvest.data.financial import scrapy_income
 import yahoo_fin.stock_info as si
 import pandas as pd
 import datetime as dt
@@ -13,7 +13,7 @@ def pe_valuation(symbol, est_eps_chg_window=3, forward_look_window=3, return_for
     :param return_forward_pe: if return current forward PE df
     :return:
     """
-    df = scrapy_financial(symbol)
+    df = scrapy_income(symbol)
     eps_df = df[df["Quarter Ended"] == "EPS (Diluted)"].T.iloc[1:-1]
     eps_df.columns = [symbol]
     eps_df.index = pd.to_datetime(eps_df.index)

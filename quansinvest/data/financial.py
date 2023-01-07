@@ -45,7 +45,7 @@ def request_and_retry(url, headers):
     return result
 
 
-def scrapy_financial(symbol):
+def scrapy_income(symbol):
     symbol = clean_symbol(symbol)
     url = f'https://stockanalysis.com/stocks/{symbol}/financials/?period=quarterly'
     headers = random.choice(headers_ls)
@@ -121,7 +121,7 @@ def process_table(df):
 
 
 if __name__ == "__main__":
-    test_income = scrapy_financial("AAPL")
+    test_income = scrapy_income("AAPL")
     test_income = process_table(test_income)
 
     test_bs = scrapy_balance_sheet("AAPL")

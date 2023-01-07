@@ -3,10 +3,17 @@ from setuptools import setup
 setup(
     name='quansinvest',
     version='0.1',
-    packages=['quansinvest', 'quansinvest.data', 'quansinvest.statistics', 'quansinvest.statistics.static',
-              'quansinvest.statistics.static.indicators', 'quansinvest.statistics.forward',
-              'quansinvest.statistics.forward.patterns', 'quansinvest.mktvaluation', 'quansinvest.mktvaluation.relation',
-              'quansinvest.mktvaluation.relation.indicators'],
+    packages=[
+        'quansinvest',
+        'quansinvest.data',
+        'quansinvest.evaluation', 'quansinvest.evaluation.metrics',
+        'quansinvest.leaderboard',
+        'quansinvest.mktvaluation', 'quansinvest.mktvaluation.relation', 'quansinvest.mktvaluation.indicators',
+        'quansinvest.statistics', 'quansinvest.statistics.static', 'quansinvest.statistics.static.indicators',
+        'quansinvest.statistics.forward', 'quansinvest.statistics.forward.patterns',
+        'quansinvest.stockvaluation',
+        'quansinvest.utils'
+    ],
     url='',
     license='',
     author='quany',
