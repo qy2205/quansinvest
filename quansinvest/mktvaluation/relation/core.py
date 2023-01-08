@@ -69,8 +69,12 @@ class IndicatorRelation:
             df1_in_view = df1.loc[fig.layout.xaxis.range[0]: fig.layout.xaxis.range[1]]
             df2_in_view = df2.loc[fig.layout.xaxis.range[0]: fig.layout.xaxis.range[1]]
             fig.layout.yaxis.range = [
-                min(df1_in_view.name1.min(), df2_in_view.name2.min()),
-                max(df1_in_view.name1.max(), df2_in_view.name2.max()),
+                df1_in_view[name1].min(),
+                df1_in_view[name1].max(),
+            ]
+            fig.layout.yaxis2.range = [
+                df2_in_view[name2].min(),
+                df2_in_view[name2].max(),
             ]
 
         fig.layout.on_change(zoom, "xaxis.range")
