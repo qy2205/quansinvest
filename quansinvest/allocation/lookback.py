@@ -30,13 +30,23 @@ def get_best_assets(data, periods):
         )
 
         # format rankdf
-        years = max(1, ((pd.to_datetime(end_date) - pd.to_datetime(start_date)).days // 365) + 1)
+        period_length = (pd.to_datetime(end_date) - pd.to_datetime(start_date)).days
+        years = max(1, (period_length // 365) + 1)
         if years > 5:
             years = (years//5 + 1) * 5
         topdf = rank_df[rank_df["PeriodReturn"] > 0].sort_values(
             by=f"SharpeRatio_{years}Y", ascending=False
         )[["asset", "launch_date", f"AnnualReturn_{years}Y", f"SharpeRatio_{years}Y", "MaxDrawDown", "PeriodReturn"]]
         topdf.columns = ["asset", "launch_date", "AnnualReturn", "SharpeRatio", "MaxDrawDown", "PeriodReturn"]
+
+        # add period length
+        topdf["PeriodLen"] = period_length
+        rank_df["PeriodLen"] = period_length
+
+        # add period
+        topdf["Period"] = [(start_date, end_date)]*len(topdf)
+        rank_df["Period"] = [(start_date, end_date)]*len(rank_df)
+
         topdf_ls.append(topdf)
         rank_dfs.append(rank_df)
 
@@ -48,8 +58,10 @@ def get_best_assets(data, periods):
             "asset": "count",
             "AnnualReturn": ["mean", "max", "min"],
             "SharpeRatio": ["mean", "max", "min"],
-            "MaxDrawDown": ["mean", "max", "min"],
-            "PeriodReturn": ["mean", "max", "min"],
+            "MaxDrawDown": ["mean", "max", "min", lambda x: list(x)],
+            "PeriodReturn": ["mean", "max", "min", lambda x: list(x)],
+            "PeriodLen": "mean",
+            "Period": lambda x: list(x),
         }
     ).sort_values(by=[('asset', 'count'), ("SharpeRatio", "mean")], ascending=[False, False])
     best_assets = best_assets.join(freq_df, how="left")
