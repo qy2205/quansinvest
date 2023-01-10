@@ -15,3 +15,34 @@ MARKET_DATA_COLUMNS = [
     TICKER_COLUMN_NAME,
 ]
 DAILY_RETURN_COLUMN_NAME = "daily_return"
+
+ASSET_LIST = [
+    # gold; silver; gold miners; junior gold miners
+    "GLD", "SLV", "GDX", "GDXJ",
+    # bond 7-10 years; 20 years+; invest grade corporate bond; 1-3 years; 0-3 month
+    "IEF", "TLT", "LQD", "SHY", "BIL",
+    # tech; software; semiconductor; technology;
+    "QQQ", "IGV", "SOXX", "XLK",
+    # aerospace & defense
+    "PPA",
+    # preferred stocks
+    "PFF",
+    # energy; energy; oil & gas exploration; oil service;
+    "XLE", "IYE", "XOP", "OIH",
+    # finance; bank; regional bank
+    "XLF", "KBE", "KRE",
+    # utilities; retail;
+    "XLU", "XRT",
+    # industrial; materials; metals and mining; copper;
+    "XLI", "XLB", "XME", "CPER",
+    # healthcare; medical device; insurance; bio tech;
+    "XLV", "IHI", "KIE", "IBB",
+    # non-essential products; essential products;
+    "XLY", "XLP",
+    # real estate; home builder; home construction; real estate
+    "IYR", "XHB", "ITB", "VNQ",
+    # telecommunication; telecommunication, transportation
+    "XTL", "IYZ", "IYT",
+    # natural gas; natural gas 12 month; oil; commodity; 
+    "UNG", "UNL", "USO", "DBC",
+]

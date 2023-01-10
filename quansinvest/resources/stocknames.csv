@@ -1,0 +1,3493 @@
+Rank,Name,Symbol,marketcap,price (USD),country
+1,Apple,AAPL,2.05E+12,128.97,United States
+2,Microsoft,MSFT,1.78E+12,238.69,United States
+3,Alphabet (Google),GOOG,1.14E+12,88.06,United States
+4,Amazon,AMZN,8.47E+11,83.06,United States
+5,Berkshire Hathaway,BRK-B,6.78E+11,307.29,United States
+6,UnitedHealth,UNH,4.94E+11,528.7,United States
+7,Johnson & Johnson,JNJ,4.60E+11,176.12,United States
+8,Exxon Mobil,XOM,4.53E+11,110.06,United States
+9,Visa,V,4.39E+11,207.31,United States
+10,JPMorgan Chase,JPM,3.92E+11,133.57,United States
+11,Tesla,TSLA,3.87E+11,122.42,United States
+12,Walmart,WMT,3.81E+11,141.32,United States
+13,NVIDIA,NVDA,3.61E+11,144.94,United States
+14,Procter & Gamble,PG,3.58E+11,151,United States
+15,Eli Lilly,LLY,3.47E+11,364.88,United States
+16,Chevron,CVX,3.46E+11,179.17,United States
+17,Mastercard,MA,3.33E+11,346.2,United States
+18,Home Depot,HD,3.21E+11,314.85,United States
+19,Meta Platforms (Facebook),META,3.18E+11,119.52,United States
+20,Pfizer,PFE,2.86E+11,50.99,United States
+21,AbbVie,ABBV,2.85E+11,161.23,United States
+22,Merck,MRK,2.81E+11,110.85,United States
+23,Coca-Cola,KO,2.74E+11,63.4,United States
+24,Bank of America,BAC,2.65E+11,33.01,United States
+25,Pepsico,PEP,2.48E+11,179.95,United States
+26,Broadcom,AVGO,2.32E+11,555.62,United States
+27,Oracle,ORCL,2.20E+11,81.6,United States
+28,Thermo Fisher Scientific,TMO,2.15E+11,548.88,United States
+29,Costco,COST,2.02E+11,454.16,United States
+30,Cisco,CSCO,1.94E+11,47.32,United States
+31,Danaher,DHR,1.92E+11,264.19,United States
+32,McDonald,MCD,1.92E+11,262.24,United States
+33,Abbott Laboratories,ABT,1.91E+11,109.45,United States
+34,Nike,NKE,1.83E+11,116.74,United States
+35,T-Mobile US,TMUS,1.73E+11,139.45,United States
+36,Nextera Energy,NEE,1.65E+11,82.94,United States
+37,Verizon,VZ,1.65E+11,39.24,United States
+38,Wells Fargo,WFC,1.57E+11,41.17,United States
+39,Walt Disney,DIS,1.57E+11,85.93,United States
+40,Philip Morris,PM,1.56E+11,100.84,United States
+41,Adobe,ADBE,1.56E+11,334.52,United States
+42,Charles Schwab,SCHW,1.55E+11,82.96,United States
+43,Bristol-Myers Squibb,BMY,1.52E+11,71.57,United States
+44,Comcast,CMCSA,1.50E+11,34.68,United States
+45,United Parcel Service,UPS,1.50E+11,172.86,United States
+46,Texas Instruments,TXN,1.49E+11,164.01,United States
+47,Raytheon Technologies,RTX,1.48E+11,100.43,United States
+48,ConocoPhillips,COP,1.47E+11,117.95,United States
+49,Honeywell,HON,1.43E+11,213.12,United States
+50,Morgan Stanley,MS,1.43E+11,84.58,United States
+51,Amgen,AMGN,1.39E+11,261.15,United States
+52,Salesforce,CRM,1.32E+11,131.78,United States
+53,Netflix,NFLX,1.30E+11,292.95,United States
+54,AT&T,T,1.30E+11,18.29,United States
+55,Deere & Company,DE,1.27E+11,427.22,United States
+56,Lockheed Martin,LMT,1.27E+11,483.78,United States
+57,Union Pacific Corporation,UNP,1.27E+11,205.83,United States
+58,IBM,IBM,1.25E+11,139.93,United States
+59,Caterpillar,CAT,1.24E+11,238.87,United States
+60,Elevance Health,ELV,1.23E+11,511.56,United States
+61,QUALCOMM,QCOM,1.22E+11,109.14,United States
+62,CVS Health,CVS,1.22E+11,92.91,United States
+63,Lowe's Companies,LOW,1.20E+11,198.32,United States
+64,Goldman Sachs,GS,1.16E+11,341.96,United States
+65,Starbucks,SBUX,1.13E+11,98.7,United States
+66,Boeing,BA,1.13E+11,189.2,United States
+67,American Express,AXP,1.10E+11,146.98,United States
+68,S&P Global,SPGI,1.09E+11,333.83,United States
+69,Intuit,INTU,1.09E+11,387.02,United States
+70,Intel,INTC,1.08E+11,26.23,United States
+71,Gilead Sciences,GILD,1.07E+11,85.38,United States
+72,BlackRock,BLK,1.05E+11,702.28,United States
+73,AMD,AMD,1.04E+11,64.21,United States
+74,Prologis,PLD,1.03E+11,111.79,United States
+75,Cigna,CI,1.01E+11,330.04,United States
+76,Automatic Data Processing,ADP,98359869440,237.11,United States
+77,American Tower,AMT,97930911744,210.33,United States
+78,Intuitive Surgical,ISRG,93332504576,264.11,United States
+79,Stryker Corporation,SYK,92037963776,243.21,United States
+80,TJX Companies,TJX,91816034304,79.46,United States
+81,General Electric,GE,91303501824,83.56,United States
+82,Mondelez,MDLZ,90663510016,66.39,United States
+83,Estee Lauder,EL,88164679680,247.09,United States
+84,Citigroup,C,87071096832,44.96,United States
+85,Northrop Grumman,NOC,83663486976,543.58,United States
+86,Analog Devices,ADI,83066183680,163.1,United States
+87,Marsh & McLennan Companies,MMC,81767194624,164.85,United States
+88,Altria Group,MO,81707180032,45.59,United States
+89,Applied Materials,AMAT,81628340224,96.7,United States
+90,PayPal,PYPL,80679919616,70.77,United States
+91,Duke Energy,DUK,78854447104,102.4,United States
+92,Regeneron Pharmaceuticals,REGN,78190542848,717.99,United States
+93,ServiceNow,NOW,78080876544,386.54,United States
+94,Booking Holdings (Booking.com),BKNG,77882712064,2007.84,United States
+95,Southern Company,SO,77409878016,71.11,United States
+96,EOG Resources,EOG,75891793920,129.2,United States
+97,Schlumberger,SLB,75716411392,53.4,United States
+98,Progressive,PGR,75570298880,129.18,United States
+99,Vertex Pharmaceuticals,VRTX,73606144000,286.75,United States
+100,Becton Dickinson,BDX,72120811520,253.71,United States
+101,Moderna,MRNA,68378275840,177.99,United States
+102,Target,TGT,68107472896,147.96,United States
+103,Air Products and Chemicals,APD,68014907392,306.39,United States
+104,Zoetis,ZTS,67981262848,145.86,United States
+105,HCA Healthcare,HCA,67560878080,238.97,United States
+106,General Dynamics,GD,67528073216,245.96,United States
+107,Illinois Tool Works,ITW,67315200000,219.14,United States
+108,U.S. Bancorp,USB,66504228864,43.46,United States
+109,Boston Scientific,BSX,66194206720,46.22,United States
+110,3M,MMM,65837215744,119.11,United States
+111,Colgate-Palmolive,CL,65572655104,78.51,United States
+112,CSX Corporation,CSX,64859348992,30.85,United States
+113,Humana,HUM,64644493312,510.62,United States
+114,Waste Management,WM,64157556736,156.3,United States
+115,Fiserv,FISV,63769505792,100.42,United States
+116,PNC Financial Services,PNC,63571140608,157.62,United States
+117,Sherwin-Williams,SHW,61197918208,236.16,United States
+118,Equinix,EQIX,60368150528,652.36,United States
+119,CME Group,CME,60326383616,167.7,United States
+120,Activision Blizzard,ATVI,59796463616,76.41,United States
+121,Crown Castle,CCI,58361835520,134.77,United States
+122,Intercontinental Exchange,ICE,57047711744,102.14,United States
+123,Occidental Petroleum,OXY,57038897152,62.76,United States
+124,Lam Research,LRCX,56985968640,417.85,United States
+125,Truist Financial,TFC,56952532992,42.93,United States
+126,Norfolk Southern,NSC,56741765120,245.09,United States
+127,MetLife,MET,56589709312,72.13,United States
+128,Emerson,EMR,55673987072,95.61,United States
+129,Dollar General,DG,54932377600,245.7,United States
+130,Marathon Petroleum,MPC,54486528000,116.26,United States
+131,Micron Technology,MU,54220734464,49.69,United States
+132,Pioneer Natural Resources,PXD,54091792384,227.66,United States
+133,Freeport-McMoRan,FCX,53978648576,37.77,United States
+134,Airbnb,ABNB,53638008832,84.71,United States
+135,Blackstone Group,BX,53270965000,73.78,United States
+136,McKesson,MCK,53108563968,374.55,United States
+137,Monster Beverage,MNST,52912144384,101.34,United States
+138,KLA,KLAC,52896243712,373.25,United States
+139,O'Reilly Automotive,ORLY,52787777536,843.58,United States
+140,Charter Communications,CHTR,52500381696,337.25,United States
+141,Enterprise Products,EPD,52191920128,23.99,United States
+142,Vmware,VMW,51944636416,122.1,United States
+143,KKR & Co.,KKR,51782922240,46.14,United States
+144,Archer Daniels Midland (ADM),ADM,50785927168,92.45,United States
+145,Moody's,MCO,50607165440,276.24,United States
+146,Dominion Energy,D,50563129344,60.68,United States
+147,Keurig Dr Pepper,KDP,50278428672,35.5,United States
+148,Kraft Heinz,KHC,49683165184,40.56,United States
+149,General Mills,GIS,49288531968,83.6,United States
+150,Phillips 66,PSX,49149001728,103.99,United States
+151,Public Storage,PSA,48920477696,277.76,United States
+152,Valero Energy,VLO,48818778112,126.63,United States
+153,Uber,UBER,48803209216,24.47,United States
+154,American Electric Power,AEP,48524177408,94.43,United States
+155,Synopsys,SNPS,48471650304,318.02,United States
+156,Sempra Energy,SRE,48331837440,153.76,United States
+157,General Motors,GM,47543726080,33.47,United States
+158,The Hershey Company,HSY,47341359104,230.84,United States
+159,American International Group,AIG,46926614528,63.16,United States
+160,Marriott International,MAR,46740295680,147.66,United States
+161,Southern Copper,SCCO,46664196096,60.36,United States
+162,Ford,F,46517067776,11.57,United States
+163,AutoZone,AZO,46351654912,2470.02,United States
+164,Centene,CNC,46235127808,81.65,United States
+165,Edwards Lifesciences,EW,45889110016,74.22,United States
+166,Snowflake,SNOW,45882671104,142.67,United States
+167,Kimberly-Clark,KMB,45676167168,135.34,United States
+168,Cintas,CTAS,45600563200,448.82,United States
+169,Roper Technologies,ROP,45590695936,429.89,United States
+170,Amphenol,APH,45120102400,75.82,United States
+171,Aflac,AFL,44588486656,71.71,United States
+172,DexCom,DXCM,44309325000,112.89,United States
+173,Agilent Technologies,A,44114726912,149,United States
+174,Cadence Design Systems,CDNS,43887816704,159.99,United States
+175,The Travelers Companies,TRV,43816046592,186.97,United States
+176,Hess,HES,43665661952,141.63,United States
+177,FedEx,FDX,43538481152,172.5,United States
+178,Simon Property Group,SPG,43497193472,116.22,United States
+179,Motorola Solutions,MSI,42837413888,256.2,United States
+180,Workday,WDAY,42782789632,166.47,United States
+181,Exelon Corporation,EXC,42750783488,43.02,United States
+182,Constellation Brands,STZ,42556997632,230.68,United States
+183,Palo Alto Networks,PANW,41991155712,138.88,United States
+184,Corteva,CTVA,41883521024,58.62,United States
+185,Paychex,PAYX,41356382208,114.73,United States
+186,Ecolab,ECL,41258844160,144.86,United States
+187,Republic Services,RSG,40659845120,128.67,United States
+188,Kinder Morgan,KMI,40560467968,18.05,United States
+189,Devon Energy,DVN,40137179136,61.4,United States
+190,Autodesk,ADSK,40065777664,185.69,United States
+191,Fidelity National Information Services,FIS,39993745408,67.4,United States
+192,Williams Companies,WMB,39960453120,32.8,United States
+193,Ross Stores,ROST,39885049856,115.82,United States
+194,Arthur J. Gallagher & Co.,AJG,39583100928,187.74,United States
+195,Realty Income,O,39466799104,62.93,United States
+196,Biogen,BIIB,39438991360,273.88,United States
+197,L3Harris Technologies,LHX,39413424128,207,United States
+198,Sysco,SYY,38481428480,75.94,United States
+199,Microchip Technology,MCHP,38390632448,69.8,United States
+200,Xcel Energy,XEL,38181564416,69.77,United States
+201,Chipotle Mexican Grill,CMG,38116511744,1375,United States
+202,Fortinet,FTNT,38046191616,48.7,United States
+203,Apollo Global Management,APO,38009999360,63.35,United States
+204,IQVIA,IQV,37874245632,203.91,United States
+205,Newmont,NEM,37313671168,47.01,United States
+206,Block,SQ,37211975680,62.22,United States
+207,Arista Networks,ANET,37180227584,120.99,United States
+208,Parker-Hannifin,PH,37131165696,289.17,United States
+209,MSCI,MSCI,37060624384,463.5,United States
+210,Cheniere Energy,LNG,37047705600,148.99,United States
+211,Bank of New York Mellon,BK,36647415808,45.34,United States
+212,Energy Transfer Partners,ET,36521275392,11.83,United States
+213,Las Vegas Sands,LVS,36458360832,47.71,United States
+214,Prudential Financial,PRU,36420960256,98.97,United States
+215,Yum! Brands,YUM,36053245952,127.99,United States
+216,Allstate,ALL,35848433664,135.17,United States
+217,Enphase Energy,ENPH,35806457856,263.43,United States
+218,Halliburton,HAL,35563659264,39.17,United States
+219,Capital One,COF,35368230912,92.66,United States
+220,Dow,DOW,35332218880,50.21,United States
+221,Pacific Gas and Electric,PCG,34493874176,16.25,United States
+222,Carrier,CARR,34341099520,41.07,United States
+223,Paccar,PCAR,34296881152,98.62,United States
+224,TransDigm,TDG,33992282112,625.15,United States
+225,Hilton Worldwide,HLT,33988204544,125.67,United States
+226,Waste Connections,WCN,33983969280,132.13,United States
+227,Cummins,CMI,33946816512,240.72,United States
+228,Dupont De Nemours,DD,33890945024,68.22,United States
+229,Nucor,NUE,33643180032,131.14,United States
+230,Consolidated Edison,ED,33630365696,94.77,United States
+231,Electronic Arts,EA,33532676096,121.46,United States
+232,IDEXX Laboratories,IDXX,33523494912,404.79,United States
+233,AmerisourceBergen,ABC,33312559104,164.85,United States
+234,Ameriprise Financial,AMP,32894558208,309.11,United States
+235,MPLX,MPLX,32874770432,32.77,United States
+236,Otis Worldwide,OTIS,32460378112,77.92,United States
+237,Walgreens Boots Alliance,WBA,31988281344,37.1,United States
+238,Mettler-Toledo,MTD,31922395136,1431.87,United States
+239,Ametek,AME,31909277696,138.95,United States
+240,Kroger,KR,31768182784,44.38,United States
+241,Illumina,ILMN,31624896512,201.05,United States
+242,CoStar Group,CSGP,31260225536,76.87,United States
+243,Marvell Technology Group,MRVL,31252717568,36.63,United States
+244,Brown Forman,BF-A,31240644608,65.13,United States
+245,Dollar Tree,DLTR,31178098688,140.96,United States
+246,Old Dominion Freight Line,ODFL,31170840576,282.14,United States
+247,VICI Properties,VICI,30992492544,32.18,United States
+248,Welltower,WELL,30728040448,65.03,United States
+249,D. R. Horton,DHI,30635485184,88.92,United States
+250,Keysight,KEYS,30378612736,169.91,United States
+251,PSEG,PEG,30367344640,60.86,United States
+252,ResMed,RMD,30315595776,206.96,United States
+253,SBA Communications,SBAC,30121433088,278.99,United States
+254,Interactive Brokers,IBKR,30080454656,72.17,United States
+255,Nasdaq,NDAQ,30002468864,61.07,United States
+256,Baker Hughes,BKR,29607772160,29.36,United States
+257,Rockwell Automation,ROK,29468493824,256.82,United States
+258,WEC Energy Group,WEC,29434818560,93.32,United States
+259,PPG Industries,PPG,29383075840,125.02,United States
+260,Oneok,OKE,29284423680,65.52,United States
+261,Digital Realty,DLR,29229473792,99.48,United States
+262,Cognizant Technology Solutions,CTSH,29195851776,56.81,United States
+263,GlobalFoundries,GFS,29117528064,53.42,United States
+264,Eversource Energy,ES,29015715840,83.31,United States
+265,Alnylam Pharmaceuticals,ALNY,28938645504,235.22,United States
+266,Copart,CPRT,28868542464,60.61,United States
+267,Dell,DELL,28637960192,39.99,United States
+268,State Street Corporation,STT,28248877056,76.99,United States
+269,Constellation Energy,CEG,27989467136,85.59,United States
+270,W. W. Grainger,GWW,27914911744,552.45,United States
+271,Cheniere Energy,CQP,27732613120,57.3,United States
+272,American Water Works,AWK,27565162496,151.6,United States
+273,Verisk Analytics,VRSK,27424200704,175.36,United States
+274,Fastenal,FAST,26956949504,47.07,United States
+275,LyondellBasell,LYB,26909566976,82.64,United States
+276,Corning,GLW,26846042112,31.74,United States
+277,ON Semiconductor,ON,26780018688,61.93,United States
+278,Global Payments,GPN,26742659072,98.9,United States
+279,Zimmer Biomet,ZBH,26642808832,126.96,United States
+280,International Flavors & Fragrances,IFF,26584887296,104.27,United States
+281,Discover Financial Services,DFS,26579423232,97.28,United States
+282,Gartner,IT,26413115392,334.24,United States
+283,HP,HPQ,26184011776,26.66,United States
+284,Lennar,LEN,25712486400,90.28,United States
+285,Baxter,BAX,25611868160,50.81,United States
+286,Albemarle,ALB,25257015296,215.59,United States
+287,Veeva Systems,VEEV,24987144192,160.5,United States
+288,M&T Bank,MTB,24963289088,144.62,United States
+289,Diamondback Energy,FANG,24879243264,136.76,United States
+290,Hormel Foods,HRL,24802185216,45.39,United States
+291,Tractor Supply,TSCO,24801153024,224.52,United States
+292,CrowdStrike,CRWD,24557459456,104.77,United States
+293,United Rentals,URI,24526891008,353.88,United States
+294,Genuine Parts Company,GPC,24374267904,172.67,United States
+295,T. Rowe Price,TROW,24209080320,108.34,United States
+296,Kellogg's,K,24191363072,70.88,United States
+297,CBRE Group,CBRE,24105328640,76.3,United States
+298,Edison International,EIX,24084856832,63.07,United States
+299,The Hartford,HIG,24083275776,75.71,United States
+300,CDW Corporation,CDW,24041381888,177.57,United States
+301,FirstEnergy,FE,23853537280,41.72,United States
+302,ULTA Beauty,ULTA,23809671168,467.95,United States
+303,Equifax,EFX,23733127168,193.83,United States
+304,Alexandria Real Estate Equities,ARE,23718514688,144.55,United States
+305,Entergy,ETR,23586670592,111.8,United States
+306,Seagen,SGEN,23502403584,126.59,United States
+307,Datadog,DDOG,23251742720,73.22,United States
+308,Vulcan Materials,VMC,23072655360,173.6,United States
+309,Equity Residential,EQR,22994391040,58.67,United States
+310,Raymond James,RJF,22895712256,106.46,United States
+311,Ameren,AEE,22863685632,88.44,United States
+312,DTE Energy,DTE,22644563968,116.88,United States
+313,Fortive,FTV,22640175104,63.99,United States
+314,Weyerhaeuser,WY,22607370240,30.72,United States
+315,Warner Bros. Discovery,WBD,22549738800,9.37,United States
+316,Sirius XM,SIRI,22539884544,5.8,United States
+317,AvalonBay Communities,AVB,22404501504,160.15,United States
+318,eBay,EBAY,22384685056,41.25,United States
+319,Fifth Third Bank,FITB,22346117120,32.71,United States
+320,First Republic Bank,FRC,22172631040,121.21,United States
+321,Tyson Foods,TSN,22144061440,61.89,United States
+322,McCormick & Company,MKC,22078492672,82.36,United States
+323,The Trade Desk,TTD,21952120832,44.85,United States
+324,VeriSign,VRSN,21648465920,204.2,United States
+325,PPL,PPL,21397401600,29.06,United States
+326,Delta Air Lines,DAL,21079054336,32.88,United States
+327,UDR Apartments,UDR,20983013376,38.45,United States
+328,Ansys,ANSS,20924350464,240.2,United States
+329,LabCorp,LH,20842264576,235.24,United States
+330,Martin Marietta,MLM,20733947904,333.93,United States
+331,Extra Space Storage,EXR,20536881152,146.15,United States
+332,Principal,PFG,20484861952,83.72,United States
+333,Hewlett Packard Enterprise,HPE,20271982592,15.82,United States
+334,Quanta Services,PWR,20269791232,141.85,United States
+335,Huntington Bancshares,HBAN,20263143424,14.05,United States
+336,Insulet,PODD,20235268096,291.37,United States
+337,Waters Corporation,WAT,20168286208,339.49,United States
+338,Regions Financial,RF,20071995392,21.48,United States
+339,Cardinal Health,CAH,20054560768,76.51,United States
+340,Ares Management,ARES,20028995584,67.81,United States
+341,Southwest Airlines,LUV,19884754944,33.49,United States
+342,Xylem,XYL,19843344384,110.11,United States
+343,Zoom,ZM,19692269568,67.37,United States
+344,Church & Dwight,CHD,19577722880,80.28,United States
+345,Coterra Energy,CTRA,19321382912,24.51,United States
+346,Citizens Financial Group,CFG,19313035264,39.22,United States
+347,Molina Healthcare,MOH,19207759872,328.9,United States
+348,W. R. Berkley,WRB,19162058752,72.18,United States
+349,AES,AES,19062624256,28.54,United States
+350,BioMarin Pharmaceutical,BMRN,19029078016,102.39,United States
+351,Dover,DOV,18902175744,134.68,United States
+352,CenterPoint Energy,CNP,18760171520,29.8,United States
+353,DoorDash,DASH,18708176896,48.19,United States
+354,Teledyne,TDY,18590953472,396.64,United States
+355,Conagra Brands,CAG,18516017152,38.64,United States
+356,Mid-America Apartment Communities,MAA,18489253888,155.8,United States
+357,EPAM Systems,EPAM,18406045696,320.03,United States
+358,Paycom,PAYC,18382446592,306.27,United States
+359,Texas Pacific Land Trust,TPL,18367868928,2329.78,United States
+360,Northern Trust,NTRS,18307260416,87.84,United States
+361,CMS Energy,CMS,18274265088,62.96,United States
+362,Hologic,HOLX,18238425088,74.19,United States
+363,Invitation Homes,INVH,18062350336,29.42,United States
+364,Wabtec,WAB,18046763008,99.23,United States
+365,HEICO,HEI,18005725184,151.92,United States
+366,Warner Music Group,WMG,17996722176,34.96,United States
+367,J. B. Hunt,JBHT,17917077504,173.05,United States
+368,Rollins,ROL,17898895360,36.35,United States
+369,Sun Communities,SUI,17834979328,141.19,United States
+370,Ventas,VTR,17823426560,44.59,United States
+371,Quest Diagnostics,DGX,17777762304,156.1,United States
+372,Incyte,INCY,17733482496,79.71,United States
+373,Best Buy,BBY,17665716224,79.84,United States
+374,Markel,MKL,17593122816,1308,United States
+375,PerkinElmer,PKI,17569292288,139.09,United States
+376,Take 2 Interactive,TTWO,17375979520,103.54,United States
+377,West Pharmaceutical,WST,17302622208,233.72,United States
+378,Clorox,CLX,17235650560,139.69,United States
+379,Abiomed,ABMD,17180649472,381.02,United States
+380,Marathon Oil,MRO,17169063936,27.04,United States
+381,Steel Dynamics,STLD,17118173184,97.5,United States
+382,LPL Financial,LPLA,17114086400,215,United States
+383,IDEX,IEX,17106637824,226.82,United States
+384,Icahn Enterprises,IEP,17022187520,50.44,United States
+385,Roblox,RBLX,16961035264,28.23,United States
+386,Campbell Soup,CPB,16931920896,56.54,United States
+387,Darden Restaurants,DRI,16885734400,137.97,United States
+388,J.M. Smucker Company,SJM,16837231616,157.89,United States
+389,CF Industries,CF,16695683072,85.1,United States
+390,Targa Resources,TRGP,16598946816,73.33,United States
+391,Avangrid,AGR,16535908352,42.77,United States
+392,Omnicom,OMC,16509039616,80.96,United States
+393,Expeditors,EXPD,16455728128,103.41,United States
+394,Monolithic Power Systems,MPWR,16449885184,350.43,United States
+395,Align Technology,ALGN,16395012096,209.89,United States
+396,Ubiquiti,UI,16355658752,270.66,United States
+397,Pinterest,PINS,16335192064,24.09,United States
+398,Cooper Companies,COO,16264741888,329.55,United States
+399,Howmet Aerospace,HWM,16238195712,39.25,United States
+400,KeyCorp (KeyBank),KEY,16215017472,17.38,United States
+401,W. P. Carey,WPC,16161105920,77.69,United States
+402,Zscaler,ZS,16101270528,111.65,United States
+403,Brown &amp; Brown,BRO,16067184640,56.73,United States
+404,Rivian,RIVN,16029293568,18.15,United States
+405,Cincinnati Financial,CINF,16021765120,101.93,United States
+406,Ball Corporation,BALL,15978528768,50.9,United States
+407,Live Nation,LYV,15978050560,69.21,United States
+408,Fox Corporation,FOX,15900538880,28.21,United States
+409,First Solar,FSLR,15780352000,148.03,United States
+410,Atmos Energy,ATO,15751486464,111.7,United States
+411,FMC,FMC,15695363072,124.6,United States
+412,Broadridge Financial Solutions,BR,15654879232,133.06,United States
+413,Chewy,CHWY,15617307648,36.89,United States
+414,FactSet,FDS,15232802816,399.83,United States
+415,Jacobs Engineering,J,15075951616,119.07,United States
+416,Etsy,ETSY,14980753408,119.19,United States
+417,Apache Corporation,APA,14964775936,46.55,United States
+418,Tradeweb,TW,14934135808,64.62,United States
+419,The Mosaic Company,MOS,14889233408,43.73,United States
+420,Bunge,BG,14861658112,99.21,United States
+421,FICO,FICO,14819271680,593.35,United States
+422,Cloudflare,NET,14747046912,44.88,United States
+423,Synchrony,SYF,14728184832,32.69,United States
+424,Blue Owl Capital,OWL,14682313728,10.54,United States
+425,Textron,TXT,14676602880,70.3,United States
+426,NVR,NVR,14653731840,4585.18,United States
+427,Avery Dennison,AVY,14564704256,179.88,United States
+428,Skyworks Solutions,SWKS,14475350016,90.38,United States
+429,Iron Mountain,IRM,14384527360,49.48,United States
+430,Evergy,EVRG,14363582464,62.58,United States
+431,Leidos,LDOS,14289572864,104.54,United States
+432,LKQ Corporation,LKQ,14227068928,53.25,United States
+433,Avantor,AVTR,14212220928,21.08,United States
+434,Snap,SNAP,14195280896,8.8,United States
+435,Essex Property Trust,ESS,14098312192,210.34,United States
+436,PTC,PTC,14060325888,119,United States
+437,HubSpot,HUBS,14014720000,288.51,United States
+438,Splunk,SPLK,13993076736,85.48,United States
+439,Gen Digital,GEN,13860940800,21.28,United States
+440,Loews Corporation,L,13823000576,58.22,United States
+441,Alliant Energy,LNT,13796168704,54.96,United States
+442,Booz Allen Hamilton,BAH,13719770112,103.76,United States
+443,Formula One Group,FWONK,13713025024,59.4,United States
+444,MongoDB,MDB,13611195392,196.45,United States
+445,Expedia Group,EXPE,13574454272,86.97,United States
+446,Nordson,NDSN,13530158080,236.72,United States
+447,Rocket Companies,RKT,13503703040,6.8,United States
+448,SVB Financial Group,SIVB,13497012224,228.36,United States
+449,Teradyne,TER,13486911488,86.59,United States
+450,Fleetcor,FLT,13459076096,182.49,United States
+451,Viatris,VTRS,13448621056,11.09,United States
+452,Tyler Technologies,TYL,13385562112,321.46,United States
+453,Healthpeak Properties,PEAK,13382057984,24.9,United States
+454,Gaming and Leisure Properties,GLPI,13339379712,51.8,United States
+455,Cboe,CBOE,13272980480,125.12,United States
+456,Akamai,AKAM,13246065664,84.24,United States
+457,Burlington Stores,BURL,13232529408,202.98,United States
+458,Palantir,PLTR,13209205760,6.35,United States
+459,Zebra Technologies,ZBRA,13164308480,254.98,United States
+460,AspenTech,AZPN,13148733440,203.73,United States
+461,First Horizon National,FHN,13135593472,24.47,United States
+462,Franklin Resources,BEN,13131771904,26.25,United States
+463,Westlake Chemical,WLK,13038210048,102.23,United States
+464,SS&C Technologies,SSNC,13023799296,51.7,United States
+465,Kimco Realty,KIM,12999060480,21.02,United States
+466,Erie Indemnity,ERIE,12948286464,247.63,United States
+467,Bio-Techne,TECH,12905539584,82.22,United States
+468,Interpublic Group,IPG,12881545216,33.16,United States
+469,Corebridge Financial,CRBG,12848400384,19.92,United States
+470,NetApp,NTAP,12828748800,59.51,United States
+471,Lamb Weston,LW,12803117056,89.02,United States
+472,Jack Henry &amp; Associates,JKHY,12767604736,175.02,United States
+473,MGM Resorts,MGM,12764825600,33.24,United States
+474,United Therapeutics,UTHR,12627563520,277.06,United States
+475,Ovintiv,OVV,12601779200,50.76,United States
+476,Chesapeake Energy,CHK,12573177856,93.85,United States
+477,Hubbell,HUBB,12554535936,233.77,United States
+478,Royal Caribbean,RCL,12549851136,49.18,United States
+479,Equity LifeStyle Properties,ELS,12542546944,64.2,United States
+480,RPM International,RPM,12495388672,96.79,United States
+481,Essential Utilities,WTRG,12433904640,47.41,United States
+482,Bio-Rad Laboratories,BIO,12407374848,419.37,United States
+483,Trimble,TRMB,12402770944,50.29,United States
+484,EQT Corporation,EQT,12362109952,33.68,United States
+485,Lucid Motors,LCID,12338715648,6.75,United States
+486,United Airlines Holdings,UAL,12321915904,37.69,United States
+487,International Paper,IP,12242161664,34.42,United States
+488,Liberty Media,LSXMB,12195742720,39.03,United States
+489,Domino's Pizza,DPZ,12154384384,343.35,United States
+490,ZoomInfo,ZI,12113745920,30.01,United States
+491,American Homes 4 Rent,AMH,12108226560,29.91,United States
+492,Snap-on,SNA,12096393216,227.57,United States
+493,Carlisle Companies,CSL,12091717632,233.81,United States
+494,Camden Property Trust,CPT,11828729856,111.04,United States
+495,Reliance Steel &amp; Aluminum,RS,11822988288,201.45,United States
+496,Axon Enterprise,AXON,11800646656,165.82,United States
+497,Packaging Corporation of America,PKG,11797222400,127.49,United States
+498,The Toro Company,TTC,11750823936,112.98,United States
+499,Amerco,UHAL,11713699840,59.74,United States
+500,Globe Life,GL,11712791552,120.42,United States
+501,AECOM,ACM,11699287040,84.38,United States
+502,POOLCORP,POOL,11686283264,299.26,United States
+503,Teleflex,TFX,11685791744,249.13,United States
+504,American Financial Group,AFG,11635712000,136.66,United States
+505,GoDaddy,GDDY,11559204864,74.25,United States
+506,Match Group,MTCH,11528354816,41.28,United States
+507,Host Hotels & Resorts,HST,11524209664,15.89,United States
+508,Bill.com,BILL,11446390784,108.32,United States
+509,CNA Financial,CNA,11426266112,42.18,United States
+510,Unity Software,U,11401973760,28.29,United States
+511,Neurocrine Biosciences,NBIX,11398175744,118.57,United States
+512,Graco,GGG,11271218176,66.88,United States
+513,Liberty Broadband,LBRDA,11254875136,75.21,United States
+514,Sarepta Therapeutics,SRPT,11251973120,128.18,United States
+515,Molson Coors,TAP,11193378816,51.4,United States
+516,Albertsons,ACI,11105294336,20.76,United States
+517,Stanley Black &amp; Decker,SWK,11083813888,74.92,United States
+518,NiSource,NI,11079335936,27.28,United States
+519,Dynatrace,DT,11033405440,38.33,United States
+520,DocuSign,DOCU,10998748160,54.7,United States
+521,Charles River Laboratories,CRL,10997176320,216.15,United States
+522,Celanese,CE,10982672384,101.29,United States
+523,Paramount Global,PARA,10906042368,16.63,United States
+524,Amdocs,DOX,10897692672,90.2,United States
+525,Okta,OKTA,10887639040,67.97,United States
+526,TransUnion,TRU,10854791168,56.33,United States
+527,First Citizens BancShares,FCNCA,10818518016,750.65,United States
+528,Ryan Specialty Group,RYAN,10800498688,41.5,United States
+529,Carlyle Group,CG,10795431936,29.69,United States
+530,Henry Schein,HSIC,10771999744,79.47,United States
+531,Paylocity,PCTY,10720566272,192.56,United States
+532,C. H. Robinson,CHRW,10716227584,91.04,United States
+533,Regency Centers,REG,10677051392,62.13,United States
+534,Aramark,ARMK,10645229568,41.21,United States
+535,VF Corporation,VFC,10639753216,27.38,United States
+536,Bentley Systems,BSY,10607093760,36.78,United States
+537,Service Corporation International,SCI,10604154880,68.95,United States
+538,Equitable Holdings,EQH,10572099584,28.57,United States
+539,Deckers Brands,DECK,10561575936,399.05,United States
+540,Boston Properties,BXP,10497883136,66.97,United States
+541,News Corp,NWS,10477262848,18.36,United States
+542,Masco,MAS,10452141056,46.35,United States
+543,MarketAxess,MKTX,10440448000,277.4,United States
+544,Freddie Mac,FMCCT,10404831232,3.23,United States
+545,Carnival,CCL,10387748864,7.99,United States
+546,HF Sinclair,DINO,10380804096,51.72,United States
+547,PulteGroup,PHM,10377200640,45.55,United States
+548,Juniper Networks,JNPR,10333862912,31.84,United States
+549,AGCO,AGCO,10322511872,138.38,United States
+550,Magellan Midstream Partners,MMP,10267293696,50.1,United States
+551,Rexford Industrial,REXR,10250003456,54.12,United States
+552,Fidelity National Financial,FNF,10141461504,37.27,United States
+553,Western Midstream,WES,10081133568,26.18,United States
+554,Universal Health Services,UHS,9966892032,139.58,United States
+555,Bruker,BRKR,9963402240,67.74,United States
+556,Dick's Sporting Goods,DKS,9961835520,119.43,United States
+557,Darling Ingredients,DAR,9956034560,62.12,United States
+558,Western Digital,WDC,9952672768,31.33,United States
+559,Crown Holdings,CCK,9837970432,82.02,United States
+560,Five Below,FIVE,9828701184,177.05,United States
+561,Ceridian,CDAY,9817792512,63.92,United States
+562,Annaly Capital Management,NLY,9794774016,20.94,United States
+563,Entegris,ENTG,9745398784,65.39,United States
+564,Eastman Chemical,EMN,9695192064,80.8,United States
+565,Zendesk,ZEN,9625960448,77.48,United States
+566,Hyatt Hotels,H,9624641536,89.85,United States
+567,Watsco,WSO,9601705984,247.88,United States
+568,Black Knight,BKI,9595661312,61.5,United States
+569,Vail Resorts,MTN,9556265984,236.97,United States
+570,Ares Capital,ARCC,9552292864,18.46,United States
+571,Bath &amp; Body Works,BBWI,9538610176,41.76,United States
+572,Lamar Advertising,LAMR,9523630080,93.66,United States
+573,Builders FirstSource,BLDR,9513456640,64.64,United States
+574,CarMax,KMX,9509583872,60.18,United States
+575,Reinsurance Group of America,RGA,9458484224,141.52,United States
+576,AutoNation,AN,9410490368,106.8,United States
+577,WillScot,WSC,9406316544,45.03,United States
+578,BorgWarner,BWA,9405965312,40.17,United States
+579,Toast,TOST,9329021952,17.92,United States
+580,Repligen,RGEN,9311441920,167.7,United States
+581,Antero Resources,AR,9292210176,30.96,United States
+582,Wynn Resorts,WYNN,9270217728,81.81,United States
+583,East West Bancorp,EWBC,9265982464,65.74,United States
+584,Tapestry,TPR,9149289472,37.97,United States
+585,Vistra,VST,9142992896,22.98,United States
+586,Jabil,JBL,9142473728,68.11,United States
+587,Coinbase,COIN,9129834496,34.86,United States
+588,Huntington Ingalls Industries,HII,9123436544,228.64,United States
+589,Morningstar,MORN,9119565824,214.85,United States
+590,Qorvo,QRVO,9105745920,89.81,United States
+591,STORE Capital,STOR,9060086784,32.05,United States
+592,Performance Food Group,PFGC,9058611200,58.19,United States
+593,CubeSmart,CUBE,9027837952,39.94,United States
+594,Synnex,SNX,9019966464,94.4,United States
+595,Twilio,TWLO,9004087296,48.85,United States
+596,Westrock,WRK,8881405952,34.9,United States
+597,BJ's Wholesale Club,BJ,8873315328,66.01,United States
+598,Lattice Semiconductor,LSCC,8833453056,64.45,United States
+599,Caesars Entertainment,CZR,8827245568,41.14,United States
+600,New Fortress Energy,NFE,8816357376,42.23,United States
+601,Exact Sciences,EXAS,8761597952,49.31,United States
+602,Comerica,CMA,8723366912,66.62,United States
+603,A. O. Smith,AOS,8709760000,57.01,United States
+604,Advance Auto Parts,AAP,8693702656,146.72,United States
+605,F5 Networks,FFIV,8587433472,142.25,United States
+606,Cullen/Frost Bankers,CFR,8582589952,133.48,United States
+607,Pinnacle West Capital,PNW,8579406336,75.83,United States
+608,TPG Capital,TPG,8528535552,27.61,United States
+609,Commerce Bancshares,CBSH,8506721280,67.88,United States
+610,Wolfspeed,WOLF,8457041920,68.09,United States
+611,Life Storage,LSI,8432692736,98.01,United States
+612,Knight-Swift,KNX,8396365824,52.25,United States
+613,Lennox,LII,8392616960,236.82,United States
+614,Penumbra,PEN,8370651136,220.41,United States
+615,Hasbro,HAS,8357955072,60.51,United States
+616,Legend Biotech,LEGN,8351735808,49.89,United States
+617,Signify Health,SGFY,8350367744,28.56,United States
+618,Lincoln Electric,LECO,8335745536,143.92,United States
+619,Casey's General Stores,CASY,8307550208,222.97,United States
+620,Switch,SWCH,8274800128,34.25,United States
+621,Cleveland-Cliffs,CLF,8273174016,16.06,United States
+622,Webster Financial,WBS,8228885504,47.29,United States
+623,Federal Realty Investment Trust,FRT,8210728448,100.3,United States
+624,ADT,ADT,8207500800,8.99,United States
+625,NOV,NOV,8205696000,20.89,United States
+626,American Airlines,AAL,8205000192,12.63,United States
+627,Plains All American Pipeline,PAA,8198429184,11.74,United States
+628,Penske Automotive,PAG,8150347264,114.31,United States
+629,Unum,UNM,8141660160,40.93,United States
+630,Catalent,CTLT,8120875520,45.13,United States
+631,Cognex,CGNX,8120792576,46.96,United States
+632,National Retail Properties,NNN,8110903296,45.38,United States
+633,Invesco,IVZ,8106542592,17.83,United States
+634,Dropbox,DBX,8072689152,22.26,United States
+635,DCP Midstream,DCP,8066006016,38.71,United States
+636,Pure Storage,PSTG,8057864704,26.63,United States
+637,Owens Corning,OC,7978161152,84.45,United States
+638,Robert Half,RHI,7965996544,73.42,United States
+639,Alcoa,AA,7953141248,44.95,United States
+640,Fortune Brands Home &amp; Security,FBHS,7924438016,61.9,United States
+641,Regal Rexnord,RRX,7924252160,119.79,United States
+642,Celsius Holdings,CELH,7891594752,103.53,United States
+643,Churchill Downs,CHDN,7881623552,210.72,United States
+644,OGE Energy,OGE,7876987392,39.35,United States
+645,Jefferies Financial Group,JEF,7817718272,34.14,United States
+646,SEI Investments,SEIC,7797103616,57.83,United States
+647,UGI Corporation,UGI,7750342144,36.98,United States
+648,Masimo,MASI,7729113088,147.04,United States
+649,Halozyme Therapeutics,HALO,7693619200,56.9,United States
+650,Whirlpool,WHR,7662386688,140.65,United States
+651,Williams-Sonoma,WSM,7631619584,114.65,United States
+652,US Foods,USFD,7608062976,33.83,United States
+653,Americold,COLD,7586206208,28.14,United States
+654,Tetra Tech,TTEK,7581859840,143.11,United States
+655,Manhattan Associates,MANH,7557500416,121.12,United States
+656,Ciena,CIEN,7537998336,50.79,United States
+657,Chemed,CHE,7507345408,504.86,United States
+658,Jones Lang LaSalle,JLL,7482146816,157.64,United States
+659,Zillow,ZG,7481013248,30.84,United States
+660,Berry Global,BERY,7470695936,60.2,United States
+661,Acadia Healthcare,ACHC,7454631424,81.94,United States
+662,Pershing Square Holdings,PSHZF,7434041856,34.47,United States
+663,Floor &amp; Decor,FND,7426138112,69.98,United States
+664,ShockWave Medical,SWAV,7409135104,205,United States
+665,Dish Network,DISH,7395387904,13.94,United States
+666,Royal Gold,RGLD,7372772352,112.32,United States
+667,Globus Medical,GMED,7360396800,73.72,United States
+668,Zions Bancorporation,ZION,7324549632,48.96,United States
+669,Old Republic International,ORI,7320032768,24.06,United States
+670,NRG Energy,NRG,7300869120,31.69,United States
+671,Lear Corporation,LEA,7299553792,123.5,United States
+672,Healthcare Realty,HR,7267021824,19.1,United States
+673,Inspire Medical Systems,INSP,7258348544,251.22,United States
+674,Olin,OLN,7243866624,52.89,United States
+675,Coty,COTY,7242963456,8.52,United States
+676,Ally,ALLY,7239203328,24.24,United States
+677,Signature Bank,SBNY,7213539840,114.63,United States
+678,KBR,KBR,7208278016,52.54,United States
+679,Hess Midstream,HESM,7195500032,30,United States
+680,Middleby,MIDD,7192908800,133.49,United States
+681,Sealed Air,SEE,7179376640,49.63,United States
+682,Donaldson,DCI,7138159616,58.66,United States
+683,AptarGroup,ATR,7137499648,109.33,United States
+684,Plug Power,PLUG,7108514304,12.2,United States
+685,Organon,OGN,7090396672,27.88,United States
+686,CACI,CACI,7080943104,299.64,United States
+687,WEX,WEX,7064262144,162.05,United States
+688,Emcor,EME,7044882944,147.83,United States
+689,Planet Fitness,PLNT,7030569984,78.5,United States
+690,Valmont Industries,VMI,7013470208,328.76,United States
+691,BOK Financial,BOKF,6985041920,103.86,United States
+692,Ralph Lauren,RL,6940966912,105.21,United States
+693,UiPath,PATH,6938079232,12.55,United States
+694,Concentrix,CNXC,6867380224,132.91,United States
+695,Graphic Packaging,GPK,6802663936,22.15,United States
+696,Dentsply Sirona,XRAY,6799815680,31.64,United States
+697,Robinhood,HOOD,6781502464,8.12,United States
+698,Matador Resources,MTDR,6769501184,57.29,United States
+699,Brixmor Property Group,BRX,6749541888,22.51,United States
+700,GitLab,GTLB,6747727360,45.08,United States
+701,Advanced Drainage Systems,WMS,6744453632,81.4,United States
+702,Avis Budget Group,CAR,6738497536,162.51,United States
+703,Murphy Oil,MUR,6697001984,43.08,United States
+704,ITT,ITT,6693324288,80.94,United States
+705,DaVita,DVA,6689024000,74.24,United States
+706,Omega Healthcare,OHI,6681127424,27.73,United States
+707,Dolby,DLB,6674502144,69.88,United States
+708,Crocs,CROX,6668757504,108.01,United States
+709,Karuna Therapeutics,KRTX,6655386624,193.68,United States
+710,MasTec,MTZ,6618621952,84.6,United States
+711,Medical Properties Trust,MPW,6616869888,11.07,United States
+712,Prosperity Bancshares,PB,6603430400,72.32,United States
+713,Assurant,AIZ,6581207552,124.57,United States
+714,Symbotic,SYM,6578649600,11.83,United States
+715,Medpace,MEDP,6560523776,210.95,United States
+716,Range Resources,RRC,6551119360,24.92,United States
+717,Nexstar Media Group,NXST,6550703104,173.72,United States
+718,Agilon Health,AGL,6529960960,15.86,United States
+719,Procore,PCOR,6490562560,47.03,United States
+720,Skechers,SKX,6484772864,41.81,United States
+721,First Industrial Realty Trust,FR,6469533696,47.83,United States
+722,Endeavor Group,EDR,6462548480,22.33,United States
+723,Mohawk Industries,MHK,6448700928,101.5,United States
+724,Western Alliance Bancorporation,WAL,6447590400,59.2,United States
+725,Iridium Communications,IRDM,6445485568,51.3,United States
+726,Samsara,IOT,6426279424,12.39,United States
+727,Southwestern Energy,SWN,6422836224,5.82,United States
+728,Ingredion,INGR,6406064128,97.72,United States
+729,Arrow Electronics,ARW,6395018240,103.97,United States
+730,Gentex,GNTX,6387667968,27.23,United States
+731,Doximity,DOCS,6383864832,33.17,United States
+732,EastGroup Properties,EGP,6381632000,146.45,United States
+733,Generac Power Systems,GNRC,6367318016,100.5,United States
+734,Curtiss-Wright,CW,6358695424,165.99,United States
+735,Magnolia Oil &amp; Gas,MGY,6345869824,23.38,United States
+736,Murphy USA,MUSA,6335809536,280.42,United States
+737,WESCO International,WCC,6333599744,124.57,United States
+738,Restoration Hardware,RH,6333535744,264.44,United States
+739,Confluent,CFLT,6328051712,22.1,United States
+740,Mattel,MAT,6292406784,17.76,United States
+741,Reynolds Consumer,REYN,6274904064,29.9,United States
+742,Clearway Energy,CWEN,6270529536,31.75,United States
+743,Wyndham Hotels &amp; Resorts,WH,6258652672,70.86,United States
+744,Agree Realty,ADC,6254695424,70.34,United States
+745,Stifel,SF,6199370752,58.33,United States
+746,MDU Resources,MDU,6144250880,30.22,United States
+747,Sensata Technologies,ST,6142953984,40.16,United States
+748,Frontier Communications,FYBR,6142249984,25.07,United States
+749,Clean Harbors,CLH,6132566528,113.41,United States
+750,Levi Strauss,LEVI,6105203200,15.48,United States
+751,Credit Acceptance,CACC,6091410944,471.3,United States
+752,Texas Roadhouse,TXRH,6089915904,91.01,United States
+753,Qualtrics,XM,6066807808,10.27,United States
+754,RBC Bearings,RBC,6059537408,208.83,United States
+755,Flowers Foods,FLO,6059516928,28.7,United States
+756,Harley-Davidson,HOG,6053479424,41.41,United States
+757,SAIC,SAIC,6034625536,110.47,United States
+758,NextEra Energy Partners,NEP,6031077376,69.7,United States
+759,Coupa,COUP,6022005248,79.08,United States
+760,DXC Technology,DXC,6018500096,26.16,United States
+761,Kinsale Capital Group,KNSL,5965655040,258.48,United States
+762,Houlihan Lokey,HLI,5965250048,86.89,United States
+763,Voya Financial,VOYA,5961556992,61.35,United States
+764,Choice Hotels International,CHH,5953520640,111.7,United States
+765,HealthSouth,EHC,5931427840,59.44,United States
+766,RLI Corp.,RLI,5920040448,130.46,United States
+767,Affiliated Managers Group,AMG,5916607488,157.07,United States
+768,Nutanix,NTNX,5912702464,25.7,United States
+769,Amkor Technology,AMKR,5889199616,24.04,United States
+770,STAG Industrial,STAG,5884320256,32.13,United States
+771,AGNC Investment,AGNC,5879132160,10.29,United States
+772,Sonoco,SON,5877060096,60.27,United States
+773,New York Community Bank,NYCB,5842648064,8.58,United States
+774,U.S. Steel,X,5839623168,24.93,United States
+775,Polaris,PII,5832363520,100.63,United States
+776,PDC Energy,PDCE,5828152320,63.25,United States
+777,Tempur Sealy,TPX,5825424896,34.07,United States
+778,Landstar System,LSTR,5818821120,161.97,United States
+779,Ashland,ASH,5817364480,107.21,United States
+780,Starwood Property Trust,STWD,5812789248,18.2,United States
+781,EnLink Midstream,ENLC,5803918848,12.26,United States
+782,ChampionX,CHX,5799382528,29.09,United States
+783,Corporate Office Properties Trust,OFC,5798778368,25.79,United States
+784,South State Corp,SSB,5790334976,76.5,United States
+785,National Fuel Gas,NFG,5770617856,63.08,United States
+786,Elanco,ELAN,5763961344,12.16,United States
+787,Woodward,WWD,5723005952,95.8,United States
+788,Oshkosh Corporation,OSK,5720538624,87.48,United States
+789,PBF Energy,PBF,5701615616,40.88,United States
+790,Valley Bank,VLY,5701579776,11.26,United States
+791,Silgan Holdings,SLGN,5701541376,51.8,United States
+792,Allegro MicroSystems,ALGM,5692369408,29.76,United States
+793,QuidelOrtho,QDEL,5683867136,86.06,United States
+794,Valvoline,VVV,5683768320,32.59,United States
+795,Commercial Metals Company,CMC,5671912448,48.33,United States
+796,Apellis Pharmaceuticals,APLS,5671442944,51.29,United States
+797,Chord Energy,CHRD,5665100288,136.16,United States
+798,MSA Safety,MSA,5652997120,144.22,United States
+799,Boyd Gaming,BYD,5643034112,54.07,United States
+800,H&amp;R Block,HRB,5632605696,36.23,United States
+801,Crane Co.,CR,5619492864,100.09,United States
+802,Axalta,AXTA,5617807872,25.47,United States
+803,MKS Instruments,MKSI,5599540224,84.2,United States
+804,EXL Service,EXLS,5597341184,169.29,United States
+805,Lithia Motors,LAD,5590976000,204.51,United States
+806,Roku,ROKU,5583334400,40.09,United States
+807,Pinnacle Financial Partners,PNFP,5581200384,73,United States
+808,Macy's,M,5574062592,20.56,United States
+809,Pilgrim's Pride,PPC,5546380288,23.46,United States
+810,Saia,SAIA,5539130880,209.32,United States
+811,Spirit Realty Capital,SRC,5533328896,39.62,United States
+812,KnowBe4,KNBE,5531937280,24.79,United States
+813,GameStop,GME,5531136000,18.16,United States
+814,Toll Brothers,TOL,5525277696,49.9,United States
+815,Dillard's,DDS,5520820736,322.39,United States
+816,Clearwater Analytics,CWAN,5508730368,18.66,United States
+817,Glacier Bancorp,GBCI,5468844032,49.37,United States
+818,Light &amp; Wonder,LNW,5466791424,58.36,United States
+819,Envista,NVST,5457930752,33.48,United States
+820,Option Care Health,OPCH,5456120320,30,United States
+821,Littelfuse,LFUS,5438557696,219.69,United States
+822,Columbia Sportswear,COLM,5437424640,87.54,United States
+823,Synovus,SNV,5435765248,37.37,United States
+824,Idacorp,IDA,5435404288,107.5,United States
+825,FTI Consulting,FCN,5428867584,157.71,United States
+826,United Bankshares,UBSI,5427431424,40.31,United States
+827,Lancaster Colony Corporation,LANC,5416644096,196.59,United States
+828,Alaska Airlines,ALK,5408372224,42.64,United States
+829,CCC Intelligent Solutions,CCCS,5403289088,8.71,United States
+830,First American,FAF,5393502720,52.09,United States
+831,Newell Brands,NWL,5370595840,12.99,United States
+832,DT Midstream,DTM,5344525312,55.24,United States
+833,IAA-Insurance Auto Auctions,IAA,5342574080,39.94,United States
+834,New York Times,NYT,5333903360,32.25,United States
+835,Lumen,LUMN,5333259776,5.16,United States
+836,Selective Insurance,SIGI,5316875264,88.21,United States
+837,Dun &amp; Bradstreet,DNB,5311909376,12.19,United States
+838,Ionis Pharmaceuticals,IONS,5309118976,37.38,United States
+839,Acuity Brands,AYI,5303931904,165.35,United States
+840,Post Holdings,POST,5295622144,90.15,United States
+841,Western Union,WU,5284750336,13.69,United States
+842,SiteOne Landscape Supply,SITE,5279282688,117.05,United States
+843,Old National Bank,ONB,5273483776,18.01,United States
+844,Permian Resources,PR,5254485504,9.42,United States
+845,BWX Technologies,BWXT,5248018944,57.53,United States
+846,Huntsman Corporation,HUN,5242382336,27.29,United States
+847,UWM Holdings,UWMC,5240880128,3.27,United States
+848,Viper Energy Partners,VNOM,5235416576,31.75,United States
+849,Helmerich &amp; Payne,HP,5227542016,49.6,United States
+850,Brunswick Corporation,BC,5221192704,72.01,United States
+851,The Ensign Group,ENSG,5211085312,93.92,United States
+852,Tenet Healthcare,THC,5200175616,48.1,United States
+853,Primerica,PRI,5194897408,140.79,United States
+854,HealthEquity,HQY,5187573248,61.29,United States
+855,Oak Street Health,OSH,5171681792,21.29,United States
+856,Univar Solutions,UNVR,5169098752,31.68,United States
+857,Smartsheet,SMAR,5163238912,39.32,United States
+858,Lincoln National Corporation,LNC,5140751872,30.38,United States
+859,Antero Midstream,AM,5136536064,10.74,United States
+860,Exelixis,EXEL,5128719872,15.9,United States
+861,HashiCorp,HCP,5127579136,27.28,United States
+862,Timken Company,TKR,5126605312,70.48,United States
+863,Norwegian Cruise Line,NCLH,5126282240,12.17,United States
+864,Marriott Vacations Worldwide,VAC,5125313536,133.75,United States
+865,Wintrust Financial,WTFC,5123122176,84.31,United States
+866,Vertiv Holdings,VRT,5121793024,13.58,United States
+867,Hertz,HTZ,5117814272,15.33,United States
+868,Apartment Income REIT,AIRC,5106547712,34.06,United States
+869,Guidewire Software,GWRE,5104162304,62.34,United States
+870,Prometheus Biosciences,RXDX,5102490112,109.76,United States
+871,Madrigal Pharmaceuticals,MDGL,5102183936,285.96,United States
+872,Sunrun,RUN,5066547712,23.78,United States
+873,National Storage,NSA,5059590656,35.83,United States
+874,DraftKings,DKNG,5051784192,11.26,United States
+875,Universal Display Corporation,OLED,5050064896,106.91,United States
+876,GXO Logistics,GXO,5037411840,42.46,United States
+877,World Wrestling Entertainment,WWE,5034587136,67.67,United States
+878,LHC Group,LHCG,5018656768,161.72,United States
+879,Intra-Cellular Therapies,ITCI,4995694080,52.75,United States
+880,TopBuild,BLD,4987678720,156,United States
+881,Exponent,EXPO,4984317952,98.43,United States
+882,Hexcel,HXL,4933540352,58.61,United States
+883,Portland General Electric,POR,4923334144,48.8,United States
+884,FS KKR Capital,FSK,4918157312,17.38,United States
+885,Fluor Corporation,FLR,4911271424,34.57,United States
+886,First Financial Bankshares,FFIN,4901179392,34.36,United States
+887,Rayonier,RYN,4898984448,32.74,United States
+888,Civitas Resources,CIVI,4898126336,57.55,United States
+889,Elastic NV,ESTC,4897859072,51.23,United States
+890,Hagerty,HGTY,4891402240,8.36,United States
+891,Chart Industries,GTLS,4874605056,114.54,United States
+892,Cerevel Therapeutics,CERE,4874151424,31.18,United States
+893,Eagle Materials,EXP,4870132224,132.18,United States
+894,Universal Forest Products,UFPI,4865048064,78.93,United States
+895,Coherent,COHR,4843054800,34.92,United States
+896,Ormat Technologies,ORA,4836813312,86.24,United States
+897,Watts Water Technologies,WTS,4835171328,145.23,United States
+898,Novanta,NOVT,4830668800,135.35,United States
+899,Applied Industrial Technologies,AIT,4830564352,125.24,United States
+900,Coca-Cola Consolidated,COKE,4816577024,513.84,United States
+901,Wendy?€?s Company,WEN,4805889024,22.56,United States
+902,Evoqua Water Technologies,AQUA,4798357504,39.37,United States
+903,Hanover Insurance Group,THG,4795046400,134.84,United States
+904,Banco Popular,BPOP,4794922496,65.96,United States
+905,National Instruments,NATI,4781436416,36.62,United States
+906,Five9,FIVN,4780266496,67.8,United States
+907,New Jersey Resources,NJR,4767036928,49.44,United States
+908,Parsons,PSN,4758032896,45.97,United States
+909,Core &amp; Main,CNM,4735995392,19.26,United States
+910,Tegna,TGNA,4733811712,21.2,United States
+911,Brookfield Renewable,BEPC,4722217472,27.42,United States
+912,Dutch Bros,BROS,4703165440,27.99,United States
+913,F.N.B. Corporation,FNB,4701574656,13.05,United States
+914,Bank OZK,OZK,4694250496,39.93,United States
+915,Integra LifeSciences,IART,4662821376,55.83,United States
+916,Euronet Worldwide,EEFT,4657859072,93.92,United States
+917,Kite Realty,KRG,4648721408,20.94,United States
+918,Alight,ALIT,4643367936,8.27,United States
+919,Home BancShares,HOMB,4638300672,22.74,United States
+920,PowerSchool,PWSC,4622602240,23.18,United States
+921,Trex,TREX,4618323456,42.09,United States
+922,IPG Photonics,IPGP,4614227968,94.72,United States
+923,SPS Commerce,SPSC,4607570944,127.84,United States
+924,Informatica,INFA,4596618240,16.24,United States
+925,Chemours,CC,4595453440,30.45,United States
+926,Arrowhead Pharmaceuticals,ARWR,4587232768,40.31,United States
+927,Stericycle,SRCL,4583223296,49.72,United States
+928,Hawaiian Electric Industries,HE,4575845888,41.8,United States
+929,R1 RCM,RCM,4575373312,10.99,United States
+930,Penn National Gaming,PENN,4568225280,29.45,United States
+931,Black Hills,BKH,4563940864,70.13,United States
+932,Shift4 Payments,FOUR,4563864576,55.35,United States
+933,MSC Industrial Direct,MSM,4556680704,81.41,United States
+934,Driven Brands,DRVN,4550040576,27.18,United States
+935,Owl Rock Capital,ORCC,4534872064,11.52,United States
+936,Aerojet Rocketdyne,AJRD,4516388864,56,United States
+937,Kilroy Realty,KRC,4508669440,38.2,United States
+938,Atkore,ATKR,4501988352,112.93,United States
+939,Silicon Labs,SLAB,4485536768,134.77,United States
+940,Cadence Bancorp,CADE,4479024640,24.55,United States
+941,AMN Healthcare Services,AMN,4469664768,103.14,United States
+942,Phillips-Van Heusen,PVH,4467049984,70.49,United States
+943,Ryman Hospitality Properties,RHP,4465193472,80.95,United States
+944,MSG Sports,MSGS,4442330112,182.57,United States
+945,Maximus,MMS,4438881792,73.04,United States
+946,Calix,CALX,4432339456,67.73,United States
+947,Box,BOX,4428578816,30.99,United States
+948,MACOM,MTSI,4425961984,62.63,United States
+949,Workiva,WK,4416100352,84.04,United States
+950,Hilton Grand Vacations,HGV,4404420096,38.28,United States
+951,Element Solutions,ESI,4385388032,18.12,United States
+952,Seaboard,SEB,4379042304,3772.5,United States
+953,National Beverage,FIZZ,4370782720,46.82,United States
+954,APi Group,APG,4370552320,18.69,United States
+955,South Jersey Industries,SJI,4349956608,35.52,United States
+956,Natera,NTRA,4346600960,39.87,United States
+957,Supermicro,SMCI,4321155072,81.65,United States
+958,Denbury,DEN,4316921344,86.69,United States
+959,Under Armour,UA,4313021440,8.96,United States
+960,Cytokinetics,CYTK,4303817728,45.48,United States
+961,Terreno Realty,TRNO,4291683328,56.42,United States
+962,Insperity,NSP,4285817344,112.98,United States
+963,Tenable,TENB,4278907392,38.03,United States
+964,Paycor,PYCR,4275059200,24.31,United States
+965,MP Materials,MP,4266358528,24.03,United States
+966,SM Energy,SM,4254881536,34.65,United States
+967,Qualys,QLYS,4253242880,111.96,United States
+968,Leggett &amp; Platt,LEG,4242464000,32,United States
+969,Vornado Realty Trust,VNO,4235437056,20.55,United States
+970,Evercore,EVR,4233309184,109,United States
+971,Air Lease Corporation,AL,4230530048,38.15,United States
+972,Louisiana-Pacific,LPX,4228600832,58.98,United States
+973,PNM Resources,PNM,4198614016,48.92,United States
+974,ManpowerGroup,MAN,4175005440,82.58,United States
+975,Ryder,R,4169333760,82.97,United States
+976,Sallie Mae,SLM,4162027008,16.64,United States
+977,Schneider,SNDR,4158538240,23.36,United States
+978,Phillips Edison &amp; Company,PECO,4154705408,31.68,United States
+979,CLEAR Secure,YOU,4153690112,27.25,United States
+980,Southwest Gas,SWX,4148478720,61.86,United States
+981,Hancock Whitney,HWC,4147555584,48.4,United States
+982,Premier,PINC,4132917504,34.8,United States
+983,SentinelOne,S,4124272384,14.59,United States
+984,10x Genomics,TXG,4121276416,36.01,United States
+985,Comfort Systems,FIX,4120180480,115.22,United States
+986,TriNet,TNET,4111613184,67.72,United States
+987,Academy Sports,ASO,4103388416,52.51,United States
+988,Gap Inc.,GPS,4103187200,11.24,United States
+989,Power Integrations,POWI,4086789888,71.45,United States
+990,ONE Gas,OGS,4081689856,75.39,United States
+991,Wingstop Restaurants,WING,4079101440,136.35,United States
+992,Casella Waste Systems,CWST,4076541952,78.88,United States
+993,Cirrus Logic,CRUS,4064573440,73.82,United States
+994,ASGN,ASGN,4061360896,81.39,United States
+995,OneMain Financial,OMF,4045828096,33.11,United States
+996,UMB Financial,UMBF,4035043072,83.52,United States
+997,First Interstate BancSystem,FIBK,4034826240,38.63,United States
+998,TFS Financial,TFSL,4029463040,14.37,United States
+999,FirstCash,FCFS,4023885056,86.88,United States
+1000,Thor Industries,THO,4023268352,75.18,United States
+1001,BlackLine,BL,4014317568,67.16,United States
+1002,Cable One,CABO,4010642432,690.37,United States
+1003,Boston Beer Company,SAM,4007956736,325.98,United States
+1004,Merit Medical,MMSI,4005418240,70.37,United States
+1005,Aaon,AAON,3995814400,75.11,United States
+1006,Flowserve,FLS,3992762624,30.55,United States
+1007,Azenta,AZTA,3985106176,57.71,United States
+1008,Asbury Automotive Group,ABG,3961382144,178.98,United States
+1009,Lyft,LYFT,3954042880,10.96,United States
+1010,Haemonetics,HAE,3948467200,78.02,United States
+1011,IAC/InterActiveCorp,IAC,3947889920,44.43,United States
+1012,American Equity Investment Life Holding,AEL,3930307840,45.86,United States
+1013,Enact Holdings,ACT,3927773440,24.12,United States
+1014,Altra Industrial Motion,AIMC,3896741632,59.79,United States
+1015,Balchem,BCPC,3895416832,121.22,United States
+1016,Freshworks,FRSH,3888908544,14.44,United States
+1017,Simply Good Foods,SMPL,3875620608,38.05,United States
+1018,AppLovin,APP,3869292800,10.41,United States
+1019,Allegheny Technologies,ATI,3864421632,29.86,United States
+1020,Bumble,BMBL,3861831936,20.92,United States
+1021,Umpqua Holdings,UMPQ,3861372928,17.79,United States
+1022,Maxar Technologies,MAXR,3857194240,51.72,United States
+1023,Independence Realty Trust,IRT,3851828224,16.74,United States
+1024,Fox Factory Holding,FOXF,3851414784,91.12,United States
+1025,Herc Holdings,HRI,3849647616,131.58,United States
+1026,MGIC Investment,MTG,3847971584,12.96,United States
+1027,Independent Bank,INDB,3843757824,84.22,United States
+1028,New Relic,NEWR,3839917568,56.19,United States
+1029,Rithm Capital,RITM,3839459840,8.11,United States
+1030,Kirby Corporation,KEX,3834199040,64.01,United States
+1031,Allison Transmission,ALSN,3830952192,41.42,United States
+1032,Rambus,RMBS,3830658304,35.64,United States
+1033,Simpson Manufacturing Company,SSD,3828410368,88.69,United States
+1034,XPO Logistics,XPO,3826290432,33.23,United States
+1035,Peabody Energy,BTU,3814069504,26.51,United States
+1036,H.B. Fuller,FUL,3795078656,71.19,United States
+1037,Howard Hughes Corporation,HHC,3793466368,76.02,United States
+1038,Cousins Properties,CUZ,3792664576,25.05,United States
+1039,Avnet,AVT,3790188800,41.42,United States
+1040,Teladoc Health,TDOC,3780995584,23.35,United States
+1041,Zurn Water Solutions,ZWS,3769254400,21.2,United States
+1042,Synaptics,SYNA,3761828864,94.35,United States
+1043,Syneos Health,SYNH,3754236160,36.48,United States
+1044,ServisFirst Bancshares,SFBS,3748383488,69,United States
+1045,Vaxcyte,PCVX,3743266560,47.4,United States
+1046,Cabot Corporation,CBT,3743048704,66.45,United States
+1047,GATX,GATX,3740352000,106.26,United States
+1048,Virtu Financial,VIRT,3733152253,20.49,United States
+1049,Denali Therapeutics,DNLI,3729452288,27.46,United States
+1050,ICU Medical,ICUI,3723503104,155.27,United States
+1051,Ziff Davis,ZD,3715394816,78.73,United States
+1052,AppFolio,APPF,3692618496,105.02,United States
+1053,Franklin Electric,FELE,3683246848,79.52,United States
+1054,Visteon,VC,3682203904,130.84,United States
+1055,Allete,ALE,3681798144,64.41,United States
+1056,Bloom Energy,BE,3661363200,18.76,United States
+1057,Altair Engineering,ALTR,3648819456,45.53,United States
+1058,Topgolf Callaway Brands,MODG,3645202432,19.72,United States
+1059,Patterson-UTI Energy,PTEN,3635020800,16.77,United States
+1060,SoFi,SOFI,3626321920,4.54,United States
+1061,Maravai LifeSciences,MRVI,3623967744,14.2,United States
+1062,Sunoco,SUN,3618574336,43.2,United States
+1063,Bright Horizons,BFAM,3609952512,62.51,United States
+1064,Weatherford International,WFRD,3609864704,51.13,United States
+1065,Spire Energy,SR,3593486848,68.4,United States
+1066,DoubleVerify,DV,3589328896,21.77,United States
+1067,Blackstone Mortgage Trust,BXMT,3588879104,21,United States
+1068,Apple Hospitality REIT,APLE,3587990784,15.69,United States
+1069,UniFirst,UNF,3587945984,192.03,United States
+1070,CVB Financial,CVBF,3580483072,25.61,United States
+1071,United Community Bank,UCBI,3569435392,33.62,United States
+1072,AmTrust Financial Services,AFFS,3558617856,18,United States
+1073,Foot Locker,FL,3558446848,38.13,United States
+1074,Lumentum,LITE,3547081984,52.01,United States
+1075,Livent,LTHM,3546224128,19.77,United States
+1076,PotlatchDeltic,PCH,3542053888,43.85,United States
+1077,YETI Holdings,YETI,3537034240,41.01,United States
+1078,Brighthouse Financial,BHF,3525614592,51,United States
+1079,Insight Enterprises,NSIT,3511946752,100.07,United States
+1080,NorthWestern Corporation,NWE,3504545024,59.21,United States
+1081,Enviva,EVA,3494960640,52.19,United States
+1082,Wayfair,W,3494319616,32.62,United States
+1083,Lantheus Holdings,LNTH,3484969216,50.63,United States
+1084,Alteryx,AYX,3474331392,50.29,United States
+1085,Associated Banc-Corp,ASB,3471037440,23.09,United States
+1086,BellRing Brands,BRBR,3469534976,25.81,United States
+1087,Black Stone Minerals,BSM,3466733056,16.56,United States
+1088,Diodes Incorporated,DIOD,3466609920,76.24,United States
+1089,Beacon Roofing Supply,BECN,3449842176,52.7,United States
+1090,Physicians Realty Trust,DOC,3441722112,14.33,United States
+1091,Sprouts Farmers Market,SFM,3429604864,32.4,United States
+1092,AllianceBernstein,AB,3420160000,34.07,United States
+1093,"One Medical
+ (1Life Healthcare)",ONEM,3416731904,16.72,United States
+1094,Envestnet,ENV,3415833600,61.74,United States
+1095,American States Water,AWR,3412414976,92.33,United States
+1096,Hamilton Lane,HLNE,3407331584,63.31,United States
+1097,SeaWorld Entertainment,SEAS,3405150464,53.3,United States
+1098,Teradata,TDC,3401901568,33.42,United States
+1099,Greif,GEF,3391964416,66.9,United States
+1100,Nelnet,NNI,3374847232,90.94,United States
+1101,Inari Medical,NARI,3374761216,62.9,United States
+1102,Amicus Therapeutics,FOLD,3373952768,12.01,United States
+1103,RingCentral,RNG,3367568640,35.07,United States
+1104,Surgery Partners,SGRY,3367318784,27.47,United States
+1105,Onto Innovation,ONTO,3366653952,67.99,United States
+1106,Meritage Homes,MTH,3366397440,92.05,United States
+1107,Community Bank System,CBU,3356787968,62.47,United States
+1108,Olaplex,OLPX,3356265728,5.17,United States
+1109,Hecla Mining,HL,3352678656,5.53,United States
+1110,Instructure Holdings,INST,3344545536,23.47,United States
+1111,Mueller Industries,MLI,3339663872,58.73,United States
+1112,Summit Materials,SUM,3337808896,28.19,United States
+1113,Vir Biotechnology,VIR,3331227904,25.03,United States
+1114,Essential Properties Realty Trust,EPRT,3320287232,23.23,United States
+1115,California Water Service,CWT,3317400064,60.51,United States
+1116,Marqeta,MQ,3308775168,6.07,United States
+1117,Axsome Therapeutics,AXSM,3302562560,76.05,United States
+1118,First Hawaiian Bank,FHB,3300553984,25.85,United States
+1119,Taylor Morrison,TMHC,3296457472,30.43,United States
+1120,Grand Canyon Education,LOPE,3286029568,105.5,United States
+1121,Neogen,NEOG,3280519424,15.18,United States
+1122,Sanmina,SANM,3271770112,56.97,United States
+1123,Ameris Bancorp,ABCB,3265078016,47.08,United States
+1124,Avista,AVA,3262365952,44.22,United States
+1125,Harmony Biosciences,HRMY,3239334144,54.61,United States
+1126,ChargePoint,CHPT,3231613184,9.46,United States
+1127,Ginkgo Bioworks,DNA,3230066688,1.67,United States
+1128,Federated Hermes,FHI,3217173248,36.15,United States
+1129,Gates Industrial Corp,GTES,3205784832,11.35,United States
+1130,Douglas Emmett,DEI,3205228288,15.52,United States
+1131,Comstock Resources,CRK,3204822272,13.71,United States
+1132,Ultragenyx,RARE,3204531200,45.71,United States
+1133,NCR Corporation,NCR,3198672128,23.28,United States
+1134,Advanced Energy,AEIS,3194385664,85.45,United States
+1135,Badger Meter,BMI,3184039168,108.79,United States
+1136,California Resources Corporation,CRC,3183494144,43.33,United States
+1137,Ambarella,AMBA,3181941504,82.1,United States
+1138,Thoughtworks,TWKS,3179874048,10.1,United States
+1139,Chegg,CHGG,3169235200,25.26,United States
+1140,CVR Energy,CVI,3159689472,31.43,United States
+1141,Select Medical Holdings,SEM,3137774592,24.71,United States
+1142,Cohen &amp; Steers,CNS,3137172992,64.41,United States
+1143,Kemper,KMPR,3129092096,48.98,United States
+1144,Blackbaud,BLKB,3129029888,58.93,United States
+1145,Tootsie Roll Industries,TR,3122271744,42.53,United States
+1146,Armstrong World Industries,AWI,3121509120,68.36,United States
+1147,SunPower,SPWR,3121359616,17.92,United States
+1148,Prestige Consumer Healthcare,PBH,3114690048,62.89,United States
+1149,Bank of Hawaii,BOH,3096590592,77.39,United States
+1150,Axonics Modulation Tech,AXNX,3090424320,62.4,United States
+1151,Belden,BDC,3085855488,72.09,United States
+1152,Sprout Social,SPT,3082735104,56.22,United States
+1153,Interparfums,IPAR,3068982784,96.28,United States
+1154,Spirit AeroSystems,SPR,3065596416,29.13,United States
+1155,Albany International,AIN,3057441024,98.31,United States
+1156,Avient,AVNT,3056574720,33.61,United States
+1157,NewMarket Corp,NEU,3055704064,309.55,United States
+1158,The AZEK Company,AZEK,3054804224,20.23,United States
+1159,CNX Resources,CNX,3050061056,16.9,United States
+1160,Sensient Technologies,SXT,3049414912,72.54,United States
+1161,Cactus Wellhead,WHD,3048088832,50.2,United States
+1162,Eastern Bankshares,EBC,3047695616,17.25,United States
+1163,National Vision Holdings,EYE,3046811392,38.61,United States
+1164,Vishay Intertechnology,VSH,3046505472,21.51,United States
+1165,Highwoods Properties,HIW,3046024192,27.67,United States
+1166,Cathay General Bancorp,CATY,3033106432,40.76,United States
+1167,Vontier,VNT,3028725760,19.17,United States
+1168,Squarespace,SQSP,3028047872,22.13,United States
+1169,Archaea Energy,LFG,3012620032,26,United States
+1170,Hostess Brands,TWNK,3009110272,22.48,United States
+1171,EnerSys,ENS,3008733440,73.69,United States
+1172,Texas Capital Bancshares,TCBI,3004929792,60.22,United States
+1173,Plains GP,PAGP,2994325248,12.42,United States
+1174,Pacific Premier Bancorp,PPBI,2991930880,31.49,United States
+1175,Radian Group,RDN,2991325952,19.05,United States
+1176,EVO Payments,EVOP,2977808384,33.85,United States
+1177,Acushnet Holdings,GOLF,2969489408,42.3,United States
+1178,Intellia Therapeutics,NTLA,2967582208,34.42,United States
+1179,Quaker Houghton,KWR,2965544704,165.38,United States
+1180,Hillenbrand,HI,2958396160,42.95,United States
+1181,SPX Corporation,SPXC,2954777856,65.39,United States
+1182,Fluence Energy,FLNC,2949127936,16.91,United States
+1183,Stagwell,STGW,2948212736,6.21,United States
+1184,Ameresco,AMRC,2946649856,56.76,United States
+1185,Travel + Leisure,TNL,2936668160,36.13,United States
+1186,nCino,NCNO,2929103104,26.38,United States
+1187,Liberty Energy,LBRT,2927295232,16.07,United States
+1188,Asana,ASAN,2923514624,13.74,United States
+1189,e.l.f. Cosmetics,ELF,2919271424,55.15,United States
+1190,Broadstone Net Lease,BNL,2918454528,15.92,United States
+1191,John Bean Technologies,JBT,2914724864,91.49,United States
+1192,PJT Partners,PJT,2909476352,73.49,United States
+1193,EngageSmart,ESMT,2909173504,17.58,United States
+1194,ABM Industries,ABM,2907422976,44.32,United States
+1195,Skyline Champion,SKY,2905711104,51.05,United States
+1196,Papa John's Pizza,PZZA,2902133760,82.15,United States
+1197,Graham Holdings,GHC,2901165312,604.2,United States
+1198,Ollie's Bargain Outlet,OLLI,2899092736,46.58,United States
+1199,BancFirst,BANF,2898036480,88.17,United States
+1200,Kosmos Energy,KOS,2897206528,6.36,United States
+1201,Equitrans Midstream,ETRN,2893140992,6.69,United States
+1202,Victoria's Secret &amp; Co,VSCO,2891993600,35.78,United States
+1203,Array Technologies,ARRY,2890932224,19.21,United States
+1204,Rush Enterprises,RUSHA,2888695552,52.22,United States
+1205,Jackson Financial,JXN,2888026880,34.78,United States
+1206,SITE Centers,SITC,2883574784,13.56,United States
+1207,Enovis,ENOV,2883200768,53.25,United States
+1208,Terex,TEX,2880562432,42.68,United States
+1209,J&amp;J Snack Foods,JJSF,2879690240,149.82,United States
+1210,Tandem Diabetes Care,TNDM,2875120896,44.72,United States
+1211,Progyny,PGNY,2871019776,30.91,United States
+1212,Atlas Air Worldwide Holdings,AAWW,2859394816,100.81,United States
+1213,Sabra Health Care REIT,SBRA,2852566016,12.35,United States
+1214,Carter's,CRI,2846664704,74.6,United States
+1215,nternational Bancshares Corp,IBOC,2844190976,45.79,United States
+1216,Duolingo,DUOL,2842206976,70.76,United States
+1217,Main Street Capital,MAIN,2838304768,36.74,United States
+1218,Goodyear,GT,2834267392,10.02,United States
+1219,Evolent Health,EVH,2833348096,28,United States
+1220,IVERIC bio,ISEE,2831621888,21.12,United States
+1221,Grocery Outlet,GO,2828873216,29.08,United States
+1222,Plexus,PLXS,2827990784,102.28,United States
+1223,Mr. Cooper Group,COOP,2825410816,40.04,United States
+1224,Shoals Technologies,SHLS,2821282816,24.43,United States
+1225,ESAB,ESAB,2819995648,46.94,United States
+1226,Fulton Financial,FULT,2817249024,16.82,United States
+1227,PennyMac,PFSI,2816077056,56.23,United States
+1228,iRhythm,IRTC,2813562624,93.44,United States
+1229,Mister Car Wash,MCW,2813560576,9.23,United States
+1230,Innovative Industrial,IIPR,2810996736,100.49,United States
+1231,Pegasystems,PEGA,2810110208,34.19,United States
+1232,Impinj,PI,2805558016,108.26,United States
+1233,Federal Signal,FSS,2803229952,46.23,United States
+1234,Cushman &amp; Wakefield,CWK,2802772992,12.42,United States
+1235,EPR Properties,EPR,2797533184,37.29,United States
+1236,Commvault,CVLT,2795941632,62.79,United States
+1237,WSFS Financial,WSFS,2792037632,45.34,United States
+1238,Prospect Capital,PSEC,2780928512,6.99,United States
+1239,Affirm,AFRM,2779637248,9.58,United States
+1240,Forward Air,FWRD,2779424000,104.53,United States
+1241,Kohl's,KSS,2777645056,25.14,United States
+1242,Curaleaf,CURLF,2775714816,3.87,United States
+1243,Dycom Industries,DY,2773157376,93.83,United States
+1244,TreeHouse Foods,THS,2761497344,49.24,United States
+1245,LXP Industrial Trust,LXP,2755970304,9.97,United States
+1246,Crestwood Equity Partners,CEQP,2755487232,26.33,United States
+1247,PTC Therapeutics,PTCT,2752703744,37.72,United States
+1248,Guardant Health,GH,2746176000,26.81,United States
+1249,Simmons First National,SFNC,2738108160,21.57,United States
+1250,Equity Commonwealth,EQC,2725304320,24.91,United States
+1251,KB Home,KBH,2723717120,31.83,United States
+1252,Excelerate Energy,EE,2720434432,25.13,United States
+1253,Cogent Communications,CCOI,2719766528,56.65,United States
+1254,Patterson Companies,PDCO,2713924096,27.96,United States
+1255,Beam Therapeutics,BEAM,2711950080,38.48,United States
+1256,Amedisys,AMED,2701059840,83.13,United States
+1257,Boise Cascade,BCC,2700589568,68.46,United States
+1258,CONMED,CNMD,2699216640,88.55,United States
+1259,Outfront Media,OUT,2693767168,16.41,United States
+1260,PacWest Bancorp,PACW,2691912960,22.85,United States
+1261,ScottsMiracle-Gro,SMG,2686710016,48.44,United States
+1262,Korn Ferry,KFY,2676613632,50.78,United States
+1263,Insmed,INSM,2666187264,19.68,United States
+1264,Peloton,PTON,2664323328,7.84,United States
+1265,Cal-Maine Foods,CALM,2661068544,54.39,United States
+1266,Helen of Troy,HELE,2651625728,110.53,United States
+1267,MaxLinear,MXL,2648456448,33.71,United States
+1268,Varonis,VRNS,2635360256,23.91,United States
+1269,Group 1 Automotive,GPI,2634732544,180.7,United States
+1270,Hub Group,HUBG,2634426880,79.28,United States
+1271,Ingevity,NGVT,2630213120,70.38,United States
+1272,Flywire,FLYW,2630145792,24.13,United States
+1273,Moelis &amp; Company,MC,2622174208,38.11,United States
+1274,Northern Oil and Gas,NOG,2619821056,30.73,United States
+1275,Genworth Financial,GNW,2618330880,5.28,United States
+1276,Park Hotels &amp; Resorts,PK,2614924288,11.63,United States
+1277,Atlantic Union Bankshares,AUB,2611913984,34.96,United States
+1278,CNO Financial Group,CNO,2611248640,22.83,United States
+1279,American Eagle Outfitters,AEO,2610565632,13.93,United States
+1280,Arcosa,ACA,2604131584,53.86,United States
+1281,BankUnited,BKU,2597820672,33.62,United States
+1282,Cvent,CVT,2597708032,5.36,United States
+1283,Alliance Resource Partners,ARLP,2594777856,20.4,United States
+1284,Mirati Therapeutics,MRTX,2592562176,45.02,United States
+1285,Braze,BRZE,2590198016,27.06,United States
+1286,Axcelis Technologies,ACLS,2590112000,78.85,United States
+1287,Blueprint Medicines,BPMC,2587374336,43.25,United States
+1288,ACI Worldwide,ACIW,2586849536,23.02,United States
+1289,HighPeak Energy,HPK,2586340352,22.86,United States
+1290,Arch Resources,ARCH,2579873024,142.67,United States
+1291,Walker &amp; Dunlop,WD,2579235328,78.13,United States
+1292,Certara,CERT,2573130240,16.12,United States
+1293,AdaptHealth,AHCO,2572033792,19.09,United States
+1294,Nordstrom,JWN,2569299712,16.05,United States
+1295,O-I Glass,OI,2561328384,16.51,United States
+1296,Mercury Systems,MRCY,2558728448,44.13,United States
+1297,Privia Health Group,PRVA,2558583040,22.39,United States
+1298,Jamf,JAMF,2557624064,21.07,United States
+1299,Hannon Armstrong,HASI,2557241856,28.74,United States
+1300,StepStone Group,STEP,2555610880,25.17,United States
+1301,Innospec,IOSP,2544098304,102.73,United States
+1302,Dorman Products,DORM,2541136384,80.88,United States
+1303,Vivint Smart Home,VVNT,2539329024,11.9,United States
+1304,Werner Enterprises,WERN,2538828288,40.17,United States
+1305,ACADIA Pharmaceuticals,ACAD,2530981632,15.63,United States
+1306,MGE Energy,MGEE,2530533888,69.98,United States
+1307,Akero Therapeutics,AKRO,2524277504,53.98,United States
+1308,Kyndryl,KD,2517369088,11.1,United States
+1309,Encore Wire,WIRE,2516237824,137.18,United States
+1310,TripAdvisor,TRIP,2515083520,17.89,United States
+1311,Easterly Government Properties,DEA,2510064128,14.19,United States
+1312,Petco,WOOF,2507625728,9.43,United States
+1313,Macerich,MAC,2498719488,11.12,United States
+1314,Spectrum Brands,SPB,2497418496,61.23,United States
+1315,Brink's,BCO,2495272448,53.72,United States
+1316,Freshpet,FRPT,2492243200,51.9,United States
+1317,CorVel Corporation,CRVL,2489987072,144.22,United States
+1318,Steve Madden,SHOO,2486820352,31.93,United States
+1319,Primo Water,PRMW,2479909888,15.52,United States
+1320,Independent Bank Group,IBTX,2470124032,59.96,United States
+1321,SJW Group,SJW,2462533632,81.22,United States
+1322,First Merchants Corporation,FRME,2456957184,41.25,United States
+1323,DigitalOcean,DOCN,2453650176,25.48,United States
+1324,Installed Building Products,IBP,2453027584,85.76,United States
+1325,Focus Financial Partners,FOCS,2447576832,37.16,United States
+1326,Alarm.com,ALRM,2443133696,48.95,United States
+1327,Otter Tail,OTTR,2432499456,58.43,United States
+1328,QuantumScape,QS,2428280576,5.57,United States
+1329,Sitio Royalties,STR,2422313728,28.89,United States
+1330,Worthington Industries,WOR,2417428480,49.77,United States
+1331,Amylyx Pharmaceuticals,AMLX,2413050624,36.42,United States
+1332,Perficient,PRFT,2405635072,69.47,United States
+1333,Energizer Holdings,ENR,2395667968,33.55,United States
+1334,Globalstar,GSAT,2395330048,1.33,United States
+1335,McGrath RentCorp,MGRC,2394107904,98.19,United States
+1336,Extreme Networks,EXTR,2387852032,18.18,United States
+1337,Trinity Industries,TRN,2386747648,29.32,United States
+1338,Kimbell Royalty Partners,KRP,2386361600,16.57,United States
+1339,Resideo Technologies,REZI,2378715648,16.31,United States
+1340,CBIZ,CBZ,2377648640,46.77,United States
+1341,PagerDuty,PD,2364566784,26.28,United States
+1342,ViaSat,VSAT,2364361472,31.28,United States
+1343,Columbia Bank,COLB,2362921984,30.05,United States
+1344,Verint Systems,VRNT,2360648192,35.84,United States
+1345,Vicor,VICR,2357916160,53.53,United States
+1346,Matson,MATX,2352226304,62.26,United States
+1347,Stepan Company,SCL,2349531136,105.7,United States
+1348,LCI Industries,LCII,2348869632,92.37,United States
+1349,NETSCOUT,NTCT,2345827584,32.47,United States
+1350,Appian,APPN,2344013056,32.31,United States
+1351,VIAVI Solutions,VIAV,2340541696,10.34,United States
+1352,Brady,BRC,2334269952,46.93,United States
+1353,STAAR Surgical,STAA,2333667072,48.41,United States
+1354,Piper Sandler,PIPR,2331843072,130.76,United States
+1355,Alpha Metallurgical Resources,AMR,2330954240,146.2,United States
+1356,Sotera Health,SHC,2330261504,8.26,United States
+1357,MGP Ingredients,MGPI,2329342720,105.91,United States
+1358,Life Time Group,LTH,2319587328,11.95,United States
+1359,Weber,WEBR,2313227008,8.06,United States
+1360,United Natural Foods,UNFI,2310991616,38.63,United States
+1361,Red Rock Resorts,RRR,2305225728,39.75,United States
+1362,Axos Financial,AX,2296173312,38.27,United States
+1363,Holly Energy Partners,HEP,2291535360,18.12,United States
+1364,First Financial Bank,FFBC,2291324672,24.16,United States
+1365,Buckle,BKE,2278680576,45.49,United States
+1366,CONSOL Energy,CEIX,2277799936,65.32,United States
+1367,NexTier Oilfield,NEX,2276063232,9.27,United States
+1368,Xerox,XRX,2275694080,14.63,United States
+1369,Park National Corp,PRK,2267145728,139.4,United States
+1370,Callon Petroleum,CPE,2265344512,36.77,United States
+1371,Itron,ITRI,2264095488,50.12,United States
+1372,Integer Holdings,ITGR,2263178496,68.31,United States
+1373,EnPro Industries,NPO,2262512640,108.76,United States
+1374,Bowlero,BOWL,2257855488,13.62,United States
+1375,ESCO Technologies,ESE,2257474304,87.21,United States
+1376,Arbor Realty Trust,ABR,2257255936,13.16,United States
+1377,National Health Investors,NHI,2255778560,51.99,United States
+1378,Sage Therapeutics,SAGE,2251241728,37.84,United States
+1379,Immunovant,IMVT,2248412672,17.41,United States
+1380,St. Joe Company,JOE,2244464384,38.48,United States
+1381,TowneBank,TOWN,2243450368,30.8,United States
+1382,NexPoint Residential,NXRT,2242033152,43.45,United States
+1383,MDC Holdings,MDC,2241971712,31.46,United States
+1384,GoHealth,GOCO,2240624640,10.43,United States
+1385,Golub Capital,GBDC,2240446464,13.11,United States
+1386,Leslie's,LESL,2240166656,12.21,United States
+1387,Omnicell,OMCL,2238071296,50.13,United States
+1388,Cedar Fair,FUN,2235664640,41.11,United States
+1389,Frontier Airlines,ULCC,2233169920,10.26,United States
+1390,Rogers Corporation,ROG,2231655680,118.63,United States
+1391,Navient,NAVI,2226781952,16.42,United States
+1392,Kontoor Brands,KTB,2215296000,39.94,United States
+1393,Weis Markets,WMK,2207013888,82.05,United States
+1394,John Wiley &amp; Sons,WLY,2206673664,39.85,United States
+1395,Hanesbrands,HBI,2200123392,6.31,United States
+1396,WaFd Bank,WAFD,2197353728,33.61,United States
+1397,Urban Outfitters,URBN,2192401408,23.79,United States
+1398,WesBanco,WSBC,2188173056,36.99,United States
+1399,Fisker,FSR,2188048640,7.02,United States
+1400,Alignment Healthcare,ALHC,2183463168,11.66,United States
+1401,WD-40 Company,WDFC,2182018304,160.68,United States
+1402,Corcept Therapeutics,CORT,2170223872,20.16,United States
+1403,Progress Software,PRGS,2163244544,50.31,United States
+1404,Four Corners Property Trust,FCPT,2163048960,25.75,United States
+1405,Vertex,VERX,2160576000,14.4,United States
+1406,Dana,DAN,2159612672,15.07,United States
+1407,Gentherm,THRM,2159536384,65.05,United States
+1408,SiTime,SITM,2159279104,100.72,United States
+1409,LGI Homes,LGIH,2159010816,92.7,United States
+1410,Banner Bank,BANR,2151601920,62.93,United States
+1411,Agiliti,AGTI,2150741760,16.13,United States
+1412,SL Green Realty,SLG,2150653440,33.28,United States
+1413,Kennedy Wilson,KW,2150228736,15.61,United States
+1414,Arconic,ARNC,2138288896,21.07,United States
+1415,JBG SMITH,JBGS,2135231744,18.77,United States
+1416,Jfrog,FROG,2132165376,21.26,United States
+1417,NuVasive,NUVA,2131759232,40.89,United States
+1418,Sylvamo,SLVM,2130082688,48.27,United States
+1419,Trustmark,TRMK,2123633920,34.84,United States
+1420,Spirit Airlines,SAVE,2123048832,19.5,United States
+1421,AeroVironment,AVAV,2118621952,84.22,United States
+1422,Sonos,SONO,2113755904,16.69,United States
+1423,Tronox,TROX,2110764160,13.67,United States
+1424,Renasant Corp,RNST,2106634240,37.65,United States
+1425,BioCryst Pharmaceuticals,BCRX,2100998528,11.27,United States
+1426,Revolution Medicines,RVMD,2097682688,23.63,United States
+1427,Evertec,EVTC,2095598720,32.14,United States
+1428,Cracker Barrel,CBRL,2095117824,94.37,United States
+1429,Jetblue Airways,JBLU,2093871360,6.47,United States
+1430,Sprinklr,CXM,2093484672,8.02,United States
+1431,Chesapeake Utilities,CPK,2088470528,117.72,United States
+1432,Nu Skin,NUS,2088250624,42.26,United States
+1433,Celldex Therapeutics,CLDX,2086521088,44.3,United States
+1434,GMS,GMS,2084018560,50.07,United States
+1435,TTEC,TTEC,2076241536,43.97,United States
+1436,Office Depot,ODP,2076140928,45.32,United States
+1437,Verra Mobility,VRRM,2068288768,13.8,United States
+1438,Joby Aviation,JOBY,2067255680,3.33,United States
+1439,Altice USA,ATUS,2064192640,4.54,United States
+1440,AMC Entertainment,AMC,2061019776,4.02,United States
+1441,Kadant,KAI,2060374912,176.65,United States
+1442,Sunnova,NOVA,2059761664,17.93,United States
+1443,Glaukos,GKOS,2058860032,43.16,United States
+1444,AtriCure,ATRC,2058745600,44.27,United States
+1445,Cricut,CRCT,2055815680,9.31,United States
+1446,Barnes Group,B,2053851904,40.62,United States
+1447,NV5 Global,NVEE,2049251968,131.7,United States
+1448,Claros Mortgage Trust,CMTG,2036202880,14.72,United States
+1449,Griffon Corporation,GFF,2031774336,35.61,United States
+1450,Krystal Biotech,KRYS,2023761280,78.6,United States
+1451,Silk Road Medical,SILK,2018205056,52.94,United States
+1452,Sabre,SABR,2017778304,6.15,United States
+1453,Sunstone Hotel Investors,SHO,2015632000,9.58,United States
+1454,American Assets Trust,AAT,2015163776,26.27,United States
+1455,Rapid7,RPD,2009874048,33.93,United States
+1456,Cavco Industries,CVCO,2006828800,225.25,United States
+1457,Green Thumb Industries,GTII.CN,2002769147,8.47,United States
+1458,Flagstar Bank,FBC,2002267264,37.54,United States
+1459,Pactiv Evergreen,PTVE,1998505728,11.24,United States
+1460,Delek Logistics Partners,DKL,1995191552,45.87,United States
+1461,Artisan Partners,APAM,1991153536,29.32,United States
+1462,ImmunityBio,IBRX,1986108416,4.96,United States
+1463,Hayward,HAYW,1984947456,9.4,United States
+1464,Earthstone Energy,ESTE,1983583616,14.2,United States
+1465,Edgewell Personal Care,EPC,1979887488,38.39,United States
+1466,Heartland Financial USA,HTLF,1978352128,46.61,United States
+1467,Agilysys,AGYS,1976837120,78.87,United States
+1468,First Advantage,FA,1973570688,12.99,United States
+1469,Expro Group,XPRO,1972579840,18.14,United States
+1470,Central Garden &amp; Pet,CENT,1969268224,37.65,United States
+1471,Enovix,ENVX,1966942208,12.52,United States
+1472,Brigham Minerals,MNRL,1964498304,32.5,United States
+1473,TransMedics Group,TMDX,1958230400,61.34,United States
+1474,Fannie Mae,FNMAL,1952788864,2.61,United States
+1475,AvidXchange,AVDX,1950289408,9.82,United States
+1476,Minerals Technologies,MTX,1948316032,60.04,United States
+1477,Remitly,RELY,1942156288,11.38,United States
+1478,Eve Air Mobility,EVEX,1941844608,7.29,United States
+1479,ForgeRock,FORG,1936784256,22.69,United States
+1480,Hilltop Holdings,HTH,1933869568,29.94,United States
+1481,Trupanion,TRUP,1926031104,47.11,United States
+1482,Kennametal,KMT,1924970112,23.89,United States
+1483,Strategic Education,STRA,1924383872,78.7,United States
+1484,Allscripts,MDRX,1924068608,17.61,United States
+1485,RPC,RES,1921517056,8.87,United States
+1486,StoneX Group,SNEX,1921114752,94.2,United States
+1487,Credo Technology,CRDO,1921114624,13.09,United States
+1488,Supernus Pharmaceuticals,SUPN,1920954624,35.54,United States
+1489,Catalyst Pharmaceuticals,CPRX,1920005760,18.45,United States
+1490,Six Flags,SIX,1919251968,23.08,United States
+1491,USA Compression Partners,USAC,1917754496,19.57,United States
+1492,Ironwood Pharmaceuticals,IRWD,1909767808,12.45,United States
+1493,Seacoast Banking,SBCF,1906380032,31.01,United States
+1494,Stock Yards Bancorp,SYBT,1903531904,65.06,United States
+1495,Yelp,YELP,1901478912,27.28,United States
+1496,Air Transport Services Group,ATSG,1899665920,26.12,United States
+1497,Payoneer,PAYO,1889296512,5.4,United States
+1498,Mercury General,MCY,1888708224,34.11,United States
+1499,PriceSmart,PSMT,1883858048,60.67,United States
+1500,TRI Pointe Group,TPH,1878009600,18.61,United States
+1501,Delek US,DK,1877859072,26.95,United States
+1502,Empire State Realty Trust,ESRT,1876070016,6.69,United States
+1503,Gogo Inflight Internet,GOGO,1874687104,14.73,United States
+1504,Shutterstock,SSTK,1865078528,52.08,United States
+1505,ICF International,ICFI,1864980864,98.97,United States
+1506,Bread Financial,BFH,1864505984,37.4,United States
+1507,Retail Opportunity Investments,ROIC,1862480768,14.96,United States
+1508,Tidewater,TDW,1859426816,36.83,United States
+1509,Tanger Factory Outlet Centers,SKT,1856333184,17.79,United States
+1510,NBT Bancorp,NBTB,1856252928,43.33,United States
+1511,Boot Barn Holdings,BOOT,1853679104,62.18,United States
+1512,Lakeland Financial Corp,LKFN,1849543296,72.96,United States
+1513,N-Able,NABL,1848407424,10.23,United States
+1514,PROCEPT BioRobotics,PRCT,1839780736,41.14,United States
+1515,Pacific Biosciences,PACB,1831482880,8.1,United States
+1516,GoodRx,GDRX,1828416896,4.62,United States
+1517,Ingles Markets,IMKTA,1828210944,96.25,United States
+1518,Victory Capital,VCTR,1827701760,26.69,United States
+1519,Enterprise Financial Services Corp,EFSC,1826919680,49.08,United States
+1520,Vector Group,VGR,1823496832,11.78,United States
+1521,Newmark,NMRK,1823340416,7.95,United States
+1522,Semtech,SMTC,1819374464,28.5,United States
+1523,International Seaways,INSW,1816882432,37.02,United States
+1524,Sonic Automotive,SAH,1816453504,49.66,United States
+1525,ZipRecruiter,ZIP,1803744896,16.37,United States
+1526,Masonite,DOOR,1803130752,80.95,United States
+1527,LifeStance Health Group,LFST,1799092864,4.79,United States
+1528,CSG International,CSGS,1797068032,57.04,United States
+1529,Arvinas,ARVN,1795895936,33.74,United States
+1530,Warrior Met Coal,HCC,1790572032,34.67,United States
+1531,CareTrust REIT,CTRE,1790179712,18.45,United States
+1532,Green Plains,GPRE,1790131200,30.19,United States
+1533,Lindsay Corporation,LNN,1789942016,162.62,United States
+1534,Carpenter Technology,CRS,1788343552,36.92,United States
+1535,Materion,MTRN,1783276160,86.87,United States
+1536,CSW Industrials,CSWI,1782629376,115.18,United States
+1537,U.S. Cellular,USM,1772484352,20.8,United States
+1538,Luminar Technologies,LAZR,1772072960,4.89,United States
+1539,Relay Therapeutics,RLAY,1771111680,14.65,United States
+1540,Rocket Lab,RKLB,1769981184,3.74,United States
+1541,Northwest Bank,NWBI,1769577856,13.94,United States
+1542,NuStar Energy,NS,1767230336,16.02,United States
+1543,Pacira Biosciences,PCRX,1764396288,38.46,United States
+1544,Prime Medicine,PRME,1764330624,18.15,United States
+1545,Bloomin' Brands,BLMN,1763334400,20.09,United States
+1546,E2open,ETWO,1760635392,5.83,United States
+1547,Getty Images,GETY,1760118144,5.43,United States
+1548,Safehold,SAFE,1758037888,28.27,United States
+1549,Helios Technologies,HLIO,1756423168,53.95,United States
+1550,Pebblebrook Hotel Trust,PEB,1755342208,13.33,United States
+1551,Oceaneering International,OII,1745526528,17.41,United States
+1552,NMI Holdings,NMIH,1741828096,20.84,United States
+1553,Coursera,COUR,1733308416,11.83,United States
+1554,DigitalBridge Group,DBRG,1732462464,10.84,United States
+1555,Shake Shack,SHAK,1731290752,41.08,United States
+1556,Urban Edge Properties,UE,1722758912,14.07,United States
+1557,Krispy Kreme,DNUT,1722089472,10.29,United States
+1558,Hercules Capital,HTGC,1717966720,13.2,United States
+1559,RLJ Lodging Trust,RLJ,1713743616,10.53,United States
+1560,FormFactor,FORM,1712268032,22.23,United States
+1561,Braves Group,BATRK,1708596352,32.18,United States
+1562,Syndax Pharmaceuticals,SNDX,1702522368,25,United States
+1563,Phreesia,PHR,1702155392,32.27,United States
+1564,Diamondrock Hospitality Company,DRH,1701504256,8.1,United States
+1565,ArcBest,ARCB,1699974272,69.62,United States
+1566,Dave & Buster's,PLAY,1695955328,35.12,United States
+1567,TriCo Bancshares,TCBK,1695687936,50.88,United States
+1568,AssetMark,AMK,1695529472,22.96,United States
+1569,Frontdoor,FTDR,1693827840,20.79,United States
+1570,FB Financial,FBK,1691826432,36.05,United States
+1571,Alamo Group,ALG,1688191488,141.08,United States
+1572,Galaxy Digital Holdings,7LX.F,1687455921,2.84,United States
+1573,Fortress Transportation,FTAI,1682331648,16.88,United States
+1574,World Fuel Services,INT,1679865088,27.13,United States
+1575,Mueller Water Products,MWA,1676764032,10.74,United States
+1576,TG Therapeutics,TGTX,1675066496,11.53,United States
+1577,eXp World Holdings,EXPI,1671094272,10.94,United States
+1578,CarGurus,CARG,1671036800,14.05,United States
+1579,Compass Minerals,CMP,1670058496,40.71,United States
+1580,Tenneco,TEN,1669011200,19.99,United States
+1581,Veracyte,VCYT,1668857600,23.26,United States
+1582,Zeta Global,ZETA,1668472576,8.08,United States
+1583,NW Natural,NWN,1665983488,47.47,United States
+1584,Chinook Therapeutics,KDNY,1661176704,25.98,United States
+1585,Rumble,RUM,1660823296,5.95,United States
+1586,XPEL,XPEL,1657242112,60.01,United States
+1587,Nuvalent,NUVL,1655993600,29.34,United States
+1588,Liberty Latin America,LILA,1652180352,7.52,United States
+1589,ProKidney,PROK,1644129792,6.61,United States
+1590,H&amp;E Equipment Services,HEES,1643762816,45.27,United States
+1591,TaskUs,TASK,1636327808,16.77,United States
+1592,Veritiv,VRTV,1625883776,120.59,United States
+1593,The Cheesecake Factory,CAKE,1623332480,31.57,United States
+1594,Revolve,RVLV,1614116608,22.01,United States
+1595,Duck Creek Technologies,DCT,1611266944,12.13,United States
+1596,Winnebago Industries,WGO,1608036352,52.65,United States
+1597,Adtalem Global Education,ATGE,1608003968,35.42,United States
+1598,SpringWorks Therapeutics,SWTX,1607591936,25.77,United States
+1599,Cannae Holdings,CNNE,1606438016,20.59,United States
+1600,Provident Financial Services,PFS,1604856704,21.32,United States
+1601,Rhythm Pharmaceuticals,RYTM,1604799616,28.48,United States
+1602,Marten Transport,MRTN,1600035840,19.73,United States
+1603,MicroStrategy,MSTR,1597200640,138.45,United States
+1604,Methode Electronics,MEI,1594531328,44.18,United States
+1605,CSI,CSVI,1594247040,57.98,United States
+1606,InvenTrust Properties,IVT,1592640000,23.62,United States
+1607,billtrust (BTRS),BTRS,1592165632,9.49,United States
+1608,Addus HomeCare,ADUS,1591868544,98.81,United States
+1609,MillerKnoll,MLKN,1589710976,21.04,United States
+1610,Century Communities,CCS,1588773888,50.01,United States
+1611,Veris Residential,VRE,1585636224,15.89,United States
+1612,Westamerica Bancorporation,WABC,1584069760,58.86,United States
+1613,The Bancorp,TBBK,1583159680,28.28,United States
+1614,Montauk Renewables,MNTK,1579644032,11,United States
+1615,National Bank Holdings,NBHC,1577080960,41.95,United States
+1616,Getty Realty,GTY,1576808576,33.74,United States
+1617,Sandy Spring Bank,SASR,1573711616,35.25,United States
+1618,Day One Biopharmaceuticals,DAWN,1565133440,21.28,United States
+1619,Warby Parker,WRBY,1562080256,13.51,United States
+1620,Intapp,INTA,1558696704,24.74,United States
+1621,Custom Truck One Source,CTOS,1553517056,6.3,United States
+1622,Talos Energy,TALO,1552321664,18.8,United States
+1623,Madison Square Garden,MSGE,1551635968,44.91,United States
+1624,LiveRamp,RAMP,1551559168,23.34,United States
+1625,BRP Group,BRP,1547383936,25.19,United States
+1626,Elme Communities,ELME,1544246400,17.65,United States
+1627,Stellar Bancorp,STEL,1539905792,29.45,United States
+1628,AAR,AIR,1539109248,44.67,United States
+1629,Xencor,XNCR,1538249088,25.67,United States
+1630,TTM Technologies,TTMI,1533601024,15.01,United States
+1631,Q2,QTWO,1533403264,26.66,United States
+1632,MYR Group,MYRG,1529431680,92.13,United States
+1633,Cohu,COHU,1528922880,32.1,United States
+1634,First Bancorp,FBNC,1527393664,42.77,United States
+1635,Horace Mann Educators,HMN,1527347072,37.35,United States
+1636,Hope Bancorp,HOPE,1526979968,12.78,United States
+1637,Xenia Hotels &amp; Resorts,XHR,1525747840,13.01,United States
+1638,Rocket Pharmaceuticals,RCKT,1521831552,19.33,United States
+1639,Granite Construction,GVA,1520495616,34.77,United States
+1640,Veritex Holdings,VBTX,1520243584,28.15,United States
+1641,Agios Pharmaceuticals,AGIO,1518676992,27.64,United States
+1642,First National of Nebraska,FINN,1517100160,13602.01,United States
+1643,Model N,MODN,1513031424,40.5,United States
+1644,Kinetik,KNTK,1509775488,33.05,United States
+1645,Xometry,XMTR,1509306752,31.82,United States
+1646,CommScope,COMM,1508454016,7.24,United States
+1647,Revance Therapeutics,RVNC,1507252352,18.32,United States
+1648,Laureate Education,LAUR,1504281600,9.6,United States
+1649,Sterling Check,STER,1503454720,15.49,United States
+1650,UCT (Ultra Clean Holdings),UCTT,1503435008,33.05,United States
+1651,Apollo Commercial Real Estate,ARI,1500145280,10.67,United States
+1652,SolarWinds,SWI,1497406080,9.26,United States
+1653,Digital Turbine,APPS,1495153664,15.1,United States
+1654,Knowles,KN,1493339904,16.42,United States
+1655,LegalZoom,LZ,1492066432,7.75,United States
+1656,Triumph Bancorp,TBK,1488671360,58.74,United States
+1657,Arcus Biosciences,RCUS,1487978112,20.55,United States
+1658,Udemy,UDMY,1482467712,10.49,United States
+1659,Paragon 28,FNA,1473895040,19.11,United States
+1660,Infinera,INFN,1471186176,6.7,United States
+1661,FibroGen,FGEN,1470437888,15.65,United States
+1662,Oxford Industries,OXM,1467889664,93.09,United States
+1663,InterDigital,IDCC,1466686976,49.45,United States
+1664,Target Hospitality,TH,1465182720,15.07,United States
+1665,Owens &amp; Minor,OMI,1463702400,19.2,United States
+1666,ADTRAN,ADTN,1462541440,18.73,United States
+1667,Vivid Seats,SEAT,1461308160,7.33,United States
+1668,Meridian Bioscience,VIVO,1455521152,33.21,United States
+1669,Enerpac Tool Group,EPAC,1454525824,25.53,United States
+1670,DICE Therapeutics,DICE,1447998848,30.38,United States
+1671,Monarch Casino &amp; Resort,MCRI,1447528448,76.34,United States
+1672,Huron Consulting,HURN,1443982848,72.44,United States
+1673,VIZIO,VZIO,1442819072,7.42,United States
+1674,Herbalife,HLF,1442801280,14.74,United States
+1675,Sixth Street Specialty Lending,TSLX,1438263296,17.76,United States
+1676,Hain Celestial,HAIN,1437502336,16.1,United States
+1677,Embecta,EMBC,1437411200,25.19,United States
+1678,Avidity Biosciences,RNA,1436254720,21.61,United States
+1679,EverCommerce,EVCM,1434517376,7.43,United States
+1680,Clearfield,CLFD,1432914560,94.28,United States
+1681,Grayscale Bitcoin Trust,GBTC,1432362496,8.15,United States
+1682,Recursion Pharmaceuticals,RXRX,1430200064,7.55,United States
+1683,LTC Properties,LTC,1429819392,35.3,United States
+1684,Grosvenor Capital Management,GCMG,1427763200,7.64,United States
+1685,Acadia Realty Trust,AKR,1424179072,14.21,United States
+1686,Sovos Brands,SOVO,1422554624,14.09,United States
+1687,Aurora Innovation,AUR,1420385024,1.22,United States
+1688,Gibraltar Industries,ROCK,1419710592,45.84,United States
+1689,Poshmark,POSH,1416822784,17.89,United States
+1690,Uranium Energy,UEC,1416345472,3.83,United States
+1691,Monro,MNRO,1415340160,45,United States
+1692,Gulfport Energy,GPOR,1414764928,73.41,United States
+1693,Perimeter Solutions,PRM,1412203648,8.98,United States
+1694,Par Pacific Holdings,PARR,1410830976,23.39,United States
+1695,Eagle Bancorp,EGBN,1409210624,44.15,United States
+1696,Jack in the Box,JACK,1408617472,67.78,United States
+1697,KAR Auction Services,KAR,1406002304,12.91,United States
+1698,Hillman Solutions,HLMN,1405089024,7.23,United States
+1699,Brinker International,EAT,1404823808,31.9,United States
+1700,Nevro,NVRO,1400551808,39.53,United States
+1701,Magnite,MGNI,1397874688,10.48,United States
+1702,BGC Partners,BGCP,1396472064,3.77,United States
+1703,NOW Inc.,DNOW,1395961600,12.64,United States
+1704,Archrock,AROC,1395061632,8.97,United States
+1705,Paramount Group,PGRE,1391495680,5.91,United States
+1706,Construction Partners,ROAD,1391044992,26.4,United States
+1707,Reata Pharmaceuticals,RETA,1389529088,37.92,United States
+1708,Janus International Group,JBI,1389480448,9.48,United States
+1709,Arcellx,ACLX,1388125184,30.5,United States
+1710,City Holding Company,CHCO,1387522432,93.4,United States
+1711,Cytek Biosciences,CTKB,1375500544,10.2,United States
+1712,Middlesex Water Company,MSEX,1374006272,77.9,United States
+1713,Harmonic,HLIT,1373303808,13.03,United States
+1714,EchoStar,SATS,1371659776,16.5,United States
+1715,Vista Outdoor,VSTO,1371331968,24.24,United States
+1716,Trulieve Cannabis,TRUL.CN,1370072201,7.37,United States
+1717,Patrick Industries,PATK,1370020736,60.45,United States
+1718,Virtus Investment Partners,VRTS,1368469504,189.23,United States
+1719,Hudson Pacific Properties,HPP,1368450432,9.59,United States
+1720,Corsair Gaming,CRSR,1367262464,13.6,United States
+1721,stem,STEM,1366393344,8.84,United States
+1722,Mirion Technologies,MIR,1365490176,6.56,United States
+1723,First Busey,BUSE,1361478656,24.65,United States
+1724,Replimune,REPL,1361367424,27.37,United States
+1725,Amplitude,AMPL,1357680000,12,United States
+1726,Two Harbors Investment,TWO,1355649280,15.7,United States
+1727,MannKind Corp,MNKD,1355459456,5.15,United States
+1728,Marcus &amp; Millichap,MMI,1352999040,34.37,United States
+1729,Alexander &amp; Baldwin,ALEX,1352586624,18.65,United States
+1730,Geo Group,GEO,1351993600,10.89,United States
+1731,Integral Ad Science,IAS,1350609792,8.78,United States
+1732,Upwork,UPWK,1347568896,10.26,United States
+1733,Kymera Therapeutics,KYMR,1346928384,24.55,United States
+1734,Amphastar Pharmaceuticals,AMPH,1345540608,27.84,United States
+1735,Berkshire Hills Bancorp,BHLB,1342198144,29.81,United States
+1736,Scholastic,SCHL,1341734016,39.45,United States
+1737,K12,LRN,1341294976,31.17,United States
+1738,Dynavax Technologies,DVAX,1339642496,10.5,United States
+1739,Calumet Specialty Products Partners,CLMT,1337512320,16.89,United States
+1740,Travere Therapeutics,TVTX,1337377792,20.84,United States
+1741,OSI Systems,OSIS,1336922752,79.32,United States
+1742,Arhaus,ARHS,1334800384,9.53,United States
+1743,Sally Beauty Holdings,SBH,1333220608,12.46,United States
+1744,Apollo Medical Holdings,AMEH,1332725760,29.26,United States
+1745,S&amp;T Bancorp,STBA,1332359552,34.16,United States
+1746,Live Oak Bank,LOB,1331455488,30.1,United States
+1747,Hims &amp; Hers Health,HIMS,1330568448,6.41,United States
+1748,CoreCivic,CXW,1329755264,11.57,United States
+1749,Twist Bioscience,TWST,1327377536,23.47,United States
+1750,Global Net Lease,GNL,1324967168,12.47,United States
+1751,Alkami Technology,ALKT,1322771840,14.46,United States
+1752,Goosehead Insurance,GSHD,1322284416,34.01,United States
+1753,Schr??dinger,SDGR,1318606208,18.51,United States
+1754,iRobot,IRBT,1316422912,48.13,United States
+1755,Saul Centers,BFS,1315981824,40.25,United States
+1756,PRA Group,PRAA,1315080704,33.74,United States
+1757,Compass Diversified Holdings,CODI,1311562240,18.17,United States
+1758,OFG Bancorp,OFG,1308942080,27.52,United States
+1759,Montrose Environmental,MEG,1308647424,44.05,United States
+1760,First Commonwealth Financial Corp,FCF,1304466944,13.97,United States
+1761,1st Source,SRCE,1304365952,52.9,United States
+1762,The Beauty Health Company,SKIN,1298116992,9.07,United States
+1763,Digi International,DGII,1295054336,36.31,United States
+1764,Keros Therapeutics,KROS,1293708800,46.97,United States
+1765,Universal Corporation,UVV,1288667392,52.48,United States
+1766,Kratos Defense &amp; Security Solutions,KTOS,1287280512,10.22,United States
+1767,TechTarget,TTGT,1283489664,43.77,United States
+1768,UNITI,UNIT,1280785152,5.4,United States
+1769,Aris Water Solutions,ARIS,1277300352,14.35,United States
+1770,Treace Medical Concepts,TMCI,1276539136,23,United States
+1771,Utz Brands,UTZ,1274821888,15.78,United States
+1772,ACV Auctions,ACVA,1272839808,8.05,United States
+1773,Everi Holdings,EVRI,1271321856,14.21,United States
+1774,NextGen Healthcare,NXGN,1270294272,18.79,United States
+1775,Nutex Health,NUTX,1267051520,1.95,United States
+1776,M/I Homes,MHO,1265025408,46.12,United States
+1777,Chimera Investment Corporation,CIM,1262781184,5.45,United States
+1778,The Chefs' Warehouse,CHEF,1260999808,32.95,United States
+1779,Ladder Capital,LADR,1260577408,9.96,United States
+1780,ModivCare,MODV,1259439744,89.08,United States
+1781,CTS Corporation,CTS,1259256064,39.5,United States
+1782,Medifast,MED,1256495744,114.99,United States
+1783,OceanFirst Financial,OCFC,1256165504,21.24,United States
+1784,OPAL Fuels,OPAL,1255391872,7.22,United States
+1785,V2X,VVX,1253675904,41.15,United States
+1786,Avanos Medical,AVNS,1253575296,26.96,United States
+1787,PBF Logistics,PBFX,1248559744,19.9,United States
+1788,Allegiant Air,ALGT,1241353600,67.47,United States
+1789,P10,PX,1238431360,10.58,United States
+1790,Safety Insurance,SAFT,1238400512,84.03,United States
+1791,Rent-A-Center,RCII,1234760576,22.18,United States
+1792,Vericel,VCEL,1234409216,26.14,United States
+1793,Ready Capital,RC,1233606016,11,United States
+1794,Genesis Energy  L.P.,GEL,1233144832,10.06,United States
+1795,Outset Medical,OM,1228605184,25.43,United States
+1796,Pediatrix Medical Group,MD,1228187008,14.79,United States
+1797,Blucora,BCOR,1226793216,25.62,United States
+1798,Dime Community Bancshares,DCOM,1226065024,31.79,United States
+1799,Meta Financial Group,CASH,1226065024,43.07,United States
+1800,Cassava Sciences,SAVA,1224939904,29.35,United States
+1801,PC Connection,CNXN,1222936320,46.52,United States
+1802,Standex,SXI,1221789312,101.93,United States
+1803,GrafTech,EAF,1217552640,4.75,United States
+1804,Imago BioSciences,IMGO,1217267968,35.97,United States
+1805,A10 Networks,ATEN,1215928320,16.56,United States
+1806,C3 AI,AI,1210555904,10.98,United States
+1807,Heartland Express,HTLD,1208153728,15.31,United States
+1808,Kaiser Aluminum,KALU,1205746944,75.64,United States
+1809,Diversified Energy,DEC.L,1204048014,1.41,United States
+1810,Enova International,ENVA,1202711936,38.23,United States
+1811,ProFrac,PFHC,1195411200,22.08,United States
+1812,Service Properties Trust,SVC,1193743360,7.22,United States
+1813,EQRx,EQRX,1189334272,2.44,United States
+1814,ePlus,PLUS,1188468864,44.17,United States
+1815,Capitol Federal Savings Bank,CFFN,1186565888,8.66,United States
+1816,ANGI Homeservices,ANGI,1185506816,2.35,United States
+1817,ProPetro,PUMP,1182197248,10.32,United States
+1818,Federal Agricultural Mortgage,AGM,1178941824,112.12,United States
+1819,Global Partners LP,GLP,1177777536,34.65,United States
+1820,Viridian Therapeutics,VRDN,1177662336,29.26,United States
+1821,Telephone and Data Systems,TDS,1177101184,10.37,United States
+1822,Planet Labs,PL,1176849792,4.33,United States
+1823,Verve Therapeutics,VERV,1176016512,19.09,United States
+1824,EVgo,EVGO,1175980160,4.44,United States
+1825,The Andersons,ANDE,1175281792,35.08,United States
+1826,Nicolet Bankshares,NIC,1170409472,79.75,United States
+1827,Everbridge,EVBG,1169820032,29.3,United States
+1828,TriMas,TRS,1168297216,27.84,United States
+1829,Employers Holdings,EIG,1168098304,42.95,United States
+1830,HNI Corporation,HNI,1166045568,28.19,United States
+1831,Primoris Services Corporation,PRIM,1163398656,21.91,United States
+1832,Kayne Anderson Capital Advisors,KYN,1162580864,8.54,United States
+1833,Avid Technology,AVID,1161967488,26.6,United States
+1834,NeoGenomics,NEO,1160093056,9.19,United States
+1835,Clean Energy Fuels,CLNE,1159962112,5.22,United States
+1836,Stewart Information Services,STC,1155338880,42.59,United States
+1837,Definitive Healthcare,DH,1153252992,10.98,United States
+1838,Southside Bancshares,SBSI,1152569600,35.9,United States
+1839,Ecovyst,ECVT,1149482752,8.83,United States
+1840,Energy Recovery,ERII,1146798080,20.48,United States
+1841,Semrush,SEMR,1145180032,8.09,United States
+1842,Dorchester Minerals,DMLP,1143470720,29.8,United States
+1843,Mativ Holdings,MATV,1142269184,20.79,United States
+1844,Lakeland Bancorp,LBAI,1138056576,17.56,United States
+1845,Palomar Holdings,PLMR,1137742464,45.09,United States
+1846,Tennant Company,TNC,1136983936,61.14,United States
+1847,Myriad Genetics,MYGN,1134473216,14,United States
+1848,Kforce,KFRC,1133769216,54.63,United States
+1849,Xponential Fitness,XPOF,1127942144,22.85,United States
+1850,Piedmont Office Realty Trust,PDM,1125979392,9.13,United States
+1851,Helix Energy Solutions,HLX,1125752704,7.42,United States
+1852,Ligand Pharmaceuticals,LGND,1123762176,66.52,United States
+1853,Donnelley Financial Solutions,DFIN,1123410432,38.6,United States
+1854,Guess,GES,1122171264,20.61,United States
+1855,Zentalis Pharmaceuticals,ZNTL,1121415680,19.65,United States
+1856,Abercrombie &amp; Fitch,ANF,1120668928,22.87,United States
+1857,Tompkins Financial,TMP,1119980160,77.33,United States
+1858,Ryerson,RYI,1118899968,30.23,United States
+1859,BridgeBio Pharma,BBIO,1118880384,7.49,United States
+1860,Encore Capital Group,ECPG,1117134848,47.77,United States
+1861,Origin Bancorp,OBNK,1115620608,36.37,United States
+1862,Radius Global Infrastructure,RADI,1112912512,11.68,United States
+1863,MeridianLink,MLNK,1110190848,13.72,United States
+1864,PureCycle Technologies,PCT,1109388160,6.79,United States
+1865,FIGS,FIGS,1107803136,6.68,United States
+1866,Green Brick Partners,GRBK,1107204224,24.05,United States
+1867,FuelCell Energy,FCEL,1103566592,2.72,United States
+1868,SES AI,SES,1101948800,3.15,United States
+1869,PennyMac Mortgage Investment Trust,PMT,1100490112,12.38,United States
+1870,German American Bancorp,GABC,1099794176,37.3,United States
+1871,PROS,PRO,1095888384,24.18,United States
+1872,Deciphera Pharmaceuticals,DCPH,1094731264,16.2,United States
+1873,UserTesting,USER,1090724096,7.51,United States
+1874,The Greenbrier Companies,GBX,1090352512,33.26,United States
+1875,E. W. Scripps Company,SSP,1089562752,13.05,United States
+1876,Malibu Boats,MBUU,1084506240,53.31,United States
+1877,Wabash National,WNC,1083536640,22.6,United States
+1878,Cowen,COWN,1082752768,38.65,United States
+1879,LSB Industries,LXU,1080717824,13.18,United States
+1880,ImmunoGen,IMGN,1080576128,4.9,United States
+1881,Kronos Worldwide,KRO,1078489856,9.34,United States
+1882,WeWork,WE,1078044800,1.36,United States
+1883,Heritage Financial,HFWA,1075592704,30.64,United States
+1884,Adaptive Biotechnologies,ADPT,1075450240,7.52,United States
+1885,Upstart,UPST,1074640896,13.13,United States
+1886,Preferred Bank,PFBC,1073495296,74.77,United States
+1887,Orion Engineered Carbons,OEC,1072787136,17.64,United States
+1888,PGT Innovations,PGTI,1072758848,17.88,United States
+1889,Brookline Bancorp,BRKL,1072745024,13.96,United States
+1890,Netstreit,NTST,1072226304,18.16,United States
+1891,Aimco,AIV,1072038272,7.07,United States
+1892,Sinclair Broadcast,SBGI,1066667264,15.32,United States
+1893,RadNet,RDNT,1065763648,18.58,United States
+1894,SpartanNash,SPTN,1065268032,30.21,United States
+1895,PDF Solutions,PDFS,1061674368,28.4,United States
+1896,Consensus Cloud Solutions,CCSI,1060985536,53.51,United States
+1897,Inhibrx,INBX,1056992512,24.27,United States
+1898,Diamond Offshore Drilling,DO,1055849536,10.4,United States
+1899,Golden Entertainment,GDEN,1055554944,37.03,United States
+1900,Franklin BSP Realty Trust,FBRT,1055327744,12.8,United States
+1901,Waldencast,WALD,1053061376,9.79,United States
+1902,Aclaris Therapeutics,ACRS,1052927744,15.79,United States
+1903,Select Energy Services,WTTR,1051771584,9.2,United States
+1904,MoneyGram,MGI,1051375104,10.89,United States
+1905,Playa Hotels &amp; Resorts,PLYA,1049832000,6.47,United States
+1906,CVR Partners,UAN,1049085632,99.26,United States
+1907,Brandywine Realty Trust,BDN,1048864128,6.1,United States
+1908,AdvanSix,ASIX,1048644928,38.04,United States
+1909,Merchants Bancorp,MBIN,1045407808,24.25,United States
+1910,U.S. Physical Therapy,USPH,1044808576,80.36,United States
+1911,National Western Life,NWLI,1041792832,286.52,United States
+1912,Photronics,PLAB,1038746944,16.83,United States
+1913,Arko,ARKO,1037448064,8.64,United States
+1914,Modine Manufacturing,MOD,1036778048,19.9,United States
+1915,Momentive Global,MNTV,1030977920,6.94,United States
+1916,Paya,PAYA,1028632704,7.78,United States
+1917,Nikola,NKLA,1027135424,2.15,United States
+1918,Cinemark Theatres,CNK,1025418944,8.52,United States
+1919,Gray Television,GTN,1025329472,11.06,United States
+1920,Altus Power,AMPS,1024236736,6.4,United States
+1921,USANA,USNA,1021967232,53.21,United States
+1922,Olo,OLO,1012300224,6.2,United States
+1923,Armada Hoffler Properties,AHH,1011504448,11.45,United States
+1924,LeMaitre Vascular,LMAT,1008961280,45.86,United States
+1925,Westrock Coffee,WEST,1008135424,13.37,United States
+1926,Forma Therapeutics,FMTX,1007827648,20.01,United States
+1927,Morphic Therapeutic,MORF,1006605824,26.11,United States
+1928,NAPCO Security Technologies,NSSC,1003316800,27.31,United States
+1929,Verano Holdings,VRNOF,995656256,3.07,United States
+1930,MFA Financial,MFA,995574656,9.78,United States
+1931,AMERISAFE,AMSF,995532160,51.97,United States
+1932,AZZ,AZZ,993244928,39.95,United States
+1933,Compass,COMP,993236608,2.29,United States
+1934,Coeur Mining,CDE,992093568,3.36,United States
+1935,Paymentus,PAY,991299456,8.06,United States
+1936,Atrion,ATRI,990894592,559,United States
+1937,Sterling Construction,STRL,990568000,32.66,United States
+1938,Cross Country Healthcare,CCRN,989822592,26.54,United States
+1939,Iovance Biotherapeutics,IOVA,989412224,6.27,United States
+1940,Fastly,FSLY,986460032,8.02,United States
+1941,Apogee Enterprises,APOG,984485120,44.33,United States
+1942,La-Z-Boy,LZB,983932160,22.81,United States
+1943,Energy Fuels,UUUU,976486848,6.2,United States
+1944,Fate Therapeutics,FATE,974133248,10.03,United States
+1945,InnovAge,INNV,973392576,7.18,United States
+1946,Sumo Logic,SUMO,970305088,8.09,United States
+1947,Crinetics Pharmaceuticals,CRNX,970203328,18.03,United States
+1948,MRC Global,MRC,969023680,11.59,United States
+1949,B. Riley Financial,RILY,964644544,33.91,United States
+1950,Suburban Propane Partners,SPH,961175040,15.14,United States
+1951,Titan International,TWI,960570560,15.29,United States
+1952,AST SpaceMobile,ASTS,959047936,4.8,United States
+1953,KKR Real Estate Finance Trust,KREF,959038592,13.88,United States
+1954,REGENXBIO,RGNX,958953216,22.15,United States
+1955,3D Systems,DDD,956826816,7.3,United States
+1956,Premier Financial,PFC,956736128,26.9,United States
+1957,23andMe,ME,954241088,2.1,United States
+1958,Veeco,VECO,953937408,18.55,United States
+1959,Banc of California,BANC,953220928,15.85,United States
+1960,Enanta Pharmaceuticals,ENTA,951693568,45.76,United States
+1961,Camping World,CWH,949519168,22.32,United States
+1962,ConnectOne Bancorp,CNOB,948701888,24.18,United States
+1963,HireRight,HRT,943088256,11.87,United States
+1964,New York Mortgage Trust,NYMT,942500032,2.54,United States
+1965,Virgin Galactic,SPCE,941737408,3.43,United States
+1966,Omega Flex,OFLX,940889664,93.21,United States
+1967,U.S. Silica,SLCA,940683072,12.43,United States
+1968,Centerspace,CSR,937933120,58.38,United States
+1969,Perdoceo Education,PRDO,937364288,13.96,United States
+1970,OPKO Health,OPK,936881792,1.21,United States
+1971,Lemonade,LMND,936477824,13.54,United States
+1972,Tellurian,TELL,936129344,1.66,United States
+1973,ProAssurance,PRA,935439872,17.34,United States
+1974,Pliant Therapeutics,PLRX,933498752,19.15,United States
+1975,Benchmark Electronics,BHE,932169280,26.5,United States
+1976,Sweetgreen,SG,930719936,8.4,United States
+1977,Columbus McKinnon,CMCO,929609664,32.47,United States
+1978,Biohaven Pharmaceutical,BHVN,927671168,13.61,United States
+1979,Steel Partners,SPLP,926799744,42.8,United States
+1980,Dril-Quip,DRQ,924651008,27.26,United States
+1981,LendingClub,LC,923732288,8.79,United States
+1982,Astec Industries,ASTE,923486208,40.66,United States
+1983,Innoviva,INVA,922533952,13.22,United States
+1984,Sun Country Airlines,SNCY,921942208,15.85,United States
+1985,Customers Bancorp,CUBI,920185792,28.3,United States
+1986,Matthews International Corporation,MATW,918032384,30.3,United States
+1987,NRC Health,NRC,918018816,37.18,United States
+1988,Geron,GERN,916870208,2.41,United States
+1989,Cars.com,CARS,915559936,13.75,United States
+1990,National Healthcare,NHC,911823104,59.43,United States
+1991,Bally's Corporation,BALY,910252672,19.26,United States
+1992,Provention Bio,PRVB,907655232,10.41,United States
+1993,International Money Express,IMXI,906175680,24.45,United States
+1994,Amerant Bancorp,AMTB,905151232,26.8,United States
+1995,Associated Capital Group,AC,903190272,41.05,United States
+1996,Central Securities,CET,902770048,33.11,United States
+1997,Franchise Group,FRG,902229952,23.62,United States
+1998,Titan Machinery,TITN,902145152,39.73,United States
+1999,Community Healthcare Trust,CHCT,899639616,35.56,United States
+2000,OrthoPediatrics,KIDS,898491392,39.25,United States
+2001,Global Industrial Company,GIC,898072064,23.66,United States
+2002,Fulgent Genetics,FLGT,895031808,29.61,United States
+2003,"Sturm, Ruger &amp; Co",RGR,894984896,50.66,United States
+2004,UMH Properties,UMH,892866752,16.02,United States
+2005,PureTech Health,PRTC,888625536,31.9,United States
+2006,American Axle &amp; Manufacturing,AXL,888366272,7.76,United States
+2007,UFP Technologies,UFPT,888022464,117.18,United States
+2008,Healthcare Services Group,HCSG,887944640,11.99,United States
+2009,Barings BDC,BBDC,887524928,8.16,United States
+2010,Allogene Therapeutics,ALLO,886170432,6.15,United States
+2011,Overstock.com,OSTK,883464256,19.32,United States
+2012,Mesa Laboratories,MLAB,883455488,165.54,United States
+2013,Arcutis Biotherapeutics,ARQT,883453120,14.5,United States
+2014,AnaptysBio,ANAB,880810944,30.98,United States
+2015,CRA International,CRAI,875592512,122.72,United States
+2016,Conduent,CNDT,875555584,4.06,United States
+2017,IDEAYA Biosciences,IDYA,875184576,18.19,United States
+2018,Universal Logistics Holdings,ULH,873726848,33.25,United States
+2019,Hibbett Sports,HIBB,869676928,68.33,United States
+2020,The Shyft Group,SHYF,869056896,24.78,United States
+2021,RCI Hospitality Holdings,RICK,864271680,93.64,United States
+2022,Lyell Immunopharma,LYEL,862667968,3.46,United States
+2023,RPT Realty,RPT,862500928,9.93,United States
+2024,Novavax,NVAX,860240448,10.12,United States
+2025,Laredo Petroleum,LPI,860010560,51.15,United States
+2026,Perella Weinberg Partners,PWP,856033984,9.76,United States
+2027,Cutera,CUTR,854647360,43.57,United States
+2028,Wolverine World Wide,WWW,854492928,10.85,United States
+2029,ADMA Biologics,ADMA,853790144,3.87,United States
+2030,Zuora,ZUO,848360000,6.35,United States
+2031,PROG Holdings,PRG,846551616,16.92,United States
+2032,The Necessity Retail REIT,RTL,845450176,5.92,United States
+2033,Bank First,BFC,844932928,93.58,United States
+2034,Open Lending,LPRO,844315520,6.69,United States
+2035,SkyWest,SKYW,841957376,16.64,United States
+2036,Proterra,PTRA,839987456,3.73,United States
+2037,Avid Bioservices,CDMO,839930688,13.48,United States
+2038,Schnitzer Steel,SCHN,839564352,30.68,United States
+2039,BrightSphere Investment Group,BSIG,839036480,20.25,United States
+2040,CryoPort,CYRX,838876608,17.12,United States
+2041,QCR Holdings,QCRH,837212928,49.59,United States
+2042,Paysafe,PSFE,831013824,13.71,United States
+2043,Allegiance Bancshares,ABTX,830943168,41.63,United States
+2044,AerSale,ASLE,830725056,16.05,United States
+2045,Westlake Chemical Partners,WLKP,829123584,23.54,United States
+2046,Douglas Dynamics,PLOW,826213440,36.1,United States
+2047,Mission Produce,AVO,826126464,11.69,United States
+2048,Green Dot,GDOT,822966144,15.66,United States
+2049,Grid Dynamics,GDYN,822868864,11.12,United States
+2050,Plymouth Industrial REIT,PLYM,821072512,18.95,United States
+2051,Kura Oncology,KURA,820157248,12.26,United States
+2052,Community Trust Bancorp,CTBI,819941376,45.76,United States
+2053,Unitil Corporation,UTL,819879488,51.12,United States
+2054,Carvana,CVNA,819623936,4.62,United States
+2055,Varex Imaging,VREX,814168960,20.31,United States
+2056,A-Mark Precious Metals,AMRK,813829504,34.7,United States
+2057,ViewRay,VRAY,813650816,4.49,United States
+2058,Hawkins,HWKN,813240576,38.69,United States
+2059,First Foundation,FFWM,811419008,14.39,United States
+2060,Washington Trust Bancorp,WASH,810251264,47.16,United States
+2061,American Woodmark,AMWD,808650624,48.65,United States
+2062,Chase Corporation,CCF,808614464,85.12,United States
+2063,Myers Industries,MYE,808417408,22.15,United States
+2064,Jeld-Wen,JELD,807112704,9.57,United States
+2065,Republic Bank,RBCAA,805274496,40.78,United States
+2066,TimkenSteel,TMST,804896128,18.1,United States
+2067,Winmark,WINA,803789696,233.81,United States
+2068,Grindr,GRND,802548480,4.63,United States
+2069,Cogent Biosciences,COGT,802376192,11.48,United States
+2070,Altimmune,ALT,799572736,16.27,United States
+2071,Steelcase,SCS,799375936,7.08,United States
+2072,First Watch Restaurant,FWRG,799194624,13.5,United States
+2073,Peoples Bancorp,PEBO,797963072,28.23,United States
+2074,W&amp;T Offshore,WTI,796696512,5.57,United States
+2075,i3 Verticals,IIIV,795808768,24.03,United States
+2076,WideOpenWest,WOW,795078016,9.07,United States
+2077,B&amp;G Foods,BGS,794082496,11.08,United States
+2078,Dream Finders Homes,DFH,794025664,8.56,United States
+2079,BrightSpire Capital,BRSP,791200320,6.14,United States
+2080,Shentel,SHEN,791052160,15.79,United States
+2081,Matterport,MTTR,789148736,2.75,United States
+2082,Boston Omaha,BOC,788195584,26.54,United States
+2083,Heritage Commerce,HTBK,787525440,12.97,United States
+2084,Caleres,CAL,787469760,22.11,United States
+2085,Portillo's,PTLO,786851008,16.29,United States
+2086,Yext,YEXT,785700608,6.44,United States
+2087,Heritage-Crystal Clean,HCCI,785157760,32.48,United States
+2088,Trinseo,TSE,783760640,22.41,United States
+2089,Quanex Building Products,NX,782535360,23.62,United States
+2090,Alpha &amp; Omega Semiconductor,AOSL,781676160,28.52,United States
+2091,Collegium Pharmaceutical,COLL,777860928,23.17,United States
+2092,The Vita Coco Company,COCO,775670016,13.87,United States
+2093,American Well,AMWL,775279104,2.82,United States
+2094,WisdomTree Investments,WETF,775113664,5.26,United States
+2095,Rush Street Interactive,RSI,773969024,3.51,United States
+2096,Aspen Aerogels,ASPN,772234240,11.67,United States
+2097,Ranger Oil,ROCC,771912256,40.44,United States
+2098,GoPro,GPRO,770528896,4.94,United States
+2099,Ichor Systems,ICHR,770034880,26.74,United States
+2100,Forestar Group,FOR,768488896,15.44,United States
+2101,AvePoint,AVPT,768151168,4.12,United States
+2102,Beyond Meat,BYND,766819840,12.03,United States
+2103,Bain Capital,BCSF,766677312,11.88,United States
+2104,QuinStreet,QNST,766519872,14.29,United States
+2105,The First Bancshares,FBMS,765528896,31.86,United States
+2106,Summit Hotel Properties,INN,764840896,7.16,United States
+2107,Univest,UVSP,764398912,26.14,United States
+2108,Alabama Power,ALP-PQ,764353664,25.03,United States
+2109,Taboola.com,TBLA,763789952,3.02,United States
+2110,Ambac,AMBC,763610944,16.98,United States
+2111,Biolife Solutions,BLFS,762945472,17.84,United States
+2112,POINT Biopharma,PNT,762756864,7.22,United States
+2113,Dorian LPG,LPG,761212160,18.87,United States
+2114,Redwood Trust,RWT,760589824,6.71,United States
+2115,HealthStream,HSTM,759965248,24.86,United States
+2116,Nextdoor,KIND,758038720,2.05,United States
+2117,SLR Investment,SLRC,757506432,13.83,United States
+2118,Hanmi Financial,HAFC,756665024,24.82,United States
+2119,CTI BioPharma,CTIC,754384832,5.95,United States
+2120,CrossAmerica Partners,CAPL,753649280,19.87,United States
+2121,Aerie Pharmaceuticals,AERI,753615360,15.25,United States
+2122,Standard Motor Products (SMP),SMP,753227840,34.92,United States
+2123,REV Group,REVG,752998528,12.58,United States
+2124,Northfield Bancorp,NFBK,751909248,15.74,United States
+2125,LivePerson,LPSN,751021120,9.97,United States
+2126,Alector,ALEC,750929664,9.08,United States
+2127,Bristow Group,VTOL,750559360,26.79,United States
+2128,UB Properties,UBA,749327680,18.78,United States
+2129,Ellington Financial,EFC,742188416,12.28,United States
+2130,Simulations Plus,SLP,742063104,36.53,United States
+2131,Belite Bio,BLTE,742043200,29.84,United States
+2132,ARMOUR Residential REIT,ARR,741966080,5.62,United States
+2133,Cadre,CDRE,741046144,19.85,United States
+2134,ScanSource,SCSC,739666304,29.18,United States
+2135,Century Aluminum,CENX,739455616,8.1,United States
+2136,Gladstone Commercial,GOOD,739305600,18.34,United States
+2137,Opendoor,OPEN,738845312,1.17,United States
+2138,Movado,MOV,738181504,32.24,United States
+2139,iHeartMedia,IHRT,737268864,6.06,United States
+2140,SMART Global Holdings,SGH,736200768,14.95,United States
+2141,Repay Holdings,RPAY,735488576,8.11,United States
+2142,Cerence,CRNC,733738240,18.37,United States
+2143,Hanger,HNGR,732388160,18.72,United States
+2144,TCG BDC,CGBD,731934144,14.25,United States
+2145,Expensify,EXFY,728713088,8.82,United States
+2146,Sana Biotechnology,SANA,726666048,3.81,United States
+2147,Deluxe,DLX,726411904,16.84,United States
+2148,Slam Corp,SLAM,726296832,10.11,United States
+2149,DocGo,DCGO,725581952,7.09,United States
+2150,Agenus,AGEN,723928512,2.38,United States
+2151,IES Holdings,IESC,722220416,35.71,United States
+2152,indie Semiconductor,INDI,720760320,5.76,United States
+2153,IGM Biosciences,IGMS,718628672,16.78,United States
+2154,IDT Corporation,IDT,718588544,28.17,United States
+2155,SunCoke Energy,SXC,718510848,8.62,United States
+2156,Old Second Bancorp,OSBC,717195648,16.09,United States
+2157,4D Molecular Therapeutics,FDMT,715224192,22.08,United States
+2158,Viking Therapeutics,VKTX,715120192,9.33,United States
+2159,TrustCo Bank,TRST,714442496,37.5,United States
+2160,NerdWallet,NRDS,713605504,9.6,United States
+2161,MultiPlan,MPLN,712622144,1.12,United States
+2162,ATN International,ATNI,711082496,45.11,United States
+2163,Anavex Life Sciences,AVXL,709452416,9.1,United States
+2164,PAR Technology,PAR,708716096,25.97,United States
+2165,Mirum Pharmaceuticals,MIRM,707542976,19.19,United States
+2166,Amalgamated Financial,AMAL,707303232,23.06,United States
+2167,Aerovate Therapeutics,AVTE,706658432,28.72,United States
+2168,CBL Properties,CBL,704172544,22.12,United States
+2169,Allakos,ALLK,702929728,8.25,United States
+2170,SP Plus Corporation,SP,700911040,34.76,United States
+2171,NextDecade Corp,NEXT,698857280,4.84,United States
+2172,MBIA,MBI,698233856,12.72,United States
+2173,Anywhere Real Estate,HOUS,695198016,6.35,United States
+2174,Seres Therapeutics,MCRB,691485632,5.55,United States
+2175,Protolabs,PRLB,691480960,25.5,United States
+2176,ANI Pharmaceuticals,ANIP,690821440,39.58,United States
+2177,iTeos Therapeutics,ITOS,690160832,19.4,United States
+2178,Farmland Partners,FPI,687161472,12.31,United States
+2179,Kearny Financial,KRNY,685475392,10.15,United States
+2180,IonQ,IONQ,685159552,3.43,United States
+2181,HarborOne Bancorp,HONE,684212032,13.91,United States
+2182,United Fire Group,UFCS,683101504,27.11,United States
+2183,Eagle Bulk Shipping,EGLE,681382208,49.81,United States
+2184,MarineMax,HZO,681170752,31.18,United States
+2185,i-80 Gold,IAUX,678599168,2.82,United States
+2186,Forrester Research,FORR,676917568,35.53,United States
+2187,Johnson Outdoors,JOUT,675306112,66.25,United States
+2188,Enfusion,ENFN,673994176,9.77,United States
+2189,Heska Corporation,HSKA,672594560,62.13,United States
+2190,Rover,ROVR,671617152,3.66,United States
+2191,OTC Markets Group,OTCM,670639232,56.52,United States
+2192,Triumph Group,TGI,669843584,10.31,United States
+2193,ChannelAdvisor,ECOM,667681984,23.09,United States
+2194,PubMatic,PUBM,665486848,12.66,United States
+2195,Ethan Allen,ETD,664862272,26.23,United States
+2196,Accel Entertainment,ACEL,664312640,7.6,United States
+2197,AMC Networks,AMCX,664255872,15.46,United States
+2198,Gorman-Rupp,GRC,663593344,25.43,United States
+2199,RAPT Therapeutics,RAPT,663504320,19.54,United States
+2200,TravelCenters of America,TA,663361792,44.66,United States
+2201,Horizon Bancorp,HBNC,662977664,15.09,United States
+2202,Seritage Growth Properties,SRG,662791680,11.66,United States
+2203,Peapack-Gladstone Financial,PGC,662531968,36.97,United States
+2204,Global Medical REIT,GMRE,659591936,9.46,United States
+2205,Advantage Solutions,ADV,657685952,2.06,United States
+2206,Amprius Technologies,AMPX,656317120,7.77,United States
+2207,Universal Health Realty Income Trust,UHT,655309120,47.48,United States
+2208,First Mid-Illinois Bancshares,FMBH,655234880,32.02,United States
+2209,Metropolitan Bank Holding,MCB,655115456,58.47,United States
+2210,Thryv,THRY,655028800,19,United States
+2211,iStar,STAR,653697600,7.54,United States
+2212,Pitney Bowes,PBI,653385024,3.76,United States
+2213,Origin Materials,ORGN,652157312,4.57,United States
+2214,Shoe Carnival,SCVL,650630528,23.95,United States
+2215,Genco Shipping &amp; Trading,GNK,649299264,15.34,United States
+2216,G-III Apparel Group,GIII,649174656,13.67,United States
+2217,Franklin Covey,FC,649036032,46.71,United States
+2218,INDUS Realty Trust,INDT,648542400,63.63,United States
+2219,Enhabit,EHAB,647520128,13.05,United States
+2220,The Hackett Group,HCKT,645158080,20.35,United States
+2221,Office Properties Income Trust,OPI,644957824,13.28,United States
+2222,Barrett Business Services,BBSI,644320192,92.55,United States
+2223,Bluelinx,BXC,641970176,71.05,United States
+2224,TrueBlue,TBI,641938944,19.62,United States
+2225,York Water,YORW,641862464,44.96,United States
+2226,American Vanguard,AVD,641181184,21.68,United States
+2227,Kelly Services,KELYA,640366400,16.86,United States
+2228,Erasca,ERAS,639230080,4.26,United States
+2229,Cerus,CERS,638715584,3.6,United States
+2230,BigCommerce,BIGC,638076544,8.66,United States
+2231,Qurate Retail Group,QRTEA,636688448,1.59,United States
+2232,BrightView,BV,636584960,6.85,United States
+2233,Gladstone Land,LAND,633245632,18.14,United States
+2234,Valhi,VHI,631223872,22.32,United States
+2235,Tango Therapeutics,TNGX,630468416,7.15,United States
+2236,SandRidge Energy,SD,629335040,17.07,United States
+2237,Clearwater Paper,CLW,628738816,37.51,United States
+2238,National Energy Services Reunited,NESR,625824192,6.85,United States
+2239,Guild Mortgage,GHLD,625324032,10.24,United States
+2240,Cass Information Systems,CASS,622713920,45.58,United States
+2241,SilverBow Resources,SBOW,619763456,27.78,United States
+2242,BJ's Restaurants,BJRI,618954944,26.46,United States
+2243,Kaman,KAMN,618377088,22.07,United States
+2244,Designer Brands,DBI,618188800,9.72,United States
+2245,RGP,RGP,617978944,18.31,United States
+2246,1-800-Flowers,FLWS,617867584,9.56,United States
+2247,Berry Corporation,BRY,614523904,8.01,United States
+2248,Rackspace Technology,RXT,614330112,2.91,United States
+2249,Ebix,EBIX,614215040,19.88,United States
+2250,Rayonier Advanced Materials,RYAM,612204352,9.57,United States
+2251,Camden National Bank,CAC,611018560,41.95,United States
+2252,Chico's,CHS,610962112,4.89,United States
+2253,Vital Farms,VITL,608127296,14.93,United States
+2254,Anterix,ATEX,605759232,31.95,United States
+2255,Amneal Pharmaceuticals,AMRX,601114112,1.98,United States
+2256,Editas Medicine,EDIT,600300928,8.73,United States
+2257,MediaAlpha,MAX,599892992,9.97,United States
+2258,Virgin Orbit,VORB,599884928,1.78,United States
+2259,Ducommun,DCO,596648320,49.3,United States
+2260,Riley Permian,REPX,595877056,29.56,United States
+2261,BioXcel Therapeutics,BTAI,594652288,21.22,United States
+2262,Couchbase,BASE,594454272,13.16,United States
+2263,Stoneridge,SRI,594353536,21.75,United States
+2264,Cano Health,CANO,594121536,1.37,United States
+2265,Chatham Lodging Trust,CLDT,593499200,12.16,United States
+2266,CareDx,CDNA,593193280,11.08,United States
+2267,Sight Sciences,SGHT,592549888,12.31,United States
+2268,Coherus BioSciences,CHRS,591889856,7.61,United States
+2269,VSE Corporation,VSEC,591858176,46.24,United States
+2270,89bio,ETNB,589158400,12.66,United States
+2271,Hingham Institution for Savings,HIFS,588504448,274.31,United States
+2272,CEVA,CEVA,587344448,25.33,United States
+2273,Dynex Capital,DX,585823552,12.64,United States
+2274,Koppers,KOP,585352960,28.01,United States
+2275,Nano Dimension,NNDM,584327488,2.27,United States
+2276,Health Catalyst,HCAT,579813120,10.59,United States
+2277,Bandwidth,BAND,579422272,22.88,United States
+2278,Genesco,GCO,579361856,45.95,United States
+2279,Flushing Financial Corp,FFIC,577928640,19.39,United States
+2280,Emergent BioSolutions,EBS,577705344,11.58,United States
+2281,Haynes International,HAYN,574968896,45.92,United States
+2282,Eventbrite,EB,574870400,5.83,United States
+2283,Mersana Therapeutics,MRSN,574198848,5.76,United States
+2284,Cara Therapeutics,CARA,574143552,10.69,United States
+2285,Vacasa,VCSA,573282816,1.27,United States
+2286,Design Therapeutics,DSGN,572798976,10.25,United States
+2287,ZeroFox,ZFOX,571981568,4.84,United States
+2288,Interface,TILE,571227392,9.82,United States
+2289,Sharecare,SHCR,568813696,1.61,United States
+2290,Cardiovascular Systems,CSII,567922624,13.56,United States
+2291,Community Health Systems,CYH,567640128,4.21,United States
+2292,bluebird bio,BLUE,567104384,6.84,United States
+2293,Luther Burbank,LBC,565651200,11.08,United States
+2294,Vimeo,VMEO,565077376,3.4,United States
+2295,HBT Financial,HBT,564988608,19.65,United States
+2296,Sleep Number,SNBR,564655680,25.67,United States
+2297,Riot Blockchain,RIOT,563623552,3.37,United States
+2298,Arrow Financial,AROW,562471616,34.03,United States
+2299,Snap One,SNPO,560063424,7.38,United States
+2300,MaxCyte,MXCT,559727808,5.49,United States
+2301,RE/MAX Holdings,RMAX,558577792,18.13,United States
+2302,Digital World Acquisition,DWAC,558220480,15,United States
+2303,REX American Resources,REX,557713344,32.07,United States
+2304,Blink Charging,BLNK,555954496,10.93,United States
+2305,Ares Commercial Real Estate,ACRE,555042304,10.2,United States
+2306,Kimball Electronics,KE,554746240,22.45,United States
+2307,Heidrick &amp; Struggles,HSII,553713536,27.88,United States
+2308,First Financial,THFF,553372672,46.03,United States
+2309,Accolade,ACCD,552850432,7.69,United States
+2310,Capital City Bank Group,CCBG,551428096,32.51,United States
+2311,Artesian Resources,ARTNA,550944768,58.51,United States
+2312,Central Pacific Financial,CPF,550275840,20.21,United States
+2313,HilleVax,HLVX,549530560,16.48,United States
+2314,Janux Therapeutics,JANX,548701696,13.17,United States
+2315,MetroCity Bankshares,MCBS,547682432,21.64,United States
+2316,Faro Technologies,FARO,547618944,29.16,United States
+2317,Phibro Animal Health,PAHC,547203648,13.51,United States
+2318,Aehr Test Systems,AEHR,547158464,19.9,United States
+2319,Allied Motion Technologies,AMOT,544227200,34.25,United States
+2320,Silvergate Capital,SI,542941824,17.15,United States
+2321,Secureworks,SCWX,542609664,6.41,United States
+2322,NuScale Power,SMR,537904320,10.37,United States
+2323,Diamond Hill Investment Group,DHIL,536581792,177.92,United States
+2324,CION Investment,CION,536531456,9.68,United States
+2325,AngioDynamics,ANGO,534994720,13.68,United States
+2326,SIGA Technologies,SIGA,534171264,7.32,United States
+2327,Insteel Industries,IIIN,533894720,27.41,United States
+2328,Vera Therapeutics,VERA,533487584,19.22,United States
+2329,Zynex,ZYXI,532840000,13.84,United States
+2330,Transcat,TRNS,531877600,70.37,United States
+2331,Mercantile Bank,MBWM,531200384,33.48,United States
+2332,loanDepot,LDI,530837920,1.61,United States
+2333,Ardelyx,ARDX,529574496,2.83,United States
+2334,Bank of Marin Bancorp,BMRC,528943808,33,United States
+2335,CinCor Pharma,CINC,528235072,12.07,United States
+2336,Acco Brands,ACCO,527861024,5.6,United States
+2337,Protagonist Therapeutics,PTGX,526422880,10.7,United States
+2338,Benson Hill,BHIL,525448384,2.55,United States
+2339,Sprague Resources LP,SRLP,524764000,20,United States
+2340,System1,SST,524522432,4.62,United States
+2341,Denny's,DENN,524257024,9.16,United States
+2342,Hawaiian Airlines,HA,524138176,10.2,United States
+2343,CymaBay Therapeutics,CBAY,523329216,6.18,United States
+2344,NETGEAR,NTGR,523073728,18.1,United States
+2345,Oscar Health,OSCR,521854688,2.43,United States
+2346,Equity BancShares,EQBK,521335232,32.71,United States
+2347,AVEO Oncology,AVEO,519882144,14.96,United States
+2348,TPG Real Estate Finance Trust,TRTX,519398304,6.71,United States
+2349,DXP Enterprises,DXPE,518937792,27.66,United States
+2350,Vishay Precision Group,VPG,518515360,38.2,United States
+2351,Cresco Labs,CRLBF,517834464,1.74,United States
+2352,HomeStreet Bank,HMST,517492640,27.64,United States
+2353,Calavo Growers,CVGW,516347104,29.12,United States
+2354,Ruth's Hospitality Group,RUTH,510482272,15.38,United States
+2355,Brookdale Senior Living,BKD,509046336,2.73,United States
+2356,Funko,FNKO,508640288,10.78,United States
+2357,Babcock &amp; Wilcox,BW,508313696,5.74,United States
+2358,Nurix Therapeutics,NRIX,508017536,10.78,United States
+2359,Quanterix,QTRX,507093600,13.69,United States
+2360,Playstudios,MYPS,506551520,3.9,United States
+2361,Intercept Pharmaceuticals,ICPT,506531104,12.23,United States
+2362,FRP Holdings,FRPH,505847840,53.5,United States
+2363,Amyris,AMRS,503490976,1.53,United States
+2364,Viad,VVI,503319392,24.35,United States
+2365,Sangamo Therapeutics,SGMO,503111584,3.07,United States
+2366,Liquidity Services,LQDT,502605312,14.04,United States
+2367,Chuy's,CHUY,502456704,27.92,United States
+2368,Harsco,HSC,500292608,6.3,United States
+2369,Argan,AGX,499811456,36.82,United States
+2370,CNB Financial Corp,CCNE,499283872,23.64,United States
+2371,Tiptree,TIPT,499198304,13.77,United States
+2372,Tejon Ranch,TRC,498987456,18.83,United States
+2373,MidWestOne Financial Group,MOFG,495889888,31.74,United States
+2374,American Software,AMSWA,495646464,14.69,United States
+2375,PennantPark Floating Rate,PFLT,493813600,10.89,United States
+2376,Greene County Bancorp,GCBC,493777792,58,United States
+2377,Clear Channel Outdoor,CCO,492716928,1.04,United States
+2378,Butterfly Network,BFLY,491406752,2.45,United States
+2379,Akouos,AKUS,491015008,13.29,United States
+2380,Vaalco Energy,EGY,490938784,4.53,United States
+2381,CIRCOR International,CIR,488925248,24.01,United States
+2382,Domo,DOMO,488120864,14.13,United States
+2383,Bridgewater Bancshares,BWB,486567296,17.64,United States
+2384,Artivion,AORT,485567168,12.04,United States
+2385,Havertys,HVT,484617888,29.97,United States
+2386,8x8,EGHT,484167488,4.34,United States
+2387,Newegg,NEGG,482216768,1.29,United States
+2388,Bluegreen Vacations,BVH,482205312,25.04,United States
+2389,2U,TWOU,482133184,6.17,United States
+2390,Whitestone REIT,WSR,481786592,9.6,United States
+2391,National Presto Industries,NPK,480659104,68.08,United States
+2392,Bar Harbor Bankshares,BHB,479673664,31.84,United States
+2393,Lightwave Logic,LWLG,478993056,4.25,United States
+2394,Orion Office REIT,ONL,478565728,8.45,United States
+2395,Donegal Group,DGICA,477734528,14.21,United States
+2396,Nine Energy Service,NINE,477057856,14.36,United States
+2397,SurModics,SRDX,477031648,33.77,United States
+2398,Oil States International,OIS,476709664,7.46,United States
+2399,Mullen Automotive,MULN,475498048,0.29,United States
+2400,Senseonics Holdings,SENS,474716928,0.99,United States
+2401,Value Line,VALU,472540992,50,United States
+2402,Broadmark Realty Capital,BRMK,472364896,3.55,United States
+2403,Kezar Life Sciences,KZR,471808864,6.9,United States
+2404,AlloVir,ALVR,471404768,5.06,United States
+2405,EverQuote,EVER,470753600,14.64,United States
+2406,Ranpak,PACK,469900704,5.73,United States
+2407,Scholar Rock Holding,SRRK,469103680,9.08,United States
+2408,Alerus Financial,ALRS,469101920,23.47,United States
+2409,Covenant Logistics,CVLG,468387136,34.71,United States
+2410,SI-BONE,SIBN,468270016,13.57,United States
+2411,Five Star Bancorp,FSBC,467873120,27.13,United States
+2412,The RMR Group,RMR,467284384,28.14,United States
+2413,Phathom Pharmaceuticals,PHAT,466154080,11.2,United States
+2414,Oppenheimer Holdings,OPY,464684480,42.37,United States
+2415,One Liberty Properties,OLP,464679488,22.05,United States
+2416,Vertex Energy,VTNR,463849760,6.13,United States
+2417,Sutro Biopharma,STRO,463827264,8.07,United States
+2418,Centrus Energy,LEU,463092640,31.85,United States
+2419,MasterCraft Boat,MCFT,463092448,26.01,United States
+2420,Ribbon Communications,RBBN,461497632,2.75,United States
+2421,Seneca Foods,SENEA,461292544,60.59,United States
+2422,Kura Sushi USA,KRUS,460948512,47.08,United States
+2423,Microvast,MVST,459298624,1.49,United States
+2424,America's Car-Mart,CRMT,459193344,72.1,United States
+2425,EZCorp,EZPW,457793792,8.13,United States
+2426,nLIGHT,LASR,456695552,10.08,United States
+2427,SmartRent,SMRT,455208672,2.3,United States
+2428,ALX Oncology,ALXO,455035168,11.17,United States
+2429,Hudson Technologies,HDSN,453012800,10.05,United States
+2430,Redfin,RDFN,452939584,4.17,United States
+2431,Poseida Therapeutics,PSTX,451234336,5.25,United States
+2432,ACM Research,ACMR,450709056,7.58,United States
+2433,IBEX,IBEX,450543136,24.69,United States
+2434,Arcturus Therapeutics,ARCT,450381248,16.96,United States
+2435,Albireo Pharma,ALBO,449632224,21.72,United States
+2436,Marcus Corporation,MCS,449623456,14.27,United States
+2437,OneWater Marine,ONEW,449105984,28.56,United States
+2438,Inogen,INGN,449022400,19.59,United States
+2439,Archer Aviation,ACHR,448879296,1.85,United States
+2440,Gevo,GEVO,445977344,1.88,United States
+2441,Clover Health Investments,CLOV,445740672,0.92,United States
+2442,Invitae,NVTA,445714176,1.84,United States
+2443,Esperion Therapeutics,ESPR,445417376,6.05,United States
+2444,Tetra Technologies,TTI,445025216,3.46,United States
+2445,The Children's Place,PLCE,444847392,36.38,United States
+2446,Harrow Health,HROW,443872480,14.9,United States
+2447,Eagle Point Credit Company,ECC,440127712,10.08,United States
+2448,Solid Power,SLDP,438655904,2.5,United States
+2449,Purple Innovation,PRPL,438069632,4.77,United States
+2450,Mitek Systems,MITK,432059456,9.67,United States
+2451,Anika Therapeutics,ANIK,430620928,29.48,United States
+2452,Biglari,BH,429591328,138.67,United States
+2453,Vigil Neuroscience,VIGL,429463872,12.07,United States
+2454,Entrada Therapeutics,TRDA,429322752,13.67,United States
+2455,Enterprise Bancorp,EBTC,427980736,35.3,United States
+2456,Vor Biopharma,VOR,427378272,6.51,United States
+2457,DoubleDown Interactive,DDI,427150304,8.62,United States
+2458,Bionano Genomics,BNGO,426087360,1.44,United States
+2459,Gladstone Investment,GAIN,426068832,12.82,United States
+2460,Hyster-Yale Materials Handling,HY,425325760,25.11,United States
+2461,Desktop Metal,DM,423965312,1.34,United States
+2462,Zumiez,ZUMZ,423924896,21.75,United States
+2463,Civeo,CVEO,423175296,30.86,United States
+2464,Ring Energy,REI,422772288,2.42,United States
+2465,Big Lots,BIG,422510368,14.59,United States
+2466,Southern Missouri Bancorp,SMBC,421495264,45.67,United States
+2467,Consolidated Communications,CNSL,421195424,3.65,United States
+2468,Destination XL,DXLG,420418400,6.73,United States
+2469,Alta Equipment Group,ALTG,419490432,13.03,United States
+2470,Nektar Therapeutics,NKTR,419137408,2.23,United States
+2471,Veru,VERU,418837024,5.2,United States
+2472,Evolus,EOLS,417912224,7.43,United States
+2473,Axogen,AXGN,416734432,9.86,United States
+2474,Vanda Pharmaceuticals,VNDA,416502400,7.36,United States
+2475,Hyliion,HYLN,416037920,2.32,United States
+2476,Canoo,GOEV,415745504,1.21,United States
+2477,Guaranty Bancshares,GNTY,415736864,34.82,United States
+2478,TPI Composites,TPIC,415736384,9.91,United States
+2479,Apollo Endosurgery,APEN,414708384,9.96,United States
+2480,ON24,ONTF,414169440,8.62,United States
+2481,Powell Industries,POWL,413516064,34.98,United States
+2482,American Realty Investors,ARL,412683584,25.55,United States
+2483,Mammoth Energy Services,TUSK,410907360,8.69,United States
+2484,World Acceptance Corporation,WRLD,409390944,65.43,United States
+2485,Nuvation Bio,NUVB,408394912,1.87,United States
+2486,CareMax,CMAX,406992000,3.67,United States
+2487,Preformed Line Products,PLPC,405936512,82.51,United States
+2488,Bel Fuse,BELFB,405737536,32.41,United States
+2489,ShotSpotter,SSTI,404907200,33.2,United States
+2490,Carriage Services,CSV,404551040,27.49,United States
+2491,Lindblad Expeditions,LIND,404404544,7.61,United States
+2492,Priority Technology Holdings,PRTH,404195968,5.32,United States
+2493,Liquidia Technologies,LQDA,404061152,6.27,United States
+2494,Sorrento Therapeutics,SRNE,402608032,0.85,United States
+2495,Aldeyra Therapeutics,ALDX,402015072,6.87,United States
+2496,CECO Environmental,CECO,401992960,11.73,United States
+2497,Orthofix Medical,OFIX,401832928,20.08,United States
+2498,Energy Vault,NRGV,400880416,2.9,United States
+2499,Beazer Homes USA,BZH,398895680,12.73,United States
+2500,Marine Products Corporation,MPX,398292864,11.64,United States
+2501,Smith &amp; Wesson,SWBI,397241120,8.66,United States
+2502,Newtek,NEWT,397147264,16.26,United States
+2503,Marathon Digital Holdings,MARA,396678592,3.4,United States
+2504,Great Lakes Dredge &amp; Dock Corp.,GLDD,396027456,5.99,United States
+2505,American National Bank &amp; Trust Company,AMNB,394191232,37.15,United States
+2506,Atea Pharmaceuticals,AVIR,393117440,4.72,United States
+2507,Computer Programs and Systems,CPSI,393041824,27.08,United States
+2508,Newpark Resources,NR,390529760,4.15,United States
+2509,DZS Inc,DZSI,389779680,12.64,United States
+2510,Microvision,MVIS,389352096,2.35,United States
+2511,Huuuge,HUG.WA,389257137,4.95,United States
+2512,Ramaco Resources,METC,389153376,8.82,United States
+2513,Entravision Communications,EVC,388854560,4.79,United States
+2514,Orchid Island Capital,ORC,388708480,10.42,United States
+2515,Tarsus Pharmaceuticals,TARS,388347232,14.56,United States
+2516,Bright Health,BHG,388065024,0.62,United States
+2517,CapStar Financial,CSTR,387234528,17.67,United States
+2518,Intrepid Potash,IPI,387131456,28.7,United States
+2519,Tutor Perini,TPC,386653856,7.51,United States
+2520,Reservoir Media,RSVR,386243392,6,United States
+2521,Cerberus Cyber Sentinel,CISO,384648032,2.63,United States
+2522,PMV Pharmaceuticals,PMVP,384502656,8.42,United States
+2523,Atlanticus,ATLC,382800448,26.5,United States
+2524,Trinity Capital,TRIN,381948352,10.86,United States
+2525,Professional Holding,PFHD,380863008,27.57,United States
+2526,Inovio Pharmaceuticals,INO,379672352,1.52,United States
+2527,Dynamic Materials Corporation,BOOM,379655424,19.44,United States
+2528,Transcontinental Realty Investors,TCI,379093376,43.88,United States
+2529,Latham Group,SWIM,378066592,3.23,United States
+2530,Hyzon Motors,HYZN,377819776,1.52,United States
+2531,Macatawa Bank,MCBC,377736672,11.03,United States
+2532,HomeTrust Bancshares,HTBI,377572480,24.16,United States
+2533,PDS Biotechnology,PDSB,376599936,13.21,United States
+2534,Karyopharm Therapeutics,KPTI,376433216,3.33,United States
+2535,Eagle Pharmaceuticals,EGRX,376029344,28.89,United States
+2536,GAMCO Investors,GAMI,374909376,14.51,United States
+2537,Aura Biosciences,AURA,374040192,10.38,United States
+2538,Financial Institutions,FISI,373560608,24.36,United States
+2539,Olympic Steel,ZEUS,373296864,33.54,United States
+2540,Adicet Bio,ACET,372806304,8.7,United States
+2541,Farmers &amp; Merchants Bancorp,FMAO,372551424,27.38,United States
+2542,Sanara MedTech,SMTI,372339264,44.84,United States
+2543,1-800-PetMeds,PETS,372196864,17.66,United States
+2544,BRT Apartments,BRT,371701440,19.63,United States
+2545,NanoString Technologies,NSTG,370842048,7.95,United States
+2546,Digimarc,DMRC,370766176,18.51,United States
+2547,374Water,SCWO,370541920,2.93,United States
+2548,Kodiak Sciences,KOD,369826048,7.07,United States
+2549,Southern First Bancshares,SFST,369717024,46.23,United States
+2550,CS Disco,LAW,368986240,6.25,United States
+2551,El Pollo Loco,LOCO,368639520,9.95,United States
+2552,Aaron's,AAN,368288672,11.97,United States
+2553,PennantPark Investment,PNNT,366887808,5.63,United States
+2554,Turning Point Brands,TPB,366385056,20.86,United States
+2555,Penseco Financial Services,PFIS,365170208,51,United States
+2556,TuSimple,TSP,363360896,1.61,United States
+2557,ESS Tech,GWH,363223840,2.37,United States
+2558,Arbutus Biopharma,ABUS,360656448,2.31,United States
+2559,Xperi,XPER,360142240,8.57,United States
+2560,Seer,SEER,358936384,5.73,United States
+2561,Lexicon Pharmaceuticals,LXRX,358579392,1.9,United States
+2562,Allbirds,BIRD,358447200,2.4,United States
+2563,Daily Journal,DJCO,358027808,260,United States
+2564,iRadimed,IRMD,357385568,28.44,United States
+2565,Akoya Biosciences,AKYA,356785440,9.4,United States
+2566,Stoke Therapeutics,STOK,355664928,9.02,United States
+2567,SciPlay,SCPL,355654144,15.67,United States
+2568,Belpointe OZ,OZ,355480544,100.01,United States
+2569,FutureFuel,FF,355357184,8.12,United States
+2570,Citizens &amp; Northern Corp,CZNC,353719136,22.82,United States
+2571,ContextLogic (wish.com),WISH,353428192,0.48,United States
+2572,Aviat Networks,AVNW,352394688,31.13,United States
+2573,NexPoint Real Estate Finance,NREF,351677792,15.9,United States
+2574,Sportsman's Warehouse,SPWH,351151264,9.32,United States
+2575,Loop Media,LPTV,350972960,6.23,United States
+2576,Hersha Hospitality Trust,HT,350949568,8.46,United States
+2577,Build-A-Bear,BBW,349584480,23.7,United States
+2578,RxSight,RXST,349430752,12.61,United States
+2579,2seventy bio,TSVT,348454464,9.19,United States
+2580,Civista Bancshares,CIVB,346946432,22.06,United States
+2581,HCI Group,HCI,346907392,39.62,United States
+2582,OraSure Technologies,OSUR,346770048,4.78,United States
+2583,Shore Bancshares,SHBI,346048288,17.42,United States
+2584,Organogenesis,ORGO,345615616,2.64,United States
+2585,Tredegar,TG,344766080,10.14,United States
+2586,Unisys,UIS,343683136,5.07,United States
+2587,Telos,TLS,343446176,5.11,United States
+2588,CarParts.com,PRTS,342088064,6.27,United States
+2589,Devolver Digital,DEVO.L,341866977,0.77,United States
+2590,Blue Bird Corporation,BLBD,340424704,10.63,United States
+2591,Cyxtera Technologies,CYXT,340376096,1.9,United States
+2592,Traeger,COOK,339646304,2.77,United States
+2593,Ooma,OOMA,339266496,13.68,United States
+2594,LSI Industries,LYTS,339023168,12.21,United States
+2595,Postal Realty Trust,PSTL,338662016,14.5,United States
+2596,ACNB Corporation,ACNB,338238080,39.74,United States
+2597,Gladstone Capital,GLAD,338171360,9.52,United States
+2598,Stitch Fix,SFIX,337964384,3.05,United States
+2599,Amplify Energy,AMPY,337527776,8.78,United States
+2600,Comtech Telecommunications,CMTL,336636640,12.12,United States
+2601,Village Super Market,VLGEA,336101376,23.16,United States
+2602,fuboTV,FUBO,335955584,1.72,United States
+2603,5E Advanced Materials,FEAM,335094048,7.64,United States
+2604,Northwest Pipe Company,NWPX,334452736,33.69,United States
+2605,Rimini Street,RMNI,333690848,3.78,United States
+2606,Alpine Immune Sciences,ALPN,332879392,7.25,United States
+2607,Home Bancorp,HBCP,332590272,40.16,United States
+2608,First Bancorp,FNLC,332475712,30.11,United States
+2609,Velo3D,VLD,331825824,1.78,United States
+2610,NL Industries,NL,329994144,6.76,United States
+2611,Blend Labs,BLND,329812928,1.39,United States
+2612,Astronics Corporation,ATRO,329123648,10.21,United States
+2613,Hallador Energy Company,HNRG,329001440,9.98,United States
+2614,LoveSac,LOVE,328915456,21.65,United States
+2615,Black Rifle Coffee (BRC),BRCC,328811488,6.03,United States
+2616,Quotient Technology,QUOT,325877632,3.37,United States
+2617,The Pennant Group,PNTG,325255552,10.96,United States
+2618,Braemar Hotels &amp; Resorts,BHR,324803936,4.07,United States
+2619,Inspired Entertainment,INSE,324374688,12.54,United States
+2620,SoundHound AI,SOUN,322601472,1.63,United States
+2621,The Manitowoc Company,MTW,322466848,9.17,United States
+2622,Argonaut Gold,AR.TO,322275775,0.38,United States
+2623,AFC Gamma,AFCG,319918432,15.71,United States
+2624,Sierra Bancorp,BSRR,319444704,21.17,United States
+2625,Torrid,CURV,319272800,3.08,United States
+2626,NextNav,NN,319152000,3,United States
+2627,Columbia Care,CCHWF,316053056,0.73,United States
+2628,Summit Financial Group,SMMF,315063968,24.65,United States
+2629,Northeast Bank,NBN,313605792,42.11,United States
+2630,Pulmonx,LUNG,312740896,8.36,United States
+2631,NVE Corporation,NVEC,312023296,64.59,United States
+2632,SeaSpine,SPNE,311291616,8.25,United States
+2633,MeiraGTx,MGTX,311223616,6.42,United States
+2634,Sterling Bancorp,SBT,310896000,6.12,United States
+2635,Hippo,HIPO,309382080,13.42,United States
+2636,Aadi Bioscience,AADI,309329888,12.68,United States
+2637,First Business Financial Services,FBIZ,309257888,36.68,United States
+2638,Northrim BanCorp,NRIM,309142144,54.38,United States
+2639,Trean Insurance Group,TIG,307335008,6,United States
+2640,BioAtla,BCAB,306875552,8.16,United States
+2641,Rani Therapeutics,RANI,306769248,6.05,United States
+2642,Arlo Technologies,ARLO,306112800,3.46,United States
+2643,WhiteHorse Finance,WHF,304019744,13.08,United States
+2644,PepGen,PEPG,303906240,12.86,United States
+2645,Atara Biotherapeutics,ATRA,303611872,3.2,United States
+2646,SkyWater Technology,SKYT,303432064,7.01,United States
+2647,BCB Bancorp,BCBP,303202432,17.95,United States
+2648,LiveVox,LVOX,303151488,3.03,United States
+2649,Saratoga Investment,SAR,302265088,25.4,United States
+2650,Cue Health,HLTH,301852640,2.02,United States
+2651,ReneSola,SOL,301770912,4.5,United States
+2652,Miller Industries,MLR,301400864,26.4,United States
+2653,Bakhu Holdings,BKUH,301303008,1,United States
+2654,Codexis,CDXS,301174912,4.59,United States
+2655,Precigen,PGEN,300776768,1.45,United States
+2656,Oyster Point Pharma,OYST,299716608,11.17,United States
+2657,Weave Communications,WEAV,298399488,4.55,United States
+2658,Transphorm,TGAN,297090944,5.25,United States
+2659,Richardson Electronics,RELL,296788480,21.35,United States
+2660,Green Plains Partners,GPP,295583072,12.72,United States
+2661,Aeva Technologies,AEVA,294611872,1.35,United States
+2662,Nkarta,NKTX,292394048,5.99,United States
+2663,Gannett,GCI,290973824,1.99,United States
+2664,Heron Therapeutics,HRTX,290681152,2.45,United States
+2665,Luna Innovations,LUNA,290063840,8.8,United States
+2666,PCSB Financial,PCSB,288898208,18.84,United States
+2667,Viemed Healthcare,VMD,287945248,7.57,United States
+2668,eGain,EGAN,287058272,8.98,United States
+2669,Unity Bancorp,UNTY,286937600,27.21,United States
+2670,Clarus,CLAR,284995872,7.7,United States
+2671,The Honest Company,HNST,284505792,3.07,United States
+2672,Karat Packaging,KRT,283392352,14.24,United States
+2673,Investors Title Company,ITIC,282612064,148.98,United States
+2674,Gritstone bio,GRTS,282611776,3.39,United States
+2675,Bed Bath &amp; Beyond,BBBY,282106496,2.41,United States
+2676,NI Holdings,NODK,281282784,13.32,United States
+2677,C4 Therapeutics,CCCC,281013184,5.74,United States
+2678,Ocugen,OCGN,280175360,1.28,United States
+2679,Franklin Street Properties,FSP,279769568,2.71,United States
+2680,Timberland Bancorp,TSBK,279751072,33.95,United States
+2681,Gatos Silver,GATO,278957696,4.04,United States
+2682,NACCO Industries,NC,278235712,37.9,United States
+2683,Forge Global,FRGE,277633248,1.61,United States
+2684,Concert Pharmaceuticals,CNCE,277082816,5.78,United States
+2685,F45 Training,FXLV,276863456,2.85,United States
+2686,Granite Point Mortgage Trust,GPMT,276805920,5.29,United States
+2687,Satellogic,SATL,275881696,3.1,United States
+2688,MVB Financial,MVBF,275659616,21.85,United States
+2689,ASA Gold and Precious Metals,ASA,275646880,14.29,United States
+2690,Park Aerospace,PKE,273904672,13.38,United States
+2691,PetIQ,PETQ,273834272,9.13,United States
+2692,Ranger Energy Services,RNGR,271871744,10.93,United States
+2693,G1 Therapeutics,GTHX,271280864,5.36,United States
+2694,Tillys,TLYS,271278336,9.09,United States
+2695,Genie Energy,GNE,270911648,10.47,United States
+2696,Kinnate Biopharma,KNTE,269183840,6.1,United States
+2697,Focus Universal,FCUV,269020960,6.18,United States
+2698,LendingTree,TREE,268610112,21.01,United States
+2699,First Western Financial,MYFW,267674688,28.2,United States
+2700,Actinium Pharmaceuticals,ATNM,267574656,10.5,United States
+2701,Regional Management,RM,266868112,27.84,United States
+2702,Weight Watchers,WW,266238320,3.78,United States
+2703,Chicago Atlantic Real Estate Finance,REFI,266106320,15.07,United States
+2704,Clipper Realty,CLPR,265302560,6.26,United States
+2705,Foghorn Therapeutics,FHTX,264606016,6.33,United States
+2706,The Original BARK Company,BARK,264078656,1.49,United States
+2707,Performant Financial,PFMT,263688656,3.55,United States
+2708,tinyBuild,8Z3.F,263213420,1.29,United States
+2709,Sonder Holdings,SOND,262761120,1.21,United States
+2710,Full House Resorts,FLL,261433152,7.6,United States
+2711,Zevia,ZVIA,261346512,4.05,United States
+2712,Rubicon Technologies,RBT,261343952,1.62,United States
+2713,American Battery Technology Company,ABML,261107440,0.4,United States
+2714,Omega Therapeutics,OMGA,260905520,5.43,United States
+2715,Landec,LNDC,259257456,8.76,United States
+2716,Lordstown Motors,RIDE,258630752,1.13,United States
+2717,Blade Air Mobility,BLDE,258310128,3.61,United States
+2718,Stellus Capital,SCM,257712704,13.19,United States
+2719,Daseke,DSKE,255339328,5.69,United States
+2720,Quantum-Si,QSI,255169696,1.83,United States
+2721,Groupon,GRPN,254456656,8.36,United States
+2722,Prelude Therapeutics,PRLD,254305744,5.32,United States
+2723,First Guaranty Bancshares,FGBI,254088896,23.71,United States
+2724,Noodles &amp; Company,NDLS,253595552,5.51,United States
+2725,DHI Group,DHX,252759376,5.29,United States
+2726,Pure Cycle (water),PCYO,250899840,10.46,United States
+2727,Third Coast Bancshares,TCBX,250742416,18.53,United States
+2728,Acrivon Therapeutics,ACRV,250201088,11.98,United States
+2729,Rigel Pharmaceuticals,RIGL,249748032,1.45,United States
+2730,Workhorse Group,WKHS,249433504,1.52,United States
+2731,Alpine Income Property Trust,PINE,249400992,18.98,United States
+2732,Hovnanian Enterprises,HOV,248299696,41.92,United States
+2733,J.Jill,JILL,248213968,24.45,United States
+2734,Orrstown Financial Services,ORRF,248147424,23.24,United States
+2735,Central Valley Community Bancorp,CVCY,248014480,21.14,United States
+2736,Overseas Shipholding Group,OSG,247639504,2.93,United States
+2737,Parke Bancorp,PKBK,247513184,20.76,United States
+2738,Casa Systems,CASA,246961328,2.61,United States
+2739,BayCom (United Business Bank),BCML,246718800,19,United States
+2740,Lands' End,LE,246691440,7.48,United States
+2741,Holley,HLLY,246534576,2.09,United States
+2742,Wheels Up,UP,245993232,0.99,United States
+2743,Radiant Logistics,RLGT,245203184,5.08,United States
+2744,Southern States Bancshares,SSBK,245099792,28.15,United States
+2745,SEACOR Marine,SMHI,244058112,9.14,United States
+2746,Vicarious Surgical,RBOT,242292608,1.98,United States
+2747,Oil-Dri Corporation Of America,ODC,241867952,33.81,United States
+2748,ZimVie,ZIMV,239881904,9.2,United States
+2749,GrowGeneration,GRWG,238842080,3.92,United States
+2750,Eastman Kodak Company,KODK,238096416,3.01,United States
+2751,Eargo,EAR,237115168,0.57,United States
+2752,Willdan Group,WLDN,236649216,17.8,United States
+2753,Emerald Holding,EEX,236633264,3.5,United States
+2754,Kimball International,KBAL,236630544,6.47,United States
+2755,Rallybio,RLYB,235905008,6.36,United States
+2756,908 Devices,MASS,235297856,7.42,United States
+2757,Outlook Therapeutics,OTLK,235213408,1.04,United States
+2758,Solo Brands,DTC,234016720,3.68,United States
+2759,American Public Education,APEI,233317440,12.35,United States
+2760,Motorcar Parts of America,MPAA,232483744,11.97,United States
+2761,Annexon,ANNX,232436352,4.88,United States
+2762,Vuzix,VUZI,232012144,3.64,United States
+2763,Ponce Financial Group,PDLB,231211488,9.35,United States
+2764,Bank7,BSVN,231084016,25.35,United States
+2765,Voyager Therapeutics,VYGR,230871648,5.98,United States
+2766,Tactile Medical,TCMD,229162976,11.37,United States
+2767,Ocwen,OCN,229152672,30.19,United States
+2768,Bankwell Financial Group,BWFG,227878800,29.56,United States
+2769,Generation Bio,GBIO,226994704,3.82,United States
+2770,Dakota Gold,DC,226120624,3.09,United States
+2771,Upland Software,UPLD,225782688,7.11,United States
+2772,Codorus Valley Bancorp,CVLY,225679664,23.62,United States
+2773,Commercial Vehicle Group (CVG),CVGI,225274496,6.75,United States
+2774,Kaltura,KLTR,225217856,1.69,United States
+2775,CompX International,CIX,225088848,18.29,United States
+2776,Community Financial Corporation,TCFC,224809424,39.82,United States
+2777,ORIC Pharmaceuticals,ORIC,224795648,5.68,United States
+2778,Immersion Corporation,IMMR,224385312,6.95,United States
+2779,Terran Orbital,LLAP,224250064,1.58,United States
+2780,First Internet Bancorp,INBK,223704016,24.21,United States
+2781,Markforged,MKFG,223257536,1.15,United States
+2782,Nautilus Biotechnology,NAUT,223255952,1.79,United States
+2783,HireQuest,HQI,223153408,16.08,United States
+2784,TrueCar,TRUE,221164128,2.51,United States
+2785,TELA Bio,TELA,220329648,11.5,United States
+2786,Semler Scientific,SMLR,220110240,32.18,United States
+2787,Brightcove,BCOV,220037600,5.23,United States
+2788,Information Services Group,III,218398640,4.55,United States
+2789,Territorial Bancorp,TBNK,218090128,23.93,United States
+2790,Middlefield Banc,MBCN,217801728,27.42,United States
+2791,Limoneira,LMNR,217516896,12.3,United States
+2792,ESSA Bancorp,ESSA,217195840,20.88,United States
+2793,Plumas Bancorp,PLBC,216516640,37.01,United States
+2794,HF Foods Group,HFFG,216189744,4.03,United States
+2795,The Container Store,TCS,216184544,4.27,United States
+2796,Alto Ingredients,ALTO,216071776,2.88,United States
+2797,Quad,QUAD,216016288,4.1,United States
+2798,RGC Resources,RGCO,215423712,21.91,United States
+2799,Atlas Technical Consultants,ATCX,215346992,5.1,United States
+2800,Acumen Pharmaceuticals,ABOS,215267088,5.26,United States
+2801,Innovid,CTV,215178112,1.61,United States
+2802,Humacyte,HUMA,214485440,2.08,United States
+2803,"View, Inc.",VIEW,214307504,0.97,United States
+2804,Landsea Homes,LSEA,213963744,5.23,United States
+2805,Ocular Therapeutix,OCUL,212933760,2.77,United States
+2806,Investar Holding,ISTR,212851744,21.52,United States
+2807,Ames National Corp.,ATLO,212754736,23.66,United States
+2808,Portman Ridge,PTMN,211588208,22.02,United States
+2809,Hooker Furniture,HOFT,211564704,18.67,United States
+2810,KLX Energy Services,KLXE,210707248,17.17,United States
+2811,Western New England Bancorp,WNEB,209563200,9.45,United States
+2812,Y-mAbs Therapeutics,YMAB,209170192,4.79,United States
+2813,XOMA,XOMA,208977104,18.25,United States
+2814,Century Casinos,CNTY,208152080,6.97,United States
+2815,Skillz,SKLZ,207839840,0.49,United States
+2816,AirSculpt Technologies,AIRS,207557008,3.7,United States
+2817,Nerdy,NRDY,207462992,2.23,United States
+2818,Evans Bancorp,EVBN,206938544,37.53,United States
+2819,Skillsoft,SKIL,206378464,1.26,United States
+2820,Duluth Holdings,DLTH,205883824,6.16,United States
+2821,Assertio Therapeutics,ASRT,205228480,4.25,United States
+2822,The ONE Group Hospitality,STKS,203834064,6.32,United States
+2823,AMMO,POWW,203775744,1.74,United States
+2824,MainStreet Bancshares,MNSB,203129392,27.32,United States
+2825,The Joint Corp.,JYNT,203125200,13.98,United States
+2826,Rent the Runway,RENT,202741088,3.12,United States
+2827,AgileThought,AGIL,202622272,4.2,United States
+2828,LCNB,LCNB,202364288,17.96,United States
+2829,Voxx International,VOXX,202266800,8.45,United States
+2830,C&amp;F Financial Corporation,CFFI,200796480,57.73,United States
+2831,Backblaze,BLZE,200490000,6.15,United States
+2832,Weyco Group,WEYS,199660448,20.75,United States
+2833,22nd Century Group,XXII,197604176,0.92,United States
+2834,Gossamer Bio,GOSS,197456496,2.09,United States
+2835,Big 5 Sporting Goods,BGFV,197440256,8.9,United States
+2836,Vintage Wine Estates,VWE,197411520,3.2,United States
+2837,Cepton,CPTN,197258032,1.26,United States
+2838,1stdibs.Com,DIBS,197184512,5.07,United States
+2839,Lineage Cell Therapeutics,LCTX,197172160,1.16,United States
+2840,Thorne HealthTech,THRN,196834000,3.68,United States
+2841,Beyond Air,XAIR,195768800,6.55,United States
+2842,Absci,ABSI,194953216,2.11,United States
+2843,Cato Fashion,CATO,194925152,9.33,United States
+2844,KVH Industries,KVHI,194697296,10.15,United States
+2845,Hill International,HIL,194095808,3.4,United States
+2846,Marinus Pharmaceuticals,MRNS,193757120,3.91,United States
+2847,The Arena Group,AREN,193397008,10.6,United States
+2848,PlayAGS,AGS,192949520,5.11,United States
+2849,Virginia National Bankshares,VABK,191782256,36,United States
+2850,Cardlytics,CDLX,191366672,5.77,United States
+2851,Urban One,UONE,191364992,4.48,United States
+2852,Accuray,ARAY,191308752,2.04,United States
+2853,ShiftPixy,PIXY,191199632,19.77,United States
+2854,Alpine Summit Energy Partners,ALPS,190621856,5.05,United States
+2855,AXT Inc,AXTI,189892832,4.36,United States
+2856,Veritone,VERI,189794608,5.23,United States
+2857,Fiesta Restaurant Group,FRGI,188687408,7.26,United States
+2858,Penns Woods Bancorp,PWOD,188047728,26.65,United States
+2859,Celularity,CELU,186907248,1.29,United States
+2860,Limestone Bancorp,LMST,186388672,24.4,United States
+2861,Graphite Bio,GRPH,185505840,3.19,United States
+2862,Rite Aid,RAD,185436112,3.28,United States
+2863,Porch Group,PRCH,185021200,1.84,United States
+2864,BlackSky Technology,BKSY,184474800,1.52,United States
+2865,Greenhill,GHL,183920896,10.21,United States
+2866,Acacia Research,ACTG,183522368,4.22,United States
+2867,Homepoint,HMPT,182686704,1.32,United States
+2868,Peoples Bancorp of North Carolina,PEBK,182116016,32.3,United States
+2869,Tupperware Brands,TUP,180803072,4.07,United States
+2870,Berkeley Lights,BLI,180769296,2.63,United States
+2871,Alico,ALCO,180636048,23.79,United States
+2872,Silvercrest Asset Management Group,SAMG,180226048,18.72,United States
+2873,Asure Software,ASUR,179227744,8.89,United States
+2874,Danimer Scientific,DNMR,178951584,1.77,United States
+2875,AN2 Therapeutics,ANTX,178698864,9.21,United States
+2876,LianBio,LIAN,177158784,1.64,United States
+2877,Xeris Pharmaceuticals,XERS,176780480,1.3,United States
+2878,CSI Compressco,CCLP,176546240,1.25,United States
+2879,Vaxxinity,VAXX,176478400,1.4,United States
+2880,Biodesix,BDSX,174409968,2.28,United States
+2881,Applied Blockchain,APLD,174341952,1.85,United States
+2882,WM Technology,MAPS,174316336,0.97,United States
+2883,Savara Pharmaceuticals,SVRA,173346880,1.52,United States
+2884,Velodyne Lidar,VLDR,173146880,0.73,United States
+2885,Fathom Digital Manufacturing,FATH,171326928,1.26,United States
+2886,InfuSystem,INFU,171138272,8.29,United States
+2887,Hurco Companies,HURC,170938752,26.03,United States
+2888,Whole Earth Brands,FREE,170870416,4.07,United States
+2889,Third Harmonic Bio,THRD,170490880,4.21,United States
+2890,Pear Therapeutics,PEAR,170242480,1.22,United States
+2891,Cormedix,CRMD,169681824,4.11,United States
+2892,Forum Energy Technologies,FET,169422256,29.56,United States
+2893,Matrix Service,MTRX,168920624,6.25,United States
+2894,Lifetime Brands,LCUT,168772976,7.67,United States
+2895,The Beachbody Company,BODY,168496192,0.51,United States
+2896,Faraday Future,FFIE,168495744,0.28,United States
+2897,KalVista Pharmaceuticals,KALV,167649936,6.81,United States
+2898,Jakks Pacific,JAKK,167633648,17.24,United States
+2899,a.k.a. Brands,AKA,167460800,1.3,United States
+2900,Riverview Bancorp,RVSB,167110160,7.77,United States
+2901,Great Ajax,AJX,166658128,7.28,United States
+2902,CalAmp,CAMP,166357792,4.5,United States
+2903,Selecta Biosciences,SELB,166038656,1.09,United States
+2904,Battalion Oil,BATL,165384848,10.12,United States
+2905,Identiv,INVE,164570752,7.31,United States
+2906,Summit Midstream,SMLP,164555616,16.17,United States
+2907,XL Fleet,XL,164297936,1.14,United States
+2908,Avita Medical,RCEL,163984944,6.55,United States
+2909,LL Flooring,LL,163944128,5.6,United States
+2910,Intevac,IVAC,163583696,6.43,United States
+2911,Sunlight Financial,SUNL,163323712,1.26,United States
+2912,Invivyd,IVVD,162928096,1.5,United States
+2913,Conn's,CONN,162587232,6.79,United States
+2914,GreenLight Biosciences,GRNA,162160640,1.07,United States
+2915,Akoustis Technologies,AKTS,160914592,2.8,United States
+2916,BG Staffing,BGSF,159964448,15.24,United States
+2917,Spok Holdings,SPOK,159600784,8.1,United States
+2918,Nature's Sunshine Products,NATR,158891120,8.29,United States
+2919,GlycoMimetics,GLYC,158844416,3.03,United States
+2920,Bassett Furniture,BSET,158432752,17.3,United States
+2921,Stratus Properties,STRS,158370416,19.36,United States
+2922,AgroFresh,AGFS,157300368,2.97,United States
+2923,Ouster,OUST,156720880,0.85,United States
+2924,Unifi,UFI,156549888,8.68,United States
+2925,First Northwest Bancorp,FNWB,156200240,15.7,United States
+2926,KemPharm,KMPH,156134672,4.53,United States
+2927,ProPhase Labs,PRPH,155941328,9.58,United States
+2928,NGL Energy Partners,NGL,155528240,1.19,United States
+2929,Potbelly Corporation,PBPB,155298288,5.39,United States
+2930,Zomedica Pharmaceuticals,ZOM,154832112,0.16,United States
+2931,Oxford Square Capital,OXSQ,154429280,3.1,United States
+2932,Cooper Standard,CPS,153629840,8.98,United States
+2933,Richmond Mutual Bancorporation,RMBI,153337600,13,United States
+2934,Genius Brands,GNUS,152803760,0.48,United States
+2935,Ashford Hospitality Trust,AHT,152352704,4.41,United States
+2936,Merrimack Pharmaceuticals,MACK,152205776,11.35,United States
+2937,StarTek,SRT,151052624,3.75,United States
+2938,ECB Bancorp,ECBK,149831824,16.33,United States
+2939,Gencor Industries,GENC,149508544,10.2,United States
+2940,Lantronix,LTRX,149127184,4.12,United States
+2941,Alaunos Therapeutics,TCRT,149054832,0.62,United States
+2942,BBX Capital Corporation,BBXIA,148439920,9.05,United States
+2943,Hawthorn Bancshares,HWBK,148028848,21.87,United States
+2944,Doma,DOMA,147823200,0.45,United States
+2945,MISTRAS Group,MG,147683776,4.94,United States
+2946,Atomera,ATOM,146461712,6.14,United States
+2947,Planet13,PLTH.CN,145048089,0.66,United States
+2948,Singular Genomics Systems,OMIC,144148720,2.02,United States
+2949,CleanSpark,CLSK,143422800,2,United States
+2950,Benessere Capital Acquisition,BENE,143270208,10.44,United States
+2951,INNOVATE Corp.,VATE,142607920,1.82,United States
+2952,Hanover Bancorp,HNVR,142122112,19.88,United States
+2953,Local Bounti,LOCL,142036128,1.37,United States
+2954,Arteris,AIP,140720096,4.21,United States
+2955,AdTheorent,ADTH,139912704,1.61,United States
+2956,Vera Bradley,VRA,139558608,4.52,United States
+2957,SmileDirectClub,SDC,139253872,0.36,United States
+2958,Oconee Federal Financial,OFED,139114112,24.8,United States
+2959,Escalade Sports,ESCA,138418224,10.19,United States
+2960,Liberty TripAdvisor Holdings,LTRPA,138193696,0.65,United States
+2961,Cadiz,CDZI,137326544,2.46,United States
+2962,Frequency Therapeutics,FREQ,137169568,3.89,United States
+2963,Vroom,VRM,137053792,0.99,United States
+2964,Aemetis,AMTX,136320768,3.89,United States
+2965,Republic First Bancorp,FRBK,136188656,2.14,United States
+2966,BankFinancial,BFIN,135812320,10.51,United States
+2967,Cipher Mining,CIFR,135566160,0.55,United States
+2968,Taysha Gene Therapies,TSHA,135499792,2.17,United States
+2969,Old Point Financial,OPOF,134661872,26.95,United States
+2970,Sachem Capital,SACH,134625808,3.3,United States
+2971,Malvern Bancorp,MLVF,134279072,17.59,United States
+2972,KULR Technology,KULR,134168936,1.19,United States
+2973,Paysign,PAYS,133229592,2.55,United States
+2974,Twin Disc,TWIN,133183384,9.66,United States
+2975,Tabula Rasa HealthCare,TRHC,132909072,4.9,United States
+2976,eHealth,EHTH,132449704,4.83,United States
+2977,Provident Bancorp,PVBC,131028304,7.4,United States
+2978,Yellow Corporation,YELL,130969512,2.54,United States
+2979,Daktronics,DAKT,130031896,2.86,United States
+2980,Ovid Therapeutics,OVID,130011424,1.85,United States
+2981,Iteris,ITI,129196472,3.03,United States
+2982,Sonendo,SONX,128840000,2.59,United States
+2983,Spire Global,SPIR,128811040,0.92,United States
+2984,Immuneering,IMRX,126742568,4.8,United States
+2985,PLBY Group (Playboy),PLBY,126648096,2.72,United States
+2986,Remark Holdings,MARK,126560000,1.13,United States
+2987,ThredUp,TDUP,126086896,1.25,United States
+2988,Aveanna Healthcare,AVAH,125940848,0.68,United States
+2989,Lazydays Holdings,LAZY,125597464,11.92,United States
+2990,Heliogen,HLGN,125413648,0.66,United States
+2991,Glatfelter,GLT,125206224,2.8,United States
+2992,Ohio Valley Banc Corp,OVBC,124829504,26.16,United States
+2993,MICT,MICT,124653168,0.79,United States
+2994,Societal CDMO,SCTL,124277192,1.47,United States
+2995,Precision BioSciences,DTIL,124274080,1.12,United States
+2996,Vaxart,VXRT,124240304,0.95,United States
+2997,Townsquare Media,TSQ,124220680,7.21,United States
+2998,Anixa Biosciences,ANIX,124179888,4.05,United States
+2999,Inotiv,NOTV,123621432,4.83,United States
+3000,ARC Document Solutions,ARC,122408120,2.85,United States
+3001,The RealReal,REAL,122091920,1.25,United States
+3002,FingerMotion,FNGR,121925360,2.66,United States
+3003,FaZe Clan,FAZE,121173368,1.67,United States
+3004,The Oncology Institute,TOI,120810632,1.67,United States
+3005,Sesen Bio,SESN,120092968,0.59,United States
+3006,EyePoint Pharmaceuticals,EYPT,120026344,3.52,United States
+3007,Redwire,RDW,118766024,1.86,United States
+3008,Smith Micro Software,SMSI,118238504,2.1,United States
+3009,Turtle Beach Corp,HEAR,118051408,7.13,United States
+3010,X4 Pharmaceuticals,XFOR,117913256,0.97,United States
+3011,FinWise Bancorp,FINW,117452664,9.14,United States
+3012,Athira Pharma,ATHA,117270824,3.1,United States
+3013,MariMed,MRMD,117076784,0.35,United States
+3014,Citius Pharmaceuticals,CTXR,116954184,0.8,United States
+3015,AG Mortgage Investment Trust,MITT,115827072,5.25,United States
+3016,Superior Industries International,SUP,115088592,4.26,United States
+3017,Astra Space,ASTR,114769664,0.43,United States
+3018,Cenntro Electric Group,CENN,114243864,0.44,United States
+3019,Martin Midstream Partners,MMLP,113576424,2.92,United States
+3020,Offerpad,OPAD,113486768,0.46,United States
+3021,Kopin Corporation,KOPN,113198152,1.19,United States
+3022,Quantum,QMCO,113185600,1.09,United States
+3023,JOANN,JOAN,112979992,2.77,United States
+3024,Nuvectis Pharma,NVCT,112977136,7.72,United States
+3025,Wag! Group,PET,112897752,3.07,United States
+3026,Fonar Corporation,FONR,112654384,16.9,United States
+3027,Angel Oak REIT,AOMR,112538176,4.52,United States
+3028,Praxis Precision Medicines,PRAX,112377864,2.39,United States
+3029,Diebold Nixdorf,DBD,110709336,1.4,United States
+3030,Lee Enterprises,LEE,109624048,18.34,United States
+3031,SelectQuote,SLQT,108683040,0.65,United States
+3032,XBiotech,XBIT,107718592,3.54,United States
+3033,Solid Biosciences,SLDB,107400944,5.5,United States
+3034,Eos Energy Enterprises,EOSE,107075520,1.45,United States
+3035,Vinco Ventures,BBIG,106848512,0.46,United States
+3036,Hycroft Mining,HYMC,106143632,0.53,United States
+3037,L.B. Foster,FSTR,106014208,9.7,United States
+3038,Comscore,SCOR,105811040,1.15,United States
+3039,Union Bankshares,UNB,105262688,23.4,United States
+3040,Citizens Inc,CIA,105261792,2.11,United States
+3041,Pardes Biosciences,PRDS,104699112,1.68,United States
+3042,RVL Pharmaceuticals,RVLP,104111376,1.05,United States
+3043,Akebia Therapeutics,AKBA,104067304,0.57,United States
+3044,RumbleON,RMBL,103801616,6.41,United States
+3045,Relmada Therapeutics,RLMD,103390752,3.44,United States
+3046,Tattooed Chef,TTCF,103318128,1.24,United States
+3047,Matinas BioPharma,MTNB,102620512,0.47,United States
+3048,USD Partners,USDP,102480280,3.07,United States
+3049,CytomX Therapeutics,CTMX,102100392,1.55,United States
+3050,Dave Inc.,DAVE,101635160,0.27,United States
+3051,KORE,KORE,101465296,1.33,United States
+3052,Latch,LTCH,100302336,0.69,United States
+3053,MediciNova,MNOV,99809024,2.04,United States
+3054,Paratek Pharmaceuticals,PRTK,99433600,1.79,United States
+3055,Cel-Sci,CVM,99371776,2.28,United States
+3056,Graham Corporation,GHM,99266832,9.36,United States
+3057,TeraWulf,WULF,99051632,0.68,United States
+3058,Lyra Therapeutics,LYRA,98981968,3.11,United States
+3059,Talkspace,TALK,98370616,0.62,United States
+3060,Sema4,SMFR,98207248,0.25,United States
+3061,Lument Finance Trust,LFT,97933504,1.88,United States
+3062,Pixelworks,PXLW,97917960,1.79,United States
+3063,Lakeland Industries,LAKE,97903528,13.38,United States
+3064,Pulse Biosciences,PLSE,97537880,2.62,United States
+3065,PowerFleet,PWFL,97299720,2.69,United States
+3066,Capricor Therapeutics,CAPR,96674560,3.83,United States
+3067,VBI Vaccines,VBIV,96562288,0.37,United States
+3068,Vince Holding,VNCE,96127944,7.8,United States
+3069,PEDEVCO,PED,95853512,1.12,United States
+3070,Provident Financial Holdings,PROV,95795112,13.3,United States
+3071,Lulu's Fashion Lounge,LVLU,95402784,2.44,United States
+3072,Buzzfeed,BZFD,94627760,0.68,United States
+3073,Hour Loop,HOUR,94264600,2.69,United States
+3074,Stabilis Solutions,SLNG,94139904,5.12,United States
+3075,Bakkt Holdings,BKKT,93525552,1.19,United States
+3076,Ideanomics,IDEX,93310408,0.16,United States
+3077,Westwood Holdings Group,WHG,92124760,10.95,United States
+3078,Modiv,MDV,92076200,12.3,United States
+3079,Rigetti Computing,RGTI,91657352,0.75,United States
+3080,Park City Group,PCYG,90531448,4.92,United States
+3081,Barnes &amp; Noble Education,BNED,90469936,1.72,United States
+3082,American Resources Corp,AREC,89609584,1.3,United States
+3083,Ellington Residential Mortgage REIT,EARN,89472000,6.76,United States
+3084,Inseego,INSG,89299800,0.83,United States
+3085,NeoVolta,NEOV,88682584,2.7,United States
+3086,Spero Therapeutics,SPRO,88537136,1.71,United States
+3087,Advent Technologies,ADN,88437272,1.71,United States
+3088,Red Robin,RRGB,87922560,5.52,United States
+3089,Reading International,RDI,87747856,2.76,United States
+3090,Flotek Industries,FTK,87583248,1.13,United States
+3091,Farmer Brothers,FARM,87364808,4.47,United States
+3092,U.S. Xpress Enterprises,USX,86478168,1.68,United States
+3093,Sarcos Technology and Robotics,STRC,85995856,0.56,United States
+3094,Kronos Bio,KRON,85916584,1.51,United States
+3095,Lifeway Foods,LWAY,85850608,5.54,United States
+3096,Fluent,FLNT,85547688,1.07,United States
+3097,Harte Hanks,HHS,84450064,11.54,United States
+3098,LMP Automotive Holdings,LMPX,83997760,7.7,United States
+3099,Asensus Surgical,ASXC,82562424,0.35,United States
+3100,Ayr Wellness,AYRWF,82554552,1.21,United States
+3101,Sonida Senior Living,SNDA,82507280,12.37,United States
+3102,Flexsteel Industries,FLXS,82475824,15.64,United States
+3103,Mind Medicine,MNMD,82468560,2.2,United States
+3104,Instil Bio,TIL,82199488,0.63,United States
+3105,Gulf Island Fabrication,GIFI,81289528,5.11,United States
+3106,KINS Technology Group,KINZ,80103576,10.22,United States
+3107,Phunware,PHUN,80049840,0.78,United States
+3108,Apyx Medical,APYX,79920920,2.31,United States
+3109,Akili,AKLI,79466880,1.02,United States
+3110,Smart Sand,SND,78781288,1.74,United States
+3111,BigBear.ai,BBAI,78568304,0.62,United States
+3112,Charlotte's Web,CWEB.TO,77425281,0.51,United States
+3113,AEye,LIDR,76825144,0.48,United States
+3114,Co-Diagnostics,CODX,76676392,2.48,United States
+3115,Embark Technology,EMBK,74950080,3.2,United States
+3116,Verastem Oncology,VSTM,74498272,0.35,United States
+3117,XOS,XOS,74472664,0.44,United States
+3118,orion-group-holdings,ORN,74367368,2.32,United States
+3119,Delta Apparel,DLA,73688368,10.53,United States
+3120,Vapotherm,VAPO,73673560,2.76,United States
+3121,NRx Pharmaceuticals,NRXP,73390808,1.09,United States
+3122,Spectrum Pharmaceuticals,SPPI,73316728,0.36,United States
+3123,ACRES Commercial Realty,ACR,72170616,8.24,United States
+3124,Know Labs,KNW,71273696,1.48,United States
+3125,Pieris Pharmaceuticals,PIRS,71020816,0.95,United States
+3126,Carrols Restaurant Group,TAST,70800216,1.33,United States
+3127,Dare Bioscience,DARE,70405168,0.83,United States
+3128,Xilio Therapeutics,XLO,70297080,2.56,United States
+3129,Syros Pharmaceuticals,SYRS,70183872,3.47,United States
+3130,Seelos Therapeutics,SEEL,69809240,0.65,United States
+3131,Sotherly Hotels,SOHO,69710760,1.8,United States
+3132,Enzo Biochem,ENZ,69670312,1.43,United States
+3133,Fortress Biotech,FBIO,69513600,0.64,United States
+3134,Cytosorbents,CTSO,69380768,1.59,United States
+3135,Clearside Biomedical,CLSD,69219304,1.15,United States
+3136,Grove Collaborative,GROV,68732688,0.37,United States
+3137,Galectin Therapeutics,GALT,68339896,1.15,United States
+3138,Hydrofarm,HYFM,68207304,1.51,United States
+3139,BeyondSpring,BYSI,68125576,1.75,United States
+3140,Express,EXPR,68081584,1,United States
+3141,Rekor Systems,REKR,66304072,1.22,United States
+3142,Genprex,GNPX,66034788,1.38,United States
+3143,Quicklogic,QUIK,65955876,5.03,United States
+3144,Longeveron,LGVN,65682500,3.13,United States
+3145,Wrap Technologies,WRAP,64980508,1.58,United States
+3146,Lantern Pharma,LTRN,64924860,5.98,United States
+3147,Accelerate Diagnostics,AXDX,64741704,0.65,United States
+3148,Momentus,MNTS,64214636,0.76,United States
+3149,Atossa Therapeutics,ATOS,64122392,0.51,United States
+3150,Owlet,OWLT,63765828,0.56,United States
+3151,ATI Physical Therapy,ATIP,63211860,0.31,United States
+3152,Aterian,ATER,63079064,0.78,United States
+3153,Great Elm Capital,GECC,62891776,8.27,United States
+3154,eMagin,EMAN,62573280,0.8,United States
+3155,Root Insurance,ROOT,62462996,4.43,United States
+3156,Energous,WATT,62458828,0.8,United States
+3157,"NN, Inc.",NNBR,62294120,1.42,United States
+3158,Manhattan Bridge Capital,LOAN,61842564,5.38,United States
+3159,Logan Ridge Finance,LRFC,61487068,22.68,United States
+3160,AppHarvest,APPH,61106032,0.57,United States
+3161,Kala Pharmaceuticals,KALA,61065784,38.28,United States
+3162,Volta,VLTA,60844700,0.35,United States
+3163,aTyr Pharma,LIFE,60774692,2.1,United States
+3164,Immunic,IMUX,60371372,1.36,United States
+3165,NCS Multistage,NCSM,60308092,25.04,United States
+3166,the Marygold Companies,MGLD,58814020,1.49,United States
+3167,Vista Gold,VGZ,58573796,0.5,United States
+3168,Senti Biosciences,SNTI,58553616,1.34,United States
+3169,Augmedix,AUGX,58394228,1.56,United States
+3170,BrainStorm Cell Therapeutics,BCLI,58101464,1.59,United States
+3171,Orion Energy Systems,OESX,57892124,1.81,United States
+3172,Polished.com,POL,57359780,0.55,United States
+3173,Adverum Biotechnologies,ADVM,57154688,0.57,United States
+3174,Jounce Therapeutics,JNCE,56863620,1.1,United States
+3175,Retractable Technologies,RVP,55993240,1.7,United States
+3176,Culp,CULP,55690916,4.53,United States
+3177,Mesa Air,MESA,55531656,1.53,United States
+3178,Adamas One,JEWL,55317640,3.02,United States
+3179,Elevate Credit,ELVT,54837608,1.76,United States
+3180,ASP Isotopes,ASPI,54837368,1.6,United States
+3181,Sunworks,SUNW,54717184,1.56,United States
+3182,Allied Esports,AESE,54324936,1.39,United States
+3183,Viracta Therapeutics,VIRX,54240164,1.42,United States
+3184,Regis Corporation,RGS,54152008,1.19,United States
+3185,Geospace Technologies,GEOS,54142148,4.16,United States
+3186,Enochian Biosciences,ENOB,53929572,1.02,United States
+3187,FreightCar America,RAIL,53736696,3.12,United States
+3188,BioLargo,BLGO,53678772,0.19,United States
+3189,Synchronoss,SNCR,53611056,0.59,United States
+3190,Ascent Solar Technologies,ASTI,53610664,1.58,United States
+3191,Lucid Diagnostics,LUCD,53578236,1.37,United States
+3192,AquaBounty,AQB,53397024,0.75,United States
+3193,vTv Therapeutics,VTVT,53159904,0.65,United States
+3194,Synlogic,SYBX,52805304,0.75,United States
+3195,Curis,CRIS,52691364,0.55,United States
+3196,Bird Global,BRDS,51873588,0.18,United States
+3197,TherapeuticsMD,TXMD,51690368,5.46,United States
+3198,DermTech,DMTK,51358948,1.7,United States
+3199,Rapid Micro Biosystems,RPID,51233048,1.22,United States
+3200,Abeona Therapeutics,ABEO,50840368,2.96,United States
+3201,VirTra,VTSI,50241164,4.61,United States
+3202,Avalon GloboCare,ALBT,50222168,0.5,United States
+3203,Red Cat Holdings,RCAT,49972284,0.92,United States
+3204,Castellum,CTM,49847160,1.2,United States
+3205,Kaival Brands Innovations,KAVL,49468124,0.88,United States
+3206,Sellas Life Sciences,SLS,48999920,2.38,United States
+3207,Nautilus,NLS,48848028,1.54,United States
+3208,SCYNEXIS,SCYX,48332360,1.48,United States
+3209,Surface Oncology,SURF,47937396,0.79,United States
+3210,AeroClean Technologies,AERC,47885420,3.09,United States
+3211,Bit Digital,BTBT,47823528,0.58,United States
+3212,Gaia,GAIA,47230072,2.27,United States
+3213,Golden Minerals,AUMN,46810104,0.28,United States
+3214,Science 37,SNCE,46665600,0.4,United States
+3215,Heritage Insurance,HRTG,46577520,1.8,United States
+3216,Advanced Emissions Solutions,ADES,45675052,2.39,United States
+3217,Biomerica,BMRA,45615240,3.4,United States
+3218,Aquestive Therapeutics,AQST,44895324,0.83,United States
+3219,PAVmed,PAVM,44706516,0.48,United States
+3220,Rafael Holdings,RFL,44466896,1.82,United States
+3221,Koss,KOSS,44430232,4.84,United States
+3222,TESSCO Technologies,TESS,44186448,4.8,United States
+3223,Leap Therapeutics,LPTX,43767460,0.44,United States
+3224,Armata Pharmaceuticals,ARMP,43735088,1.21,United States
+3225,BitNile,NILE,42949188,0.12,United States
+3226,United Insurance Holdings,UIHC,42008860,0.97,United States
+3227,Ashford Inc,AINC,41804104,13.42,United States
+3228,Kirkland's,KIRK,41388028,3.25,United States
+3229,Party City,PRTY,41303680,0.36,United States
+3230,Talaris Therapeutics,TALS,41233008,0.99,United States
+3231,Solitario Zinc,XPL,40733160,0.63,United States
+3232,The Glimpse Group,VRAR,40583164,2.99,United States
+3233,Corvus Pharmaceuticals,CRVS,40036012,0.86,United States
+3234,U.S. Gold Corp,USAU,39309200,4.7,United States
+3235,Natural Health Trends,NHTC,38950724,3.41,United States
+3236,MAIA Biotechnology,MAIA,38912676,3.56,United States
+3237,HeartBeam,BEAT,38742364,4.84,United States
+3238,Unity Biotechnology,UBX,38177288,2.69,United States
+3239,OncoCyte,OCX,37966080,0.32,United States
+3240,AppTech Payments,APCX,37889096,2.31,United States
+3241,Intellicheck,IDN,37859908,2,United States
+3242,Westwater Resources,WWR,37492024,0.78,United States
+3243,EMCORE Corporation,EMKR,37035492,0.98,United States
+3244,Broadwind,BWEN,37005208,1.79,United States
+3245,American Virtual Cloud,AVCT,36366400,1.12,United States
+3246,Atlas Lithium,ATLX,36179748,0.01,United States
+3247,Cryo-Cell,CCEL,35951232,4.22,United States
+3248,Isoray,ISR,34988216,0.25,United States
+3249,Lipocine,LPCN,34970616,0.4,United States
+3250,RealNetworks,RNWK,34821656,0.73,United States
+3251,Houston American Energy,HUSA,34530764,3.48,United States
+3252,CorpHousing Group,CHG,34488220,1.3,United States
+3253,Lightning eMotors,ZEV,33206012,0.37,United States
+3254,CorEnergy Infrastructure Trust,CORR,32674630,2.06,United States
+3255,LightPath Technologies,LPTH,32530898,1.2,United States
+3256,Audacy,AUD,32491650,0.22,United States
+3257,Camber Energy,CEI,32446780,1.99,United States
+3258,IZEA Worldwide,IZEA,32421518,0.52,United States
+3259,Blue Apron Holdings,APRN,32248644,0.81,United States
+3260,Sio Gene Therapies,SIOX,32105236,0.43,United States
+3261,Journey Medical,DERM,32044782,1.81,United States
+3262,Vaccinex,VCNX,31502062,0.63,United States
+3263,AVROBIO,AVRO,31202180,0.71,United States
+3264,Solar Integrated Roofing,SIRC,30928632,0.07,United States
+3265,Biora Therapeutics,BIOR,30686014,0.14,United States
+3266,Lumos Pharma,LUMO,30657766,3.66,United States
+3267,Atlis Motor Vehicles,AMV,30476904,3.14,United States
+3268,AgEagle Aerial Systems,UAVS,29923128,0.34,United States
+3269,ToughBuilt Industries,TBLT,29545980,2.22,United States
+3270,Rave Restaurant Group,RAVE,29368396,1.58,United States
+3271,Monopar Therapeutics,MNPR,29329080,2.27,United States
+3272,NantHealth,NH,29063970,3.77,United States
+3273,Satsuma Pharmaceuticals,STSA,28938874,0.87,United States
+3274,Zion Oil &amp; Gas,ZNOG,28404926,0.06,United States
+3275,Salem Media Group,SALM,28305470,1.04,United States
+3276,Beasley Broadcast Group,BBGI,28069354,0.95,United States
+3277,Psychemedics,PMD,27785472,4.92,United States
+3278,Core Scientific,CORZ,27488918,0.08,United States
+3279,Vislink Technologies,VISL,27029000,0.57,United States
+3280,Cyclerion Therapeutics,CYCN,26966404,0.62,United States
+3281,Shapeways,SHPW,26669028,0.54,United States
+3282,Stryve Foods,SNAX,26603372,0.73,United States
+3283,Trinity Place Holdings,TPHS,26573690,0.72,United States
+3284,Inuvo,INUV,26153390,0.22,United States
+3285,Capstone Green Energy,CGRN,25935130,1.41,United States
+3286,Pioneer Power Solutions,PPSI,25859904,2.68,United States
+3287,Revlon,REVRQ,25847752,0.48,United States
+3288,Palatin Technologies,PTN,25413648,2.45,United States
+3289,IronNet,IRNT,25408460,0.25,United States
+3290,Shift Technologies,SFT,25380550,0.15,United States
+3291,PaxMedica,PXMD,25034048,2.08,United States
+3292,Zynerba Pharmaceuticals,ZYNE,24952644,0.53,United States
+3293,Ocean Power Technologies,OPTT,24918798,0.45,United States
+3294,Conformis,CFMS,24654972,3.28,United States
+3295,SPI Energy,SPI,24592784,0.82,United States
+3296,UpHealth,UPH,24215528,1.61,United States
+3297,Boxlight,BOXL,24090364,0.33,United States
+3298,Microbot Medical,MBOT,23908608,3.03,United States
+3299,Biofrontera,BFRI,23756770,0.89,United States
+3300,SeaChange,SEAC,23609142,0.47,United States
+3301,Harpoon Therapeutics,HARP,23599094,0.71,United States
+3302,Athenex,ATNX,23454090,0.15,United States
+3303,Hepion Pharmaceuticals,HEPA,23440602,0.31,United States
+3304,Alkaline Water Company,WTER,23428788,0.16,United States
+3305,Quince Therapeutics,QNCX,23390756,0.65,United States
+3306,Comstock Mining,LODE,23234958,0.27,United States
+3307,Regulus Therapeutics,RGLS,23071212,1.37,United States
+3308,SigmaTron International,SGMA,22828050,3.76,United States
+3309,Document Security Systems,DSS,22812690,0.16,United States
+3310,Team Inc,TISI,22649322,5.24,United States
+3311,Cyngn,CYN,22229328,0.66,United States
+3312,BioSig Technologies,BSGM,21940678,0.41,United States
+3313,Lannett Company,LCI,21848862,0.52,United States
+3314,Phoenix Motor,PEV,21708798,1.06,United States
+3315,Vincerx Pharma,VINC,21155896,1,United States
+3316,Tonix Pharmaceuticals,TNXP,20891430,0.36,United States
+3317,AgeX Therapeutics,AGE,20870960,0.55,United States
+3318,VistaGen Therapeutics,VTGN,20724966,0.1,United States
+3319,Applied DNA Sciences,APDN,20524516,1.59,United States
+3320,Sientra,SIEN,20007308,0.2,United States
+3321,FGI Industries,FGI,19850250,2.09,United States
+3322,Aptinyx,APTX,19613174,0.29,United States
+3323,Hempacco,HPCO,19425466,0.83,United States
+3324,electroCore,ECOR,19366254,0.27,United States
+3325,Waitr Holdings,WTRH,19347856,0.09,United States
+3326,Soligenix,SNGX,19179952,0.44,United States
+3327,Dolphin Entertainment,DLPN,18589662,1.82,United States
+3328,Sidus Space,SIDU,18474388,1.03,United States
+3329,Lipella Pharmaceuticals,LIPO,18035972,3.14,United States
+3330,Acorda Therapeutics,ACOR,18009972,0.74,United States
+3331,Verb Technology,VERB,17877948,0.15,United States
+3332,CarLotz,LOTZ,17716044,0.15,United States
+3333,Aprea Therapeutics,APRE,17483974,0.33,United States
+3334,Sonim Technologies,SONM,17474238,0.43,United States
+3335,Avaya Holdings,AVYA,17343346,0.2,United States
+3336,AcelRx Pharmaceuticals,ACRX,17208044,2.31,United States
+3337,Carver Bancorp,CARV,16947946,4.01,United States
+3338,India Globalization Capital,IGC,16726845,0.32,United States
+3339,Polar Power,POLA,16704984,1.29,United States
+3340,Astrotech,ASTC,16651229,9.85,United States
+3341,Drive Shack,DS,16638538,0.18,United States
+3342,Mobile Global Esports (Mogo),MGAM,16539454,0.81,United States
+3343,Eterna Therapeutics,ERNA,16150271,3.15,United States
+3344,SG Blocks,SGBX,16147268,1.34,United States
+3345,Laser Photonics,LASE,15914408,2.02,United States
+3346,Cocrystal Pharma,COCP,15797420,1.94,United States
+3347,Marin Software,MRIN,15776780,0.98,United States
+3348,Calithera Biosciences,CALA,15714790,3.23,United States
+3349,Ekso Bionics,EKSO,15639457,1.19,United States
+3350,Rubius Therapeutics,RUBY,15381230,0.17,United States
+3351,PREIT,PEI,15295929,2.39,United States
+3352,Aeterna Zentaris,AEZS,15120828,3.11,United States
+3353,Marpai,MRAI,14865909,0.71,United States
+3354,Expion360,XPON,14557265,2.14,United States
+3355,Humanigen,HGEN,14527760,0.12,United States
+3356,Kingstone Companies,KINS,14477498,1.36,United States
+3357,AIM ImmunoTech,AIM,14424691,0.3,United States
+3358,Corbus Pharmaceuticals,CRBP,14394787,0.11,United States
+3359,Air Industries Group,AIRI,14290936,4.4,United States
+3360,Pulmatrix,PULM,14120019,3.88,United States
+3361,Athersys,ATHX,14025253,0.82,United States
+3362,Stronghold Digital Mining,SDIG,13952488,0.44,United States
+3363,Celsion Corporation,CLSN,13913531,1.96,United States
+3364,Socket Mobile,SCKT,13847788,1.93,United States
+3365,Wheeler Real Estate Investment Trust,WHLR,13822379,1.4,United States
+3366,Horizon Global,HZN,13589072,0.49,United States
+3367,cbdMD,YCBD,13550357,0.22,United States
+3368,SOBR Safe,SOBR,13479725,0.93,United States
+3369,Onconova Therapeutics,ONTX,13101769,0.63,United States
+3370,NanoViricides,NNVC,12945150,1.12,United States
+3371,Digital Ally,DGLY,12904474,0.24,United States
+3372,Jaguar Health,JAGX,12808928,0.08,United States
+3373,Super League Gaming,SLGG,12781654,0.34,United States
+3374,Forza X1,FRZA,12750045,1.22,United States
+3375,180 Life Sciences,ATNF,12738621,3.41,United States
+3376,HyreCar,HYRE,12713136,0.42,United States
+3377,Fresh Vine Wine,VINE,12529856,0.98,United States
+3378,OLB Group,OLB,12495680,0.85,United States
+3379,Austin Gold,AUST,12466202,0.94,United States
+3380,Ra Medical Systems,RMED,12428108,5.75,United States
+3381,Precipio,PRPO,12361757,0.54,United States
+3382,Organovo,ONVO,12246501,1.41,United States
+3383,bioAffinity Technologies,BIAF,12219835,1.46,United States
+3384,Oragenics,OGEN,12214800,0.1,United States
+3385,Greenidge Generation Holdings,GREE,12034898,0.27,United States
+3386,Tempest Therapeutics,TPST,11989494,1.14,United States
+3387,Rockwell Medical,RMTI,11981681,1.03,United States
+3388,Clovis Oncology,CLVS,11770347,0.08,United States
+3389,Cingulate,CING,11761776,1.04,United States
+3390,Aytu BioScience,AYTU,11736727,0.19,United States
+3391,iSpecimen,ISPC,11573281,1.32,United States
+3392,Trust Stamp,IDAI,11436731,0.47,United States
+3393,Hallmark Financial Services,HALL,11096365,0.61,United States
+3394,Titan Pharmaceuticals,TTNP,10973363,0.75,United States
+3395,Innovative Eyewear,LUCY,10740795,1.47,United States
+3396,Context Therapeutics,CNTX,10537626,0.66,United States
+3397,Reborn Coffee,REBN,10499536,0.8,United States
+3398,Diffusion Pharmaceuticals,DFFN,10462327,5.13,United States
+3399,Aileron Therapeutics,ALRN,10442443,2.3,United States
+3400,Trevena,TRVN,10353950,1.49,United States
+3401,Exela Technologies,XELA,10032702,0.08,United States
+3402,Ontrak,OTRK,10002728,0.37,United States
+3403,T2 Biosystems,TTOO,9880785,1.35,United States
+3404,Wearable Health Solutions,WHSI,9495858,0.01,United States
+3405,Agile Therapeutics,AGRX,9390072,0.23,United States
+3406,Biocept,BIOC,9167399,0.54,United States
+3407,Tricida,TCDA,9093035,0.16,United States
+3408,Starry Group,STRY,8933807,0.05,United States
+3409,Netcapital,NCPL,8861225,1.51,United States
+3410,VYNE Therapeutics,VYNE,8780816,0.15,United States
+3411,Bellerophon Therapeutics,BLPH,8590905,0.9,United States
+3412,Evoke Pharma,EVOK,8525163,2.55,United States
+3413,Helius Medical Technologies,HSDT,8460990,0.3,United States
+3414,Minerva Neurosciences,NERV,8437500,1.58,United States
+3415,Chembio Diagnostics,CEMI,8193337,0.22,United States
+3416,Yield10 Bioscience,YTEN,8108488,1.64,United States
+3417,Avinger,AVGR,7956135,1.07,United States
+3418,Direct Digital Holdings,DRCT,7955278,2.44,United States
+3419,Arcimoto,FUV,7909102,3.09,United States
+3420,Actelis Networks,ASNS,7879508,0.46,United States
+3421,OpGen,OPGN,7592967,0.14,United States
+3422,Onfolio Holdings,ONFO,7409790,1.45,United States
+3423,Staffing 360 Solutions,STAF,7295362,2.88,United States
+3424,Calyxt,CLXT,7023379,0.14,United States
+3425,Heart Test Laboratories,HSCS,6978925,0.85,United States
+3426,Quoin Pharmaceuticals,QNRX,6824013,1.41,United States
+3427,Arcadia Biosciences,RKDA,6707824,0.27,United States
+3428,Gaming Technologies (Gametech),GMGT,6696320,0.2,United States
+3429,Minerva Surgical,UTRS,6431007,0.22,United States
+3430,Impac Mortgage Holdings,IMH,6227360,0.17,United States
+3431,Aethlon Medical,AEMD,6197768,0.27,United States
+3432,Tivic Health Systems,TIVC,6192779,0.64,United States
+3433,Cryptyde,TYDE,6050899,0.19,United States
+3434,Adial Pharmaceuticals,ADIL,5851486,0.22,United States
+3435,NuZee,NUZE,5849380,8.65,United States
+3436,Kidpik,PIK,5460152,0.71,United States
+3437,Evofem Biosciences,EVFM,5409567,0.06,United States
+3438,BIO-key International,BKYI,5407473,0.59,United States
+3439,Inpixon,INPX,5376557,1.66,United States
+3440,Phio Pharmaceuticals,PHIO,5275848,0.39,United States
+3441,Ensysce Biosciences,ENSC,5053054,0.79,United States
+3442,SINTX Technologies,SINT,5021921,9.67,United States
+3443,Petros Pharmaceuticals,PTPI,4845672,2.34,United States
+3444,PolarityTE,PTE,4789481,0.66,United States
+3445,Benitec Biopharma,BNTC,4767996,0.17,United States
+3446,Motorsport Gaming,MSGM,4707729,4.03,United States
+3447,Hillstream BioPharma,HILS,4681139,0.41,United States
+3448,Biolase,BIOL,4601721,0.64,United States
+3449,Greenlane,GNLN,4546667,0.29,United States
+3450,Viveve Medical,VIVE,4456853,0.42,United States
+3451,JanOne,JAN,4189806,1.33,United States
+3452,HTG Molecular Diagnostics,HTGM,4035064,3.95,United States
+3453,Blackboxstocks,BLBX,3968063,0.3,United States
+3454,iBio,IBIO,3887452,0.43,United States
+3455,Allied Healthcare Products,AHPI,3785571,0.94,United States
+3456,ContraFect,CFRX,3756272,0.1,United States
+3457,Eastside Distilling,EAST,3542893,0.23,United States
+3458,Cemtrex,CETX,3497363,0.13,United States
+3459,PhaseBio Pharmaceuticals,PHAS,3495053,0.07,United States
+3460,Ampio Pharmaceuticals,AMPE,3471242,0.23,United States
+3461,Connexa Sports Technologies,CNXA,3408705,0.24,United States
+3462,Nuwellis,NUWE,3326583,10.55,United States
+3463,Sonoma Pharmaceuticals,SNOA,3323388,1.07,United States
+3464,Grom Social Enterprises,GROM,3228688,1.48,United States
+3465,Zovio,ZVO,3175718,0.09,United States
+3466,Greene Concepts,INKW,3132448,0,United States
+3467,Akerna,KERN,3061026,0.69,United States
+3468,Energy Focus,EFOI,2967921,0.31,United States
+3469,Agrify,AGFY,2913742,0.33,United States
+3470,iEntertainment Network,IENT,2839683,0.04,United States
+3471,Kaspien,KSPN,2757422,0.56,United States
+3472,Edible Garden,EDBL,2169270,0.22,United States
+3473,Advaxis,ADXS,2106502,1.16,United States
+3474,Tapinator,TAPM,1898583,0.69,United States
+3475,Winc,WBEV,1861580,0.14,United States
+3476,Baudax Bio,BXRX,1853302,3.34,United States
+3477,Freeze Tag,FRZT,1221913,0.02,United States
+3478,Quanergy Systems,QNGY,1196165,0.07,United States
+3479,Youngevity International,YGYI,1133671,0.03,United States
+3480,iFresh,IFMK,962735,0.01,United States
+3481,Allena Pharmaceuticals,ALNAQ,708081,0.01,United States
+3482,Trulite,TRUL,212013,0,United States
+3483,NewAge,NBEVQ,29363,0,United States
+3484,Pareteum Corporation,TEUM,14270,0,United States
+3485,Genocea Biosciences,GNCA,5878,0,United States
+3486,FedNat Holding Company,FNHC,3503,0,United States
+3487,Hoth Therapeutics,HOTH,0,0,United States
+3488,Coya Therapeutics,COYA,0,0,United States
+3489,TScan Therapeutics,TCRX,0,0,United States
+3490,Intensity Therapeutics,INTS,0,0,United States
+3491,Ozon,OZON.ME,0,0,United States

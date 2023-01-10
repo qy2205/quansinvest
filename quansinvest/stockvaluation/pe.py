@@ -18,9 +18,9 @@ def pe_valuation(symbol, est_eps_chg_window=3, forward_look_window=3, return_for
     eps_df.columns = [symbol]
     eps_df.index = pd.to_datetime(eps_df.index)
     eps_df = eps_df.sort_index()
-    eps_df = pd.merge_asof(eps_df, si.get_data(symbol)[["adjclose"]], left_index=True, right_index=True)
+    eps_df = pd.merge_asof(eps_df, si.get_data(symbol)[["adjclose", "close"]], left_index=True, right_index=True)
     eps_df["EPS_TTM"] = eps_df[symbol].rolling(4).sum()
-    eps_df["PE_TTM"] = eps_df["adjclose"] / eps_df["EPS_TTM"]
+    eps_df["PE_TTM"] = eps_df["close"] / eps_df["EPS_TTM"]
     eps_df["EPS_TTM_%CHG"] = (eps_df.EPS_TTM - eps_df["EPS_TTM"].shift(1)) / eps_df["EPS_TTM"].shift(1)
     eps_increase = eps_df.tail(4 * est_eps_chg_window)["EPS_TTM_%CHG"].median()
     print(f"EPS Median % Quarterly Increase in recent {est_eps_chg_window} years: ", eps_increase)

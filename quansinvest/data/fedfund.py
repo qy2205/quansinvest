@@ -37,6 +37,21 @@ def scrapy_fedfund_target_rate(url='https://www.federalreserve.gov/monetarypolic
     return data
 
 
+def get_fedfund_target_data():
+    df1 = scrapy_fedfund_target_rate()
+    df2 = scrapy_fedfund_target_rate("https://www.federalreserve.gov/monetarypolicy/openmarket_archive.htm")
+    data = pd.concat([df1, df2])
+    data["open"] = data["Upper"]
+    data["high"] = data["Upper"]
+    data["low"] = data["Upper"]
+    data["close"] = data["Upper"]
+    data["adjclose"] = data["Upper"]
+    data["volume"] = data["Upper"]
+    data["ticker"] = "FedTarget"
+    data.index = data["Date"].map(pd.to_datetime)
+    return data[["open", "high", "low", "close", "adjclose", "volume", "ticker"]]
+
+
 def find_fed_periods():
     df1 = scrapy_fedfund_target_rate()
     df2 = scrapy_fedfund_target_rate("https://www.federalreserve.gov/monetarypolicy/openmarket_archive.htm")
