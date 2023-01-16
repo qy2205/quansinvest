@@ -2,8 +2,12 @@ import pandas as pd
 import numpy as np
 from pandarallel import pandarallel
 
-from quansinvest.evaluation.metrics.annual_return import AnnualReturn
-from quansinvest.evaluation.metrics.sharpe_ratio import SharpeRatio
+from quansinvest.evaluation.metrics import (
+    AnnualReturn,
+    SharpeRatio,
+    MaxDrawDown,
+    PeriodReturn
+)
 from quansinvest.data.preprocess import format_data
 from quansinvest.evaluation.asset_evaluation import evaluate_asset
 from quansinvest.data.constants import TICKER_COLUMN_NAME
@@ -73,8 +77,10 @@ def fastrank(
     end_date: str,
     alldata: pd.DataFrame,
     freq: str = "D",
-    metrics: tuple = (AnnualReturn(), SharpeRatio()),
+    metrics: tuple = (AnnualReturn(), SharpeRatio(), MaxDrawDown(), PeriodReturn()),
     timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
+    benchmark: str = "SPY",
+    progress_bar: bool = False,
 ):
     # empty results
     empty_res = {}
@@ -85,7 +91,7 @@ def fastrank(
     empty_res["launch_date"] = np.nan
     empty_res["end_date"] = np.nan
 
-    def evaluate(df):
+    def evaluate(df, benchmark_result=None):
         df = df[(df.index <= end_date) & (df.index >= start_date)]
         df = format_data(
             df,
@@ -105,14 +111,26 @@ def fastrank(
             result["asset"] = df[TICKER_COLUMN_NAME].iloc[0]
             result["launch_date"] = min(df.index)
             result["end_date"] = max(df.index)
+            if benchmark_result:
+                result[f"PeriodReturn_vs_{benchmark}"] = (
+                        result["PeriodReturn"] - benchmark_result["PeriodReturn"]
+                )
+                result[f"MaxDrawDown_vs_{benchmark}"] = (
+                        result["MaxDrawDown"] - benchmark_result["MaxDrawDown"]
+                )
             return result
+
+    # eval benchmark
+    benchmark_res = None
+    if benchmark:
+        benchmark_res = evaluate(alldata[alldata[TICKER_COLUMN_NAME] == benchmark], benchmark_result=None)
 
     # multiprocessing
     alldata = alldata[alldata[TICKER_COLUMN_NAME].isin(symbols)]
     if len(alldata) > 0:
-        pandarallel.initialize(progress_bar=True)
-        results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df)).tolist()
+        pandarallel.initialize(progress_bar=progress_bar)
+        results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df, benchmark_res)).tolist()
     else:
-        results = [evaluate(alldata)]
+        results = [evaluate(alldata, benchmark_res)]
 
     return pd.DataFrame(results)

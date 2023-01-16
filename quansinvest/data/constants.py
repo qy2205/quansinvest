@@ -1,3 +1,5 @@
+import os
+
 CLOSE_PRICE_COLUMN_NAME = "close"
 ADJ_CLOSE_PRICE_COLUMN_NAME = "adjclose"
 OPEN_PRICE_COLUMN_NAME = "open"
@@ -19,8 +21,8 @@ DAILY_RETURN_COLUMN_NAME = "daily_return"
 ASSET_LIST = [
     # gold; silver; gold miners; junior gold miners
     "GLD", "SLV", "GDX", "GDXJ",
-    # bond 7-10 years; 20 years+; invest grade corporate bond; 1-3 years; 0-3 month
-    "IEF", "TLT", "LQD", "SHY", "BIL",
+    # bond 7-10 years; 20 years+; invest grade corporate bond; 1-3 years; 0-3 month; all bond
+    "IEF", "TLT", "LQD", "SHY", "BIL", "AGG",
     # tech; software; semiconductor; technology;
     "QQQ", "IGV", "SOXX", "XLK",
     # aerospace & defense
@@ -45,4 +47,10 @@ ASSET_LIST = [
     "XTL", "IYZ", "IYT",
     # natural gas; natural gas 12 month; oil; commodity; 
     "UNG", "UNL", "USO", "DBC",
+    # benchmark
+    "SPY", "DIA",
+    # China stock
+    "FXI",
 ]
+
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
