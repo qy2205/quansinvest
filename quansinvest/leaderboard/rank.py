@@ -86,7 +86,10 @@ def fastrank(
     empty_res = {}
     for period in timeframe:
         for metric in metrics:
-            empty_res[f"{metric.name}_{period}"] = np.nan
+            if metric.name in ["PeriodReturn", "MaxDrawDown"]:
+                empty_res[f"{metric.name}"] = np.nan
+            else:
+                empty_res[f"{metric.name}_{period}"] = np.nan
     empty_res["asset"] = np.nan
     empty_res["launch_date"] = np.nan
     empty_res["end_date"] = np.nan
