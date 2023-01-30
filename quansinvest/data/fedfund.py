@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import datetime as dt
+import numpy as np
 
 
 def scrapy_fedfund_target_rate(url='https://www.federalreserve.gov/monetarypolicy/openmarket.htm'):
@@ -120,3 +121,31 @@ def find_fed_periods():
         "keep_rate_after_increase_period": dict(keep_rate_after_increase_period),
         "keep_rate_after_decrease_period": dict(keep_rate_after_decrease_period),
     }
+
+
+def get_fed_fund_rates(save=False):
+    url = "https://markets.newyorkfed.org/read?startDt=2000-01-01&endDt=2023-01-29&eventCodes=510,515,520," \
+          "500,505&productCode=50&sort=postDt:-1,eventCode:1&format=xlsx"
+    fed_fund_rates = pd.read_excel(url)
+    fed_fund_rates = fed_fund_rates[fed_fund_rates["Rate Type"] == "EFFR"][
+        ["Effective Date", "Rate (%)", "Target Rate From (%)", "Target Rate To (%)"]
+    ]
+    fed_fund_rates = fed_fund_rates.reset_index(drop=True)
+    fed_fund_rates["Effective Date"] = fed_fund_rates["Effective Date"].map(pd.to_datetime)
+    fed_fund_rates["Target Rate To (%)"] = np.where(
+        fed_fund_rates["Target Rate To (%)"] == fed_fund_rates["Target Rate To (%)"],
+        fed_fund_rates["Target Rate To (%)"],
+        fed_fund_rates["Target Rate From (%)"]
+    )
+    fed_fund_rates = fed_fund_rates.rename(
+        {
+            "Effective Date": "date",
+            "Rate (%)": "rate",
+            "Target Rate From (%)": "target_from",
+            "Target Rate To (%)": "target_to"
+        }, axis=1
+    )
+    if save:
+        fed_fund_rates.to_csv("fedrate.csv", index=False)
+
+    return fed_fund_rates
