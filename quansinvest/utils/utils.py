@@ -1,6 +1,7 @@
 from quansinvest.data.constants import ROOT_DIR
 import pandas as pd
 import datetime as dt
+import matplotlib.pyplot as plt
 
 etfnames = pd.read_csv(f"{ROOT_DIR}/resources/etfnames.csv")
 
@@ -74,6 +75,12 @@ def adjust_economics_cycles(
         v = str(v)
         new_periods[k] = v
     return new_periods
+
+
+def get_cmap(n, name='Set1'):
+    """Returns a function that maps each index in 0, 1, ..., n-1 to a distinct
+    RGB color; the keyword argument name must be a standard mpl colormap name."""
+    return plt.cm.get_cmap(name, n)
 
 
 if __name__ == "__main__":

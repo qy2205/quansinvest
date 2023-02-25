@@ -49,12 +49,19 @@ class MaxDrawDown(BaseMetrics):
         if len(filtered_data) == 0:
             max_drawdown, drawdown_series = None, None
         else:
-            drawdown_series = (
-                (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME] -
-                 filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()) /
-                filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()
-            )
-            max_drawdown = drawdown_series.min()
+            # method 1
+            # drawdown_series = (
+            #     (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME] -
+            #      filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()) /
+            #     filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()
+            # )
+            # max_drawdown = drawdown_series.min()
+
+            # method 2
+            start_price = filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].iloc[0]
+            min_price = filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].min()
+            max_drawdown = (min_price - start_price)/start_price
+            drawdown_series = None
 
         if return_drawdown_series:
             return max_drawdown, drawdown_series
