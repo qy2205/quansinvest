@@ -6,6 +6,9 @@ from quansinvest.evaluation.metrics.maxdrawdown import MaxDrawDown
 from quansinvest.evaluation.metrics.period_return import PeriodReturn
 from quansinvest.utils.utils import etf_name_map, etf_asset_class_map
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 def get_best_assets(data, periods, benchmark="SPY"):
     # rank assets
@@ -93,3 +96,71 @@ def get_asset_performance(result, asset="XLU", benchmark="SPY"):
         f"period_returns_vs_{benchmark}": period_returns_v_bch,
         f"max_drawdowns_vs_{benchmark}": max_drawdowns_v_bch,
     })
+
+
+def get_buy_in_advance_results(results, symbol="XLU", visual=False, remove_periods=None):
+    """
+    :param results: {"buy_in_advance_0_days": rank_result: pd.DataFrame}
+    :param symbol:
+    :param visual:
+    :param remove_periods
+    :return:
+    """
+    # get original periods
+    no_adjusted_key = "buy_in_advance_0_days"
+    for key in results.keys():
+        if key.endswith("_0_days"):
+            no_adjusted_key = key
+            break
+    original_periods = get_asset_performance(results[no_adjusted_key], symbol)["periods"].values
+
+    # # reformat data -> dataframe
+    # period_returns = []
+    # max_drawdowns = []
+    # keys = []
+    # for k, res in results.items():
+    #     symbol_perf = get_asset_performance(results[k], symbol)
+    #     period_returns.append(symbol_perf[f"{symbol}_period_returns"].mean())
+    #     max_drawdowns.append(symbol_perf[f"{symbol}_max_drawdowns"].mean())
+    #     keys.append(k)
+
+    # visual
+    dfs = []
+    for buytime in results.keys():
+        _df = get_asset_performance(results[buytime], symbol)
+        _df["buytime"] = buytime
+        _df["original_periods"] = original_periods[:len(_df)]
+        if remove_periods is not None:
+            _df = _df[_df["original_periods"].map(lambda x: x[0] not in remove_periods)]
+        _df["buy_in_advance"] = _df["buytime"].map(lambda x: x.split("_")[-2])
+        dfs.append(_df)
+
+    if visual:
+        # return
+        plt.figure(figsize=(16, 6))
+        graph = sns.scatterplot(
+            data=pd.concat(dfs),
+            x="buy_in_advance",
+            y=f"{symbol}_period_returns",
+            hue="original_periods",
+            # style="periods"
+        )
+        graph.axhline(0, color="red", linestyle="--")
+        graph.axhline(0.1, color="green", linestyle="--")
+        graph.axhline(0.2, color="green", linestyle="--")
+        plt.show()
+
+        # maxdraw down
+        plt.figure(figsize=(16, 6))
+        graph = sns.scatterplot(
+            data=pd.concat(dfs),
+            x="buy_in_advance",
+            y=f"{symbol}_max_drawdowns",
+            hue="original_periods",
+            # style="periods"
+        )
+        graph.axhline(0, color="green", linestyle="--")
+        graph.axhline(-0.15, color="red", linestyle="--")
+        plt.show()
+
+    return pd.concat(dfs)

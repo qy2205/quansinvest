@@ -21,8 +21,8 @@ DAILY_RETURN_COLUMN_NAME = "daily_return"
 ASSET_LIST = [
     # gold; silver; gold miners; junior gold miners
     "GLD", "SLV", "GDX", "GDXJ",
-    # bond 7-10 years; 20 years+; invest grade corporate bond; 1-3 years; 0-3 month; all bond
-    "IEF", "TLT", "LQD", "SHY", "BIL", "AGG",
+    # bond 7-10 years; 20 years+; invest grade corporate bond; 1-3 years; 0-3 month; all bond; long term bond index
+    "IEF", "TLT", "LQD", "SHY", "BIL", "AGG", "VBLTX",
     # tech; software; semiconductor; technology;
     "QQQ", "IGV", "SOXX", "XLK",
     # aerospace & defense
@@ -38,7 +38,7 @@ ASSET_LIST = [
     # industrial; materials; metals and mining; copper;
     "XLI", "XLB", "XME", "CPER",
     # healthcare; medical device; insurance; bio tech;
-    "XLV", "IHI", "KIE", "IBB",
+    "XLV", "IHI", "IAK", "IBB",
     # non-essential products; essential products;
     "XLY", "XLP",
     # real estate; home builder; home construction; real estate

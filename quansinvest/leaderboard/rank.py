@@ -11,6 +11,7 @@ from quansinvest.evaluation.metrics import (
 from quansinvest.data.preprocess import format_data
 from quansinvest.evaluation.asset_evaluation import evaluate_asset
 from quansinvest.data.constants import TICKER_COLUMN_NAME
+from quansinvest.utils.utils import etf_name_map, etf_asset_class_map
 
 
 def rank(
@@ -80,7 +81,9 @@ def fastrank(
     metrics: tuple = (AnnualReturn(), SharpeRatio(), MaxDrawDown(), PeriodReturn()),
     timeframe: tuple = ("3M", "6M", "1Y", "2Y", "3Y", "4Y", "5Y", "10Y", "15Y", "20Y", "25Y"),
     benchmark: str = "SPY",
+    # pandarallel parameters
     progress_bar: bool = False,
+    verbose=0,
 ):
     # empty results
     empty_res = {}
@@ -131,9 +134,15 @@ def fastrank(
     # multiprocessing
     alldata = alldata[alldata[TICKER_COLUMN_NAME].isin(symbols)]
     if len(alldata) > 0:
-        pandarallel.initialize(progress_bar=progress_bar)
+        pandarallel.initialize(progress_bar=progress_bar, verbose=verbose)
         results = alldata.groupby(TICKER_COLUMN_NAME).parallel_apply(lambda df: evaluate(df, benchmark_res)).tolist()
     else:
         results = [evaluate(alldata, benchmark_res)]
 
-    return pd.DataFrame(results)
+    result = pd.DataFrame(results)
+
+    # add name and asset class
+    result["name"] = result["asset"].map(lambda x: etf_name_map(x))
+    result["asset_class"] = result["asset"].map(lambda x: etf_asset_class_map(x))
+
+    return result
