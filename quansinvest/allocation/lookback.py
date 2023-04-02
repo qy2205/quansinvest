@@ -10,7 +10,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def get_best_assets(data, periods, benchmark="SPY"):
+def get_best_assets(
+    data,
+    periods,
+    freq: str = "D",
+    metrics: tuple = (AnnualReturn(), SharpeRatio(), MaxDrawDown(), PeriodReturn()),
+    timeframe: tuple = ("100Y",),
+    benchmark="SPY",
+):
     # rank assets
     topdf_ls = []
     rank_dfs = []
@@ -24,9 +31,9 @@ def get_best_assets(data, periods, benchmark="SPY"):
             alldata=data,
             start_date=start_date,
             end_date=end_date,
-            freq="D",
-            metrics=(AnnualReturn(), SharpeRatio(), MaxDrawDown(), PeriodReturn()),
-            timeframe=("100Y",),
+            freq=freq,
+            metrics=metrics,
+            timeframe=timeframe,
             benchmark=benchmark,
         )
 

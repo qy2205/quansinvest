@@ -98,7 +98,6 @@ def fastrank(
     empty_res["end_date"] = np.nan
 
     def evaluate(df, benchmark_result=None):
-        df = df[(df.index <= end_date) & (df.index >= start_date)]
         df = format_data(
             df,
             fillna=False,
@@ -125,6 +124,9 @@ def fastrank(
                         result["MaxDrawDown"] - benchmark_result["MaxDrawDown"]
                 )
             return result
+
+    # preprocess data
+    alldata = alldata[(alldata.index <= end_date) & (alldata.index >= start_date)]
 
     # eval benchmark
     benchmark_res = None
