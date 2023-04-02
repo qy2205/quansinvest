@@ -47,7 +47,7 @@ def request_and_retry(url, headers):
 
 def scrapy_income(symbol):
     symbol = clean_symbol(symbol)
-    url = f'https://stockanalysis.com/stocks/{symbol}/financials/?period=quarterly'
+    url = f'https://stockanalysis.com/stocks/{symbol}/financials/?p=quarterly'
     headers = random.choice(headers_ls)
     result = request_and_retry(url, headers)
     soup = BeautifulSoup(result.content)
@@ -57,7 +57,7 @@ def scrapy_income(symbol):
 
 def scrapy_balance_sheet(symbol):
     symbol = clean_symbol(symbol)
-    url = f'https://stockanalysis.com/stocks/{symbol}/financials/balance-sheet/?period=quarterly'
+    url = f'https://stockanalysis.com/stocks/{symbol}/financials/balance-sheet/?p=quarterly'
     headers = random.choice(headers_ls)
     result = request_and_retry(url, headers)
     soup = BeautifulSoup(result.content)
@@ -67,7 +67,7 @@ def scrapy_balance_sheet(symbol):
 
 def scrapy_cash_flow(symbol):
     symbol = clean_symbol(symbol)
-    url = f'https://stockanalysis.com/stocks/{symbol}/financials/cash-flow-statement/?period=quarterly'
+    url = f'https://stockanalysis.com/stocks/{symbol}/financials/cash-flow-statement/?p=quarterly'
     headers = random.choice(headers_ls)
     result = request_and_retry(url, headers)
     soup = BeautifulSoup(result.content)
@@ -77,7 +77,7 @@ def scrapy_cash_flow(symbol):
 
 def scrapy_ratios(symbol):
     symbol = clean_symbol(symbol)
-    url = f'https://stockanalysis.com/stocks/{symbol}/financials/ratios/?period=quarterly'
+    url = f'https://stockanalysis.com/stocks/{symbol}/financials/ratios/?p=quarterly'
     headers = random.choice(headers_ls)
     result = request_and_retry(url, headers)
     soup = BeautifulSoup(result.content)
