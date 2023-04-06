@@ -38,8 +38,6 @@ def get_stock_financial(income_df, symbol):
     res["Forward Repurchase"] = np.nan
     res["Recent Repurchase"] = _income["Shares Outstanding (Basic)"].diff().mean()
 
-    res["Backtest Score"] = np.nan
-
     res["Revenue_Growth"] = _income["Revenue Growth (YoY)"].median()
 
     res["Gross_Margin"] = _income["Gross Margin"].median()

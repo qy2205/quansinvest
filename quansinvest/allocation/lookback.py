@@ -105,69 +105,78 @@ def get_asset_performance(result, asset="XLU", benchmark="SPY"):
     })
 
 
-def get_buy_in_advance_results(results, symbol="XLU", visual=False, remove_periods=None):
+def visualize_sensitivity_results(sensitivity_results, symbol="INTU", visual=True, remove_periods=None):
     """
-    :param results: {"buy_in_advance_0_days": rank_result: pd.DataFrame}
+    :param sensitivity_results: from out of sample analysis
     :param symbol:
     :param visual:
     :param remove_periods
     :return:
     """
     # get original periods
-    no_adjusted_key = "buy_in_advance_0_days"
-    for key in results.keys():
-        if key.endswith("_0_days"):
-            no_adjusted_key = key
-            break
-    original_periods = get_asset_performance(results[no_adjusted_key], symbol)["periods"].values
+    original_periods = get_asset_performance(
+        sensitivity_results["start0_end0"].loc["train_raw_results"].iloc[-1],
+        symbol
+    )["periods"].values
 
-    # # reformat data -> dataframe
-    # period_returns = []
-    # max_drawdowns = []
-    # keys = []
-    # for k, res in results.items():
-    #     symbol_perf = get_asset_performance(results[k], symbol)
-    #     period_returns.append(symbol_perf[f"{symbol}_period_returns"].mean())
-    #     max_drawdowns.append(symbol_perf[f"{symbol}_max_drawdowns"].mean())
-    #     keys.append(k)
+    period_res_dfs = []
+    for time_period, res in sensitivity_results.items():
+        start_adj, end_adj = time_period.split("_")
+        start_adj = int(start_adj.split("start")[-1])
+        end_adj = int(end_adj.split("end")[-1])
+        period_res = get_asset_performance(res.loc["train_raw_results"].iloc[-1], symbol)
+        period_res["start_adj"] = start_adj
+        period_res["end_adj"] = end_adj
+        period_res["original_periods"] = original_periods[:len(period_res)]
 
-    # visual
-    dfs = []
-    for buytime in results.keys():
-        _df = get_asset_performance(results[buytime], symbol)
-        _df["buytime"] = buytime
-        _df["original_periods"] = original_periods[:len(_df)]
+        # remove some periods
         if remove_periods is not None:
-            _df = _df[_df["original_periods"].map(lambda x: x[0] not in remove_periods)]
-        _df["buy_in_advance"] = _df["buytime"].map(lambda x: x.split("_")[-2])
-        dfs.append(_df)
+            period_res = period_res[period_res["original_periods"].map(lambda x: x[0] not in remove_periods)]
 
-    if visual:
-        # return
+        period_res_dfs.append(period_res)
+
+    period_res_df = pd.concat(period_res_dfs)
+
+    # buy time adj and sell time adj summary
+    start_adj_summary = period_res_df.groupby("start_adj")[
+        [f"{symbol}_period_returns", f"{symbol}_max_drawdowns"]
+    ].describe()
+    end_adj_summary = period_res_df.groupby("end_adj")[
+        [f"{symbol}_period_returns", f"{symbol}_max_drawdowns"]
+    ].describe()
+
+    def visualize_return_drawdown(data, x_name):
         plt.figure(figsize=(16, 6))
         graph = sns.scatterplot(
-            data=pd.concat(dfs),
-            x="buy_in_advance",
+            data=data,
+            x=x_name,
             y=f"{symbol}_period_returns",
             hue="original_periods",
-            # style="periods"
+            # marker="+",
+            s=75,
         )
         graph.axhline(0, color="red", linestyle="--")
         graph.axhline(0.1, color="green", linestyle="--")
         graph.axhline(0.2, color="green", linestyle="--")
-        plt.show()
 
-        # maxdraw down
-        plt.figure(figsize=(16, 6))
-        graph = sns.scatterplot(
-            data=pd.concat(dfs),
-            x="buy_in_advance",
+        drawdown_graph = sns.scatterplot(
+            data=data,
+            x=x_name,
             y=f"{symbol}_max_drawdowns",
             hue="original_periods",
-            # style="periods"
+            marker="*",
+            s=200,
+            legend=False,
         )
-        graph.axhline(0, color="green", linestyle="--")
-        graph.axhline(-0.15, color="red", linestyle="--")
+        drawdown_graph.axhline(-0.1, color="red", linestyle="--")
+        drawdown_graph.axhline(-0.2, color="red", linestyle="--")
+
         plt.show()
 
-    return pd.concat(dfs)
+    if visual:
+        start_adj_res = period_res_df[period_res_df["end_adj"] == 0]
+        end_adj_res = period_res_df[period_res_df["start_adj"] == 0]
+        visualize_return_drawdown(start_adj_res, "start_adj")
+        visualize_return_drawdown(end_adj_res, "end_adj")
+
+    return period_res_df, start_adj_summary, end_adj_summary

@@ -3,6 +3,7 @@ from setuptools import setup
 setup(
     name='quansinvest',
     version='0.1',
+    package_data={'quansinvest': ['resources/*.csv']},
     packages=[
         'quansinvest',
         'quansinvest.data',
@@ -12,7 +13,8 @@ setup(
         'quansinvest.statistics', 'quansinvest.statistics.static', 'quansinvest.statistics.static.indicators',
         'quansinvest.statistics.forward', 'quansinvest.statistics.forward.patterns',
         'quansinvest.stockvaluation',
-        'quansinvest.utils'
+        'quansinvest.utils',
+        'quansinvest.resources'
     ],
     url='',
     license='',
@@ -20,3 +22,4 @@ setup(
     author_email='quanyuan821@gmail.com',
     description='Investor Toolkit'
 )
+
