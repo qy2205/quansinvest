@@ -37,7 +37,7 @@ class MaxLoss(BaseMetrics):
         if len(filtered_data) == 0:
             max_loss = None
         else:
-            open_price = filtered_data.iloc[0][ADJ_CLOSE_PRICE_COLUMN_NAME]
-            max_loss = (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].min() - open_price)/open_price
+            open_price = filtered_data.iloc[0][price_col]
+            max_loss = (filtered_data[price_col].min() - open_price)/open_price
 
         return max_loss

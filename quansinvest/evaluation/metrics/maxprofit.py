@@ -37,7 +37,7 @@ class MaxProfit(BaseMetrics):
         if len(filtered_data) == 0:
             max_profit = None
         else:
-            open_price = filtered_data.iloc[0][ADJ_CLOSE_PRICE_COLUMN_NAME]
-            max_profit = (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].max() - open_price)/open_price
+            open_price = filtered_data.iloc[0][price_col]
+            max_profit = (filtered_data[price_col].max() - open_price)/open_price
 
         return max_profit

@@ -49,17 +49,8 @@ class MaxDrawDown(BaseMetrics):
         if len(filtered_data) == 0:
             max_drawdown, drawdown_series = None, None
         else:
-            # method 1
-            # drawdown_series = (
-            #     (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME] -
-            #      filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()) /
-            #     filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()
-            # )
-            # max_drawdown = drawdown_series.min()
-
-            # method 2
-            start_price = filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].iloc[0]
-            min_price = filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].min()
+            start_price = filtered_data[price_col].iloc[0]
+            min_price = filtered_data[price_col].min()
             max_drawdown = (min_price - start_price)/start_price
             drawdown_series = None
 
@@ -114,9 +105,9 @@ class MaxDrawDownFromHigh(BaseMetrics):
         else:
             # method 1
             drawdown_series = (
-                (filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME] -
-                 filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()) /
-                filtered_data[ADJ_CLOSE_PRICE_COLUMN_NAME].expanding().max()
+                (filtered_data[price_col] -
+                 filtered_data[price_col].expanding().max()) /
+                filtered_data[price_col].expanding().max()
             )
             max_drawdown = drawdown_series.min()
 
